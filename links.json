@@ -15,16 +15,41 @@
     "link": "https://explore.jobs.netflix.net/careers?query=internship&pid=790313055767&domain=netflix.com&sort_by=new&triggerGoButton=false",
     "tag": ".position-card"
   },
-  "Bloomberg": {
-    "link": "https://bloomberg.avature.net/careers/SearchJobs/?1845=%5B162508%2C162484%5D&1845_format=3996&1686=%5B55479%5D&1686_format=2312&2562=%5B219290%5D&2562_format=6594&listFilterMode=1&jobRecordsPerPage=12&",
-    "tag": ".article--result .article__header__text__title a.link"
-  },
+
   "Salesforce": {
     "link": "https://careers.salesforce.com/en/jobs/?search=&team=Software+Engineering&jobtype=Intern&pagesize=20#results",
     "tag": "a.stretched-link.js-view-job"
   },
-  "Doordash": {
-    "link": "https://careersatdoordash.com/university-careers/",
+  "Bloomberg": {
+    "link": "https://bloomberg.avature.net/careers/SearchJobs/?1845=%5B162508%2C162484%5D&1845_format=3996&1686=%5B55479%5D&1686_format=2312&2562=%5B219290%5D&2562_format=6594&listFilterMode=1&jobRecordsPerPage=12&",
+    "tag": ".article--result .article__header__text__title a.link"
+  },
+  "Coinbase": {
+    "link": "https://www.coinbase.com/en-ca/careers/positions?department=Internships+%26+Emerging+Talent+Positions&location=all&search=software",
+    "tag": "a[href*='/careers/positions/']"
+  },
+  "DoorDash": {
+    "link": "https://careersatdoordash.com/job-search/?department=&job_ids=&location=&intern=1&function=Software%20Engineering%7C&spage=1",
     "tag": ".job-item .title-container .value a"
+  },
+  "Stripe": {
+    "link": "https://stripe.com/jobs/search?query=software&office_locations=North+America--Atlanta&office_locations=North+America--Chicago&office_locations=North+America--Mexico+City&office_locations=North+America--New+York&office_locations=North+America--San+Francisco+Bridge+HQ&office_locations=North+America--Seattle&office_locations=North+America--South+San+Francisco&office_locations=North+America--Toronto&office_locations=North+America--Washington+DC&tags=University",
+    "tag": "a.JobsListings__link"
+  },
+  "Ramp": {
+    "link": "https://ramp.com/emerging-talent#jobs",
+    "tag": "a[href*=\"jobs.ashbyhq.com\"]"
+  },
+  "Riot": {
+    "link": "https://www.riotgames.com/en/university-programs#search=software",
+    "tag": "a.job-row__inner"
+  },
+  "Roblox": {
+    "link": "https://careers.roblox.com/jobs?search=software&groups=early-career-talent",
+    "tag": ".share-list-item_IF16h a"
+  },
+  "Discord": {
+    "link": "https://discord.com/careers#all-jobs",
+    "tag": "a.job-item"
   }
 }

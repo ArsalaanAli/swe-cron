@@ -17,11 +17,6 @@ def load_sites() -> Dict[str, Dict[str, str]]:
 
 
 def normalize_selector(tag: Optional[str]) -> Optional[str]:
-	"""Convert a plain token into a class selector; otherwise return tag.
-
-	If tag already contains selector characters (like '.' or '#'), it's
-	returned unchanged. If tag is empty or None, returns None.
-	"""
 	if not tag:
 		return None
 	t = tag.strip()
@@ -34,19 +29,17 @@ def normalize_selector(tag: Optional[str]) -> Optional[str]:
 
 
 def scrape_sites(sites: Dict[str, Dict[str, str]]) -> List[Dict[str, Optional[str]]]:
-	# Import here so script can fail with a clear message if Playwright
-	# isn't installed (we avoid catching other errors to keep code simple).
 	try:
 		from playwright.sync_api import sync_playwright
 	except ImportError:
-		print("Playwright is not installed. Install with: pip install -r requirements.txt")
-		print("Then run: python -m playwright install")
+		print("Playwright is not installed.")
 		sys.exit(2)
 
 	results: List[Dict[str, Optional[str]]] = []
 	with sync_playwright() as p:
 		browser = p.chromium.launch(headless=True)
-		for site_name, cfg in list(sites.items())[-1:]:#ONLY SELECTING LAST FOR TESTING
+		# for site_name, cfg in list(sites.items())[-1:]:#ONLY SELECTING LAST FOR TESTING
+		for site_name, cfg in sites.items():
 			url = cfg.get("link")
 			tag = cfg.get("tag")
 			selector = normalize_selector(tag)
@@ -55,13 +48,30 @@ def scrape_sites(sites: Dict[str, Dict[str, str]]) -> List[Dict[str, Optional[st
 				print(f"  Skipping {site_name}: missing link or tag")
 				continue
 
-			page = browser.new_page()
+			stealth_browser = None
+			context = None
+			UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"
+			try:
+				stealth_browser = p.chromium.launch(headless=True, channel="chrome", args=["--disable-blink-features=AutomationControlled", "--disable-infobars", "--no-sandbox", "--disable-dev-shm-usage"], slow_mo=0)
+				context = stealth_browser.new_context(user_agent=UA, viewport={"width":1280, "height":800}, locale="en-US")
+				context.add_init_script("() => { Object.defineProperty(navigator, 'webdriver', {get: () => undefined}); Object.defineProperty(navigator, 'languages', {get: () => ['en-US','en']}); Object.defineProperty(navigator, 'plugins', {get: () => [1,2,3]}); window.chrome = { runtime: {} }; }")
+				context.set_extra_http_headers({"Accept-Language": "en-US,en;q=0.9"})
+				page = context.new_page()
+			except Exception:
+				try:
+					stealth_browser = p.chromium.launch(headless=True, args=["--disable-blink-features=AutomationControlled", "--disable-infobars", "--no-sandbox"], slow_mo=0)
+					context = stealth_browser.new_context(user_agent=UA, viewport={"width":1280, "height":800}, locale="en-US")
+					context.add_init_script("() => { Object.defineProperty(navigator, 'webdriver', {get: () => undefined}); Object.defineProperty(navigator, 'languages', {get: () => ['en-US','en']}); Object.defineProperty(navigator, 'plugins', {get: () => [1,2,3]}); window.chrome = { runtime: {} }; }")
+					context.set_extra_http_headers({"Accept-Language": "en-US,en;q=0.9"})
+					page = context.new_page()
+				except Exception as e2:
+					print(f"  Failed to start headless-stealth browser for site {site_name}: {e2}")
+					page = browser.new_page()
 			page.goto(url, wait_until="domcontentloaded", timeout=60000)
+
+
 			page.wait_for_timeout(2000)
 
-			# Wait for the configured selector to appear — some sites load
-			# content asynchronously. If the wait times out we'll still try
-			# querying the DOM so we can print diagnostics.
 			try:
 				page.wait_for_selector(selector, timeout=5000)
 			except Exception:
@@ -70,37 +80,17 @@ def scrape_sites(sites: Dict[str, Dict[str, str]]) -> List[Dict[str, Optional[st
 			elems = page.query_selector_all(selector)
 			print(f"  Found {len(elems)} elements using selector '{selector}'")
 
-			# If nothing matched, try a couple of sensible fallbacks for
-			# Bloomberg-like markup so we can diagnose selector problems.
-			if not elems:
-				fallback = "article.article--result a.link"
-				elems = page.query_selector_all(fallback)
-				if elems:
-					print(f"  Fallback matched {len(elems)} elements: '{fallback}'")
-				else:
-					fallback2 = "a.link[href*='JobDetail']"
-					elems = page.query_selector_all(fallback2)
-					if elems:
-						print(f"  Fallback2 matched {len(elems)} elements: '{fallback2}'")
-					else:
-						print(f"  No elements matched for {site_name} (tried selector and fallbacks).")
-						page.close()
-						continue
 			for el in elems:
-				# First, try to find an h3 inside the element (works for Meta/Google)
 				title = el.evaluate("el => { const h3 = el.querySelector('h3'); return h3 ? h3.innerText : '' }")
 				title = (title or "").strip()
 				
-				# Try .position-title for Netflix
 				if not title:
 					title = el.evaluate("el => { const pos = el.querySelector('.position-title'); return pos ? pos.innerText : '' }")
 					title = (title or "").strip()
 				
-				# If no title found yet, use the element's direct text
 				if not title:
 					title = (el.inner_text() or "").strip()
 				
-				# Get href: try direct attribute first, then look for nested <a>, then closest <a>
 				href = el.get_attribute("href")
 				if not href:
 					href = el.evaluate("el => { const a = el.querySelector('a'); return a ? a.href : null }")
@@ -109,8 +99,7 @@ def scrape_sites(sites: Dict[str, Dict[str, str]]) -> List[Dict[str, Optional[st
 				
 				if not title:
 					continue
-				if "intern" in title.lower() or site_name == "":
-					# Convert relative URLs to absolute
+				if "intern" in title.lower() or "grad" in title.lower() or "early" in title.lower() or site_name.lower() == "":
 					if href and not href.startswith("http"):
 						from urllib.parse import urljoin
 						base_url = url.split("?")[0] if "?" in url else url
@@ -118,6 +107,16 @@ def scrape_sites(sites: Dict[str, Dict[str, str]]) -> List[Dict[str, Optional[st
 					results.append({"site": site_name, "title": title, "url": href})
 
 			page.close()
+			try:
+				if context:
+					context.close()
+			except Exception:
+				pass
+			try:
+				if stealth_browser:
+					stealth_browser.close()
+			except Exception:
+				pass
 		browser.close()
 
 	return results
@@ -155,7 +154,7 @@ def find_new_listings(current: List[Dict[str, Optional[str]]], existing: List[Di
 	return new
 
 
-def save_listings(jobs: List[Dict[str, Optional[str]]]) -> None:
+def save_listings(jobs: List[Dict[str, Optional[str]]]) -> None:	
 	with LISTINGS_PATH.open("w", encoding="utf-8") as fh:
 		json.dump(jobs, fh, indent=2, ensure_ascii=False)
 
@@ -167,7 +166,6 @@ def main() -> None:
 	jobs = scrape_sites(sites)
 	unique = dedupe_jobs(jobs)
 
-	# If not writing, just print the scraped (deduplicated) listings and exit.
 	if not write:
 		if not unique:
 			print("No intern postings found (scraped results empty).")
@@ -177,7 +175,6 @@ def main() -> None:
 			print(f"- [{job['site']}] {job['title']} -> {job['url']}")
 		return
 
-	# Only reached when --write is provided: load existing listings and persist new ones.
 	existing = load_listings()
 	new_listings = find_new_listings(unique, existing)
 
@@ -189,7 +186,6 @@ def main() -> None:
 	for job in new_listings:
 		print(f"- [{job['site']}] {job['title']} -> {job['url']}")
 
-	# Append new listings to the document
 	all_listings = existing + new_listings
 	save_listings(all_listings)
 	print(f"\nListings saved. Total postings: {len(all_listings)}")
