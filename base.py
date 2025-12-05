@@ -46,7 +46,7 @@ def scrape_sites(sites: Dict[str, Dict[str, str]]) -> List[Dict[str, Optional[st
 	results: List[Dict[str, Optional[str]]] = []
 	with sync_playwright() as p:
 		browser = p.chromium.launch(headless=True)
-		for site_name, cfg in sites.items():
+		for site_name, cfg in list(sites.items())[-1:]:#ONLY SELECTING LAST FOR TESTING
 			url = cfg.get("link")
 			tag = cfg.get("tag")
 			selector = normalize_selector(tag)
@@ -59,7 +59,33 @@ def scrape_sites(sites: Dict[str, Dict[str, str]]) -> List[Dict[str, Optional[st
 			page.goto(url, wait_until="domcontentloaded", timeout=60000)
 			page.wait_for_timeout(2000)
 
+			# Wait for the configured selector to appear — some sites load
+			# content asynchronously. If the wait times out we'll still try
+			# querying the DOM so we can print diagnostics.
+			try:
+				page.wait_for_selector(selector, timeout=5000)
+			except Exception:
+				pass
+
 			elems = page.query_selector_all(selector)
+			print(f"  Found {len(elems)} elements using selector '{selector}'")
+
+			# If nothing matched, try a couple of sensible fallbacks for
+			# Bloomberg-like markup so we can diagnose selector problems.
+			if not elems:
+				fallback = "article.article--result a.link"
+				elems = page.query_selector_all(fallback)
+				if elems:
+					print(f"  Fallback matched {len(elems)} elements: '{fallback}'")
+				else:
+					fallback2 = "a.link[href*='JobDetail']"
+					elems = page.query_selector_all(fallback2)
+					if elems:
+						print(f"  Fallback2 matched {len(elems)} elements: '{fallback2}'")
+					else:
+						print(f"  No elements matched for {site_name} (tried selector and fallbacks).")
+						page.close()
+						continue
 			for el in elems:
 				# First, try to find an h3 inside the element (works for Meta/Google)
 				title = el.evaluate("el => { const h3 = el.querySelector('h3'); return h3 ? h3.innerText : '' }")
@@ -83,7 +109,7 @@ def scrape_sites(sites: Dict[str, Dict[str, str]]) -> List[Dict[str, Optional[st
 				
 				if not title:
 					continue
-				if "intern" in title.lower():
+				if "intern" in title.lower() or site_name == "":
 					# Convert relative URLs to absolute
 					if href and not href.startswith("http"):
 						from urllib.parse import urljoin
@@ -135,14 +161,24 @@ def save_listings(jobs: List[Dict[str, Optional[str]]]) -> None:
 
 
 def main() -> None:
+	write = "--write" in sys.argv
+
 	sites = load_sites()
 	jobs = scrape_sites(sites)
 	unique = dedupe_jobs(jobs)
 
-	# Load existing listings
+	# If not writing, just print the scraped (deduplicated) listings and exit.
+	if not write:
+		if not unique:
+			print("No intern postings found (scraped results empty).")
+			return
+		print(f"\n{len(unique)} intern job postings (scraped):")
+		for job in unique:
+			print(f"- [{job['site']}] {job['title']} -> {job['url']}")
+		return
+
+	# Only reached when --write is provided: load existing listings and persist new ones.
 	existing = load_listings()
-	
-	# Find only new listings
 	new_listings = find_new_listings(unique, existing)
 
 	if not new_listings:
