@@ -1,0 +1,18 @@
+{
+  "Amazon": {
+    "link": "https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=relevant&country%5B%5D=USA&country%5B%5D=CAN&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=software%20engineer%20intern&city=&country=&region=&county=&query_options=&",
+    "tag": ".job-title a"
+  },
+  "Google": {
+    "link": "https://www.google.com/about/careers/applications/jobs/results?location=United%20States&location=Canada&q=software&target_level=INTERN_AND_APPRENTICE#!t=jo&jid=127025001&",
+    "tag": ".Ln1EL a"
+  },
+  "Meta": {
+    "link": "https://www.metacareers.com/jobsearch?teams[0]=University%20Grad%20-%20Business&teams[1]=University%20Grad%20-%20Engineering%2C%20Tech%20%26%20Design&teams[2]=University%20Grad%20-%20PhD%20%26%20Postdoc&sort_by_new=true&q=software%20engineer%20intern&roles[0]=Internship",
+    "tag": "a[href*='/profile/job_details/']"
+  },
+  "Netflix": {
+    "link": "https://explore.jobs.netflix.net/careers?query=internship&pid=790313055767&domain=netflix.com&sort_by=new&triggerGoButton=false",
+    "tag": ".position-card"
+  }
+}
