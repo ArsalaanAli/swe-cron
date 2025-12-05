@@ -1,7 +1,16 @@
 import json
+import os
 import sys
 from pathlib import Path
 from typing import Dict, List, Optional
+try:
+	import requests
+except ImportError:
+	requests = None
+try:
+	from dotenv import load_dotenv
+except ImportError:
+	load_dotenv = None
 
 
 CONFIG_PATH = Path(__file__).with_name("links.json")
@@ -159,7 +168,72 @@ def save_listings(jobs: List[Dict[str, Optional[str]]]) -> None:
 		json.dump(jobs, fh, indent=2, ensure_ascii=False)
 
 
+def send_sms(
+	to_number: str,
+	message: str,
+	api_key: str,
+	from_number: str
+) -> bool:
+	"""
+	Send an SMS message using the Telnyx API.
+	
+	Args:
+		to_number: Recipient phone number in E.164 format (e.g., +1234567890)
+		message: The SMS message text to send
+		api_key: Telnyx API key for authentication
+		from_number: Sender phone number in E.164 format (your Telnyx number)
+	
+	Returns:
+		True if SMS was sent successfully, False otherwise
+	"""
+	if requests is None:
+		print("Error: requests library is not installed. Install it with: pip install requests")
+		return False
+	
+	url = "https://api.telnyx.com/v2/messages"
+	headers = {
+		"Authorization": f"Bearer {api_key}",
+		"Content-Type": "application/json"
+	}
+	payload = {
+		"from": from_number,
+		"to": to_number,
+		"text": message
+	}
+	
+	try:
+		response = requests.post(url, json=payload, headers=headers, timeout=10)
+		response.raise_for_status()
+		print(f"SMS sent successfully to {to_number}")
+		return True
+	except requests.exceptions.RequestException as e:
+		print(f"Error sending SMS: {e}")
+		if hasattr(e, 'response') and e.response is not None:
+			try:
+				error_detail = e.response.json()
+				print(f"Error details: {error_detail}")
+			except Exception:
+				print(f"Response status: {e.response.status_code}")
+				print(f"Response text: {e.response.text}")
+		return False
+
+
 def main() -> None:
+	# Load environment variables from .env file
+	if load_dotenv is not None:
+		load_dotenv()
+	else:
+		print("Warning: python-dotenv not installed. Install it with: pip install python-dotenv")
+	
+	# Load Telnyx configuration from environment variables
+	telnyx_api_key = os.getenv("TELNYX_API_KEY")
+	telnyx_from_number = os.getenv("TELNYX_FROM_NUMBER")
+	telnyx_to_number = os.getenv("TELNYX_TO_NUMBER")
+
+	if not telnyx_api_key or not telnyx_from_number or not telnyx_to_number:
+		print("telnyx configuration not found in .env file")
+		sys.exit(1)
+		
 	write = "--write" in sys.argv
 
 	sites = load_sites()
