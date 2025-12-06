@@ -29,9 +29,8 @@ jobs:
 
       - name: Run base.py
         env:
-          TELNYX_API_KEY: ${{ secrets.TELNYX_API_KEY }}
-          TELNYX_FROM_NUMBER: ${{ vars.TELNYX_FROM_NUMBER }}
-          TELNYX_TO_NUMBER: ${{ vars.TELNYX_TO_NUMBER }}
+          PUSHOVER_TOKEN: ${{ secrets.PUSHOVER_TOKEN }}
+          PUSHOVER_USER: ${{ secrets.PUSHOVER_USER }}
         run: python base.py --write
 
       - name: Commit & push changes
