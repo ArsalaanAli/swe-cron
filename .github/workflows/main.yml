@@ -1,0 +1,45 @@
+name: Run swe cron twice daily
+
+on:
+  schedule:
+    - cron: "0 13 * * *"   # 8 AM EST
+    - cron: "0 1 * * *"    # 8 PM EST
+  workflow_dispatch: {}     # manual trigger allowed
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: Run base.py
+        env:
+          TELNYX_API_KEY: ${{ secrets.TELNYX_API_KEY }}
+          TELNYX_FROM_NUMBER: ${{ secrets.TELNYX_FROM_NUMBER }}
+          TELNYX_TO_NUMBER: ${{ secrets.TELNYX_TO_NUMBER }}
+        run: python base.py
+
+      - name: Commit & push changes
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+
+          if [ -n "$(git status --porcelain)" ]; then
+            git add -A
+            git commit -m "Automated update from swe cron"
+            git push
+          else
+            echo "No changes to commit"
+          fi
