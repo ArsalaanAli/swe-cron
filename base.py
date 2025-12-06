@@ -168,48 +168,45 @@ def save_listings(jobs: List[Dict[str, Optional[str]]]) -> None:
 		json.dump(jobs, fh, indent=2, ensure_ascii=False)
 
 
-def send_sms(
-	to_number: str,
+def send_pushover(
 	message: str,
-	api_key: str,
-	from_number: str
+	token: str,
+	user: str,
+	title: str = "SWE Cron"
 ) -> bool:
 	"""
-	Send an SMS message using the Telnyx API.
+	Send a notification using the Pushover API.
 	
 	Args:
-		to_number: Recipient phone number in E.164 format (e.g., +1234567890)
-		message: The SMS message text to send
-		api_key: Telnyx API key for authentication
-		from_number: Sender phone number in E.164 format (your Telnyx number)
+		message: The notification message text to send
+		token: Pushover application token
+		user: Pushover user key
+		title: Optional title for the notification (default: "SWE Cron")
 	
 	Returns:
-		True if SMS was sent successfully, False otherwise
+		True if notification was sent successfully, False otherwise
 	"""
 	if requests is None:
 		print("Error: requests library is not installed. Install it with: pip install requests")
 		return False
 	
-	url = "https://api.telnyx.com/v2/messages"
-	headers = {
-		"Authorization": f"Bearer {api_key}",
-		"Content-Type": "application/json"
-	}
+	url = "https://api.pushover.net/1/messages.json"
 	payload = {
-		"from": from_number,
-		"to": to_number,
-		"text": message
+		"token": token,
+		"user": user,
+		"message": message,
+		"title": title
 	}
 			
 	try:
-		response = requests.post(url, json=payload, headers=headers, timeout=10)
+		response = requests.post(url, data=payload, timeout=10)
 		response_json = response.json()
-		print(f"Telnyx API Response Body: {json.dumps(response_json, indent=2)}")
+		print(f"Pushover API Response Body: {json.dumps(response_json, indent=2)}")
 		response.raise_for_status()
-		print(f"SMS sent successfully to {to_number}")
+		print(f"Notification sent successfully")
 		return True
 	except requests.exceptions.RequestException as e:
-		print(f"Error sending SMS: {e}")
+		print(f"Error sending notification: {e}")
 		if hasattr(e, 'response') and e.response is not None:
 			try:
 				error_detail = e.response.json()
@@ -219,24 +216,16 @@ def send_sms(
 				print(f"Response text: {e.response.text}")
 		return False
 
-def sms_new_listings(new_listings: List[Dict[str, Optional[str]]], telnyx_to_number: str, telnyx_api_key: str, telnyx_from_number: str) -> None:
-	#group listings by site: number of listings
-	site_listings = {}
+def notify_new_listings(new_listings: List[Dict[str, Optional[str]]], pushover_token: str, pushover_user: str) -> None:
+	#send a notification containing details for each new listing
+	message = "SWE Cron - New Listings:\n\n"
 	for listing in new_listings:
-		site = listing["site"]
-		if site not in site_listings:
-			site_listings[site] = 0
-		site_listings[site] += 1
-	
-	#send a single sms containing the number of listings for each site
-	message = "SWE Cron:\n"
-	for site, count in site_listings.items():
-		if count == 1:
-			message += f"{site}: {count} new listing\n"
-		else:
-			message += f"{site}: {count} new listings\n"
+		site = listing.get("site", "Unknown")
+		title = listing.get("title", "No title")
+		url = listing.get("url", "")
+		message += f"[{site}]\n{title}\n{url}\n\n"
 	print(message)
-	send_sms(telnyx_to_number, message, telnyx_api_key, telnyx_from_number)
+	send_pushover(message, pushover_token, pushover_user)
 
 def main() -> None:
 	# Load environment variables from .env file
@@ -245,13 +234,12 @@ def main() -> None:
 	else:
 		print("Warning: python-dotenv not installed. Install it with: pip install python-dotenv")
 	
-	# Load Telnyx configuration from environment variables
-	telnyx_api_key = os.getenv("TELNYX_API_KEY")
-	telnyx_from_number = os.getenv("TELNYX_FROM_NUMBER")
-	telnyx_to_number = os.getenv("TELNYX_TO_NUMBER")
+	# Load Pushover configuration from environment variables
+	pushover_token = os.getenv("PUSHOVER_TOKEN")
+	pushover_user = os.getenv("PUSHOVER_USER")
 
-	if not telnyx_api_key or not telnyx_from_number or not telnyx_to_number:
-		print("telnyx configuration not found in .env file")
+	if not pushover_token or not pushover_user:
+		print("Pushover configuration not found in .env file")
 		sys.exit(1)
 		
 	write = "--write" in sys.argv
@@ -280,7 +268,7 @@ def main() -> None:
 	# for job in new_listings:
 	# 	print(f"- [{job['site']}] {job['title']} -> {job['url']}")
 
-	sms_new_listings(new_listings, telnyx_to_number, telnyx_api_key, telnyx_from_number)
+	notify_new_listings(new_listings, pushover_token, pushover_user)
 
 	all_listings = existing + new_listings
 	save_listings(all_listings)
