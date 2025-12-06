@@ -47,8 +47,8 @@ def scrape_sites(sites: Dict[str, Dict[str, str]]) -> List[Dict[str, Optional[st
 	results: List[Dict[str, Optional[str]]] = []
 	with sync_playwright() as p:
 		browser = p.chromium.launch(headless=True)
-		# for site_name, cfg in list(sites.items())[-1:]:#ONLY SELECTING LAST FOR TESTING
-		for site_name, cfg in sites.items():
+		for site_name, cfg in list(sites.items())[-1:]:#ONLY SELECTING LAST FOR TESTING
+		# for site_name, cfg in sites.items():
 			url = cfg.get("link")
 			tag = cfg.get("tag")
 			selector = normalize_selector(tag)
@@ -174,18 +174,6 @@ def send_pushover(
 	user: str,
 	title: str = "SWE Cron"
 ) -> bool:
-	"""
-	Send a notification using the Pushover API.
-	
-	Args:
-		message: The notification message text to send
-		token: Pushover application token
-		user: Pushover user key
-		title: Optional title for the notification (default: "SWE Cron")
-	
-	Returns:
-		True if notification was sent successfully, False otherwise
-	"""
 	if requests is None:
 		print("Error: requests library is not installed. Install it with: pip install requests")
 		return False
