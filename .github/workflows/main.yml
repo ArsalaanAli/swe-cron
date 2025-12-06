@@ -2,8 +2,9 @@ name: Run swe cron twice daily
 
 on:
   schedule:
-    - cron: "0 13 * * *"   # 8 AM EST
-    - cron: "0 1 * * *"    # 8 PM EST
+    - cron: "0 16 * * *"   # 11 AM EST
+    - cron: "0 22 * * *"   # 5 PM EST
+    - cron: "0 5 * * *"    # 12 AM EST
   workflow_dispatch: {}     # manual trigger allowed
 
 jobs:
