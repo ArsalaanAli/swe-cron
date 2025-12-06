@@ -200,9 +200,11 @@ def send_sms(
 		"to": to_number,
 		"text": message
 	}
-	
+			
 	try:
 		response = requests.post(url, json=payload, headers=headers, timeout=10)
+		response_json = response.json()
+		print(f"Telnyx API Response Body: {json.dumps(response_json, indent=2)}")
 		response.raise_for_status()
 		print(f"SMS sent successfully to {to_number}")
 		return True
