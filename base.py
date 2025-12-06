@@ -52,7 +52,7 @@ def scrape_sites(sites: Dict[str, Dict[str, str]]) -> List[Dict[str, Optional[st
 			url = cfg.get("link")
 			tag = cfg.get("tag")
 			selector = normalize_selector(tag)
-			print(f"Visiting {site_name}: {url} (selector={selector})")
+			print(f"Visiting {site_name}")
 			if not url or not selector:
 				print(f"  Skipping {site_name}: missing link or tag")
 				continue
@@ -87,7 +87,7 @@ def scrape_sites(sites: Dict[str, Dict[str, str]]) -> List[Dict[str, Optional[st
 				pass
 
 			elems = page.query_selector_all(selector)
-			print(f"  Found {len(elems)} elements using selector '{selector}'")
+			print(f"  Found {len(elems)} postings")
 
 			for el in elems:
 				title = el.evaluate("el => { const h3 = el.querySelector('h3'); return h3 ? h3.innerText : '' }")
@@ -217,6 +217,24 @@ def send_sms(
 				print(f"Response text: {e.response.text}")
 		return False
 
+def sms_new_listings(new_listings: List[Dict[str, Optional[str]]], telnyx_to_number: str, telnyx_api_key: str, telnyx_from_number: str) -> None:
+	#group listings by site: number of listings
+	site_listings = {}
+	for listing in new_listings:
+		site = listing["site"]
+		if site not in site_listings:
+			site_listings[site] = 0
+		site_listings[site] += 1
+	
+	#send a single sms containing the number of listings for each site
+	message = "SWE Cron:\n"
+	for site, count in site_listings.items():
+		if count == 1:
+			message += f"{site}: {count} new listing\n"
+		else:
+			message += f"{site}: {count} new listings\n"
+	print(message)
+	send_sms(telnyx_to_number, message, telnyx_api_key, telnyx_from_number)
 
 def main() -> None:
 	# Load environment variables from .env file
@@ -256,9 +274,11 @@ def main() -> None:
 		print("No new intern postings found.")
 		return
 
-	print(f"\n{len(new_listings)} new intern job postings found:")
-	for job in new_listings:
-		print(f"- [{job['site']}] {job['title']} -> {job['url']}")
+	print(f"\n{len(new_listings)} new intern job postings found")
+	# for job in new_listings:
+	# 	print(f"- [{job['site']}] {job['title']} -> {job['url']}")
+
+	sms_new_listings(new_listings, telnyx_to_number, telnyx_api_key, telnyx_from_number)
 
 	all_listings = existing + new_listings
 	save_listings(all_listings)

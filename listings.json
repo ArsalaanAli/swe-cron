@@ -125,21 +125,6 @@
     "url": null
   },
   {
-    "site": "Netflix",
-    "title": "New Grad Software Engineer (2026)",
-    "url": null
-  },
-  {
-    "site": "Netflix",
-    "title": "Experimentation & Causal Inference Intern, Summer 2026",
-    "url": null
-  },
-  {
-    "site": "Coinbase",
-    "title": "Software Engineer Intern",
-    "url": "https://www.coinbase.com/careers/positions/7268895"
-  },
-  {
     "site": "DoorDash",
     "title": "Machine Learning Intern (PhD) - Summer 2026",
     "url": "https://careersatdoordash.com/jobs/machine-learning-intern-phd---summer-2026/7264631"
@@ -173,11 +158,6 @@
     "site": "Stripe",
     "title": "Software Engineer, Intern",
     "url": "https://stripe.com/jobs/listing/software-engineer-intern/7206389"
-  },
-  {
-    "site": "Stripe",
-    "title": "Software Engineer, Intern (Summer and Winter)",
-    "url": "https://stripe.com/jobs/listing/software-engineer-intern-summer-and-winter/7210115"
   },
   {
     "site": "Stripe",
@@ -231,11 +211,6 @@
   },
   {
     "site": "Ramp",
-    "title": "Software Engineer Internship | Forward Deployed\nNew York, NY (HQ)",
-    "url": "https://jobs.ashbyhq.com/ramp/ccb1aca4-79ac-414b-b7d8-bc908c575ef1"
-  },
-  {
-    "site": "Ramp",
     "title": "Summer 2026 | Economist Intern\nNew York, NY (HQ)",
     "url": "https://jobs.ashbyhq.com/ramp/57e15555-02cb-4b92-a580-e59ae92416be"
   },
@@ -243,6 +218,21 @@
     "site": "Roblox",
     "title": "[2026 Canada] Software Engineer, Early Career\n\nVancouver, British Columbia, Canada\nEarly Career",
     "url": "https://careers.roblox.com/jobs/7206214"
+  },
+  {
+    "site": "Netflix",
+    "title": "Experimentation & Causal Inference Intern, Summer 2026",
+    "url": null
+  },
+  {
+    "site": "Stripe",
+    "title": "Software Engineer, Intern (Summer and Winter)",
+    "url": "https://stripe.com/jobs/listing/software-engineer-intern-summer-and-winter/7210115"
+  },
+  {
+    "site": "Ramp",
+    "title": "Software Engineer Internship | Forward Deployed\nNew York, NY (HQ)",
+    "url": "https://jobs.ashbyhq.com/ramp/ccb1aca4-79ac-414b-b7d8-bc908c575ef1"
   },
   {
     "site": "Roblox",
@@ -263,10 +253,5 @@
     "site": "Roblox",
     "title": "[Summer 2026] Software Engineer Intern\n\nSan Mateo, CA, United States\nEarly Career",
     "url": "https://careers.roblox.com/jobs/7114765"
-  },
-  {
-    "site": "Discord",
-    "title": "Senior Director, Internal Audit",
-    "url": "https://discord.com/jobs/8103520002"
   }
 ]
