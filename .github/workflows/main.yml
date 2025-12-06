@@ -1,4 +1,4 @@
-name: Run swe cron twice daily
+name: Run swe cron daily
 
 on:
   schedule:
