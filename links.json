@@ -59,5 +59,17 @@
   "Pinterest": {
     "link": "https://www.pinterestcareers.com/jobs/?search=software&type=Intern&pagesize=20#results",
     "tag": "a.js-view-job"
+  },
+  "Datadog": {
+    "link": "https://careers.datadoghq.com/all-jobs/?time_type%5B0%5D=Early%20Career&parent_department_Engineering%5B0%5D=Engineering&region_Americas%5B0%5D=Americas",
+    "tag": "a.tw-text-black"
+  },
+  "Waymo": {
+    "link": "https://careers.withwaymo.com/jobs/search?page=1&department_uids%5B%5D=451e57010e816b71a8312792faf5740f&department_uids%5B%5D=fdbec1fdc0be4cd648517ace2b6b0a45&employment_type_uids%5B%5D=fa4c4a8317c6c87309f488cb0d63aa7c&country_codes%5B%5D=US&query=",
+    "tag": "a[id^=\"link_job_title\"]"
+  },
+  "Duolingo": {
+    "link": "https://careers.duolingo.com/?department=Engineering",
+    "tag": "a.A9xxT"
   }
 }
