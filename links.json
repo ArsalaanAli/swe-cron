@@ -1,6 +1,6 @@
 {
   "Amazon": {
-    "link": "https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=relevant&country%5B%5D=USA&country%5B%5D=CAN&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=software%20engineer%20intern&city=&country=&region=&county=&query_options=&",
+    "link": "https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=recent&country%5B%5D=USA&country%5B%5D=CAN&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=software%20engineer%20intern&city=&country=&region=&county=&query_options=&",
     "tag": ".job-title a"
   },
   "Google": {
