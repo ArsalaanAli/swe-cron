@@ -1,7 +1,7 @@
 import json
 import os
 import sys
-from datetime import date
+from datetime import date, timedelta
 from pathlib import Path
 from typing import Dict, List, Optional
 try:
@@ -164,6 +164,29 @@ def find_new_listings(current: List[Dict[str, Optional[str]]], existing: List[Di
 	return new
 
 
+def prune_old_listings(
+	listings: List[Dict[str, Optional[str]]],
+	max_age_days: int = 60
+) -> List[Dict[str, Optional[str]]]:
+	today = date.today()
+	cutoff = today - timedelta(days=max_age_days)
+
+	pruned: List[Dict[str, Optional[str]]] = []
+	for listing in listings:
+		listing_date_str = listing.get("date")
+		if not listing_date_str:
+			pruned.append(listing)
+			continue
+		try:
+			listing_date = date.fromisoformat(str(listing_date_str))
+		except ValueError:
+			pruned.append(listing)
+			continue
+		if listing_date >= cutoff:
+			pruned.append(listing)
+	return pruned
+
+
 def save_listings(jobs: List[Dict[str, Optional[str]]]) -> None:	
 	with LISTINGS_PATH.open("w", encoding="utf-8") as fh:
 		json.dump(jobs, fh, indent=2, ensure_ascii=False)
@@ -264,6 +287,7 @@ def main() -> None:
 	notify_new_listings(new_listings, pushover_token, pushover_user)
 
 	all_listings = new_listings + existing
+	all_listings = prune_old_listings(all_listings)
 	save_listings(all_listings)
 	print(f"\nListings saved. Total postings: {len(all_listings)}")
 
