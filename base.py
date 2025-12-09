@@ -1,6 +1,7 @@
 import json
 import os
 import sys
+from datetime import date
 from pathlib import Path
 from typing import Dict, List, Optional
 try:
@@ -252,13 +253,17 @@ def main() -> None:
 		print("No new intern postings found.")
 		return
 
+	today = date.today().isoformat()
+	for listing in new_listings:
+		listing["date"] = today
+
 	print(f"\n{len(new_listings)} new intern job postings found")
 	# for job in new_listings:
 	# 	print(f"- [{job['site']}] {job['title']} -> {job['url']}")
 
 	notify_new_listings(new_listings, pushover_token, pushover_user)
 
-	all_listings = existing + new_listings
+	all_listings = new_listings + existing
 	save_listings(all_listings)
 	print(f"\nListings saved. Total postings: {len(all_listings)}")
 
