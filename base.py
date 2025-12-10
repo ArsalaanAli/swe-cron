@@ -255,8 +255,34 @@ def main() -> None:
 		sys.exit(1)
 		
 	write = "--write" in sys.argv
+	
+	company_name = None
+	for i, arg in enumerate(sys.argv):
+		if arg == "--company" and i + 1 < len(sys.argv):
+			company_name = sys.argv[i + 1]
+			break
+		elif arg.startswith("--company="):
+			company_name = arg.split("=", 1)[1]
+			break
 
 	sites = load_sites()
+	
+	if company_name:
+		company_lower = company_name.lower()
+		filtered_sites = {}
+		for site_key, site_config in sites.items():
+			if site_key.lower() == company_lower:
+				filtered_sites[site_key] = site_config
+				break
+		
+		if not filtered_sites:
+			print(f"Error: Company '{company_name}' not found in links.json")
+			print(f"Available companies: {', '.join(sites.keys())}")
+			sys.exit(1)
+		
+		sites = filtered_sites
+		print(f"Scraping only: {list(sites.keys())[0]}")
+	
 	jobs = scrape_sites(sites)
 	unique = dedupe_jobs(jobs)
 
