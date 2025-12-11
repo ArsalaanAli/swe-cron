@@ -70,5 +70,25 @@
   "Duolingo": {
     "link": "https://careers.duolingo.com/?department=Engineering",
     "tag": "a.A9xxT"
+  },
+  "Databricks": {
+    "link": "https://www.databricks.com/company/careers/open-positions?department=University%20Recruiting&location=USCA",
+    "tag": "a.text-navy-06"
+  },
+  "Reddit": {
+    "link": "https://redditinc.com/careers?locations=Canada%2CRemote+-+Ontario%2C+Canada%2CToronto%2C+Canada%2CUnited+States%2CChicago%2C+IL%2CLos+Angeles%2C+CA%2CNew+York+City%2C+NY%2CRemote+-+United+States%2CSan+Francisco%2C+CA&search=software+engineer",
+    "tag": ".job a"
+  },
+  "Notion": {
+    "link": "https://www.notion.com/careers?department=engineering#open-positions",
+    "tag": "a.jobPosting_jobLink__VOc2Y"
+  },
+  "Plaid":{
+    "link": "https://plaid.com/careers/?department=Engineering&search=software#search",
+    "tag": "a[href^=\"/careers/openings/\"]"
+  },
+  "Block":{
+    "link": "https://block.xyz/careers/jobs?teams[]=Software%20Engineering",
+    "tag": "a.job"
   }
 }
