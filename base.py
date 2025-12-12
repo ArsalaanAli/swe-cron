@@ -230,12 +230,17 @@ def send_pushover(
 
 def notify_new_listings(new_listings: List[Dict[str, Optional[str]]], pushover_token: str, pushover_user: str) -> None:
 	#send a notification containing details for each new listing
-	message = "SWE Cron - New Listings:\n\n"
+	message = "SWE Cron - New Listings:\n"
+	sites = set()
+	listings = ""
 	for listing in new_listings:
 		site = listing.get("site", "Unknown")
+		sites.add(site)
 		title = listing.get("title", "No title")
 		url = listing.get("url", "")
-		message += f"[{site}]\n{title}\n{url}\n\n"
+		listings += f"[{site}]\n{title}\n{url}\n\n"
+	
+	message += f"{', '.join(sites)}\n\n{listings}"
 	print(message)
 	send_pushover(message, pushover_token, pushover_user)
 
