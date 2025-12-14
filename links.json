@@ -83,12 +83,28 @@
     "link": "https://www.notion.com/careers?department=engineering#open-positions",
     "tag": "a.jobPosting_jobLink__VOc2Y"
   },
-  "Plaid":{
+  "Plaid": {
     "link": "https://plaid.com/careers/?department=Engineering&search=software#search",
     "tag": "a[href^=\"/careers/openings/\"]"
   },
-  "Block":{
+  "Block": {
     "link": "https://block.xyz/careers/jobs?teams[]=Software%20Engineering",
     "tag": "a.job"
+  },
+  "Slack": {
+    "link": "https://slack.com/careers/dept/software-engineering",
+    "tag": "tr.for-desktop-only--table-row a.o-section--feature__link"
+  },
+  "Figma": {
+    "link": "https://www.figma.com/careers/#job-openings",
+    "tag": "ul[aria-labelledby=\"early-career\"] a"
+  },
+  "Ripple": {
+    "link": "https://ripple.com/careers/all-jobs/?location=Toronto%2C+Canada&location=San+Francisco%2C+CA%2C+United+States&department=Engineering",
+    "tag": "a[href^=\"/careers/all-jobs/job/\"]"
+  },
+  "Dropbox": {
+    "link": "https://jobs.dropbox.com/all-jobs",
+    "tag": "a.open-positions__listing-link"
   }
 }
