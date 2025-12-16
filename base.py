@@ -106,7 +106,7 @@ def scrape_sites(sites: Dict[str, Dict[str, str]]) -> List[Dict[str, Optional[st
 					href = el.evaluate("el => { const a = el.querySelector('a'); return a ? a.href : null }")
 				if not href:
 					href = el.evaluate("el => { const a = el.closest('a'); return a ? a.href : null }")
-				
+				# print(title) #FOR TESTING
 				if not title:
 					continue
 				if "intern" in title.lower() or "grad" in title.lower() or "early" in title.lower() or site_name.lower() == "":
