@@ -1,5 +1,305 @@
 [
   {
+    "site": "Amazon",
+    "title": "2026 Annapurna Labs at AWS Internships (US) - Machine Learning Systems & Silicon Innovation",
+    "url": "https://www.amazon.jobs/en/jobs/3137672/2026-annapurna-labs-at-aws-internships-us-machine-learning-systems-silicon-innovation",
+    "date": "2026-02-10"
+  },
+  {
+    "site": "Amazon",
+    "title": "Robotics - Software Development Engineer Intern - 2026 - Toronto",
+    "url": "https://www.amazon.jobs/en/jobs/3136815/robotics-software-development-engineer-intern-2026-toronto",
+    "date": "2026-02-10"
+  },
+  {
+    "site": "Amazon",
+    "title": "Robotics - Software Development Engineer Intern/Co-op - 2026",
+    "url": "https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026",
+    "date": "2026-02-10"
+  },
+  {
+    "site": "Amazon",
+    "title": "Software Development Engineer Internship - Summer 2026 (US)",
+    "url": "https://www.amazon.jobs/en/jobs/3116030/software-development-engineer-internship-summer-2026-us",
+    "date": "2026-02-10"
+  },
+  {
+    "site": "Amazon",
+    "title": "Software Development Engineer Internship - Summer 2026 (Canada)",
+    "url": "https://www.amazon.jobs/en/jobs/3116034/software-development-engineer-internship-summer-2026-canada",
+    "date": "2026-02-10"
+  },
+  {
+    "site": "Meta",
+    "title": "Research Scientist Intern, AI & System Co-Design (PhD)",
+    "url": "https://www.metacareers.com/profile/job_details/1859723961565682",
+    "date": "2026-02-10"
+  },
+  {
+    "site": "Meta",
+    "title": "Research Scientist Intern, Modern Recommendation Systems (PhD)",
+    "url": "https://www.metacareers.com/profile/job_details/1324858306015206",
+    "date": "2026-02-10"
+  },
+  {
+    "site": "Meta",
+    "title": "Research Scientist Intern, Feed Recommendations (PhD)",
+    "url": "https://www.metacareers.com/profile/job_details/3830966620528119",
+    "date": "2026-02-10"
+  },
+  {
+    "site": "Meta",
+    "title": "Research Scientist Intern, AI & Compute Foundation - MTIA Software (PhD) | Stagiaire chercheur ou chercheuse scientifique, AI & Compute Foundation - MTIA Software (Ph. D)",
+    "url": "https://www.metacareers.com/profile/job_details/2248078652358020",
+    "date": "2026-02-10"
+  },
+  {
+    "site": "Meta",
+    "title": "Research Scientist Intern, Interactive Physics Simulations (PhD)",
+    "url": "https://www.metacareers.com/profile/job_details/1289101459634616",
+    "date": "2026-02-10"
+  },
+  {
+    "site": "Netflix",
+    "title": "Analytics Engineer Intern - Content Decision Sciences and Conversation Scaling, Summer 2026",
+    "url": null,
+    "date": "2026-02-10"
+  },
+  {
+    "site": "Netflix",
+    "title": "Software Engineer PhD Intern, Streaming Algorithms (Summer 2026)",
+    "url": null,
+    "date": "2026-02-10"
+  },
+  {
+    "site": "Netflix",
+    "title": "Data Engineering Intern, Summer 2026",
+    "url": null,
+    "date": "2026-02-10"
+  },
+  {
+    "site": "Netflix",
+    "title": "Machine Learning Engineer Intern, (MS/PhD) 2026",
+    "url": null,
+    "date": "2026-02-10"
+  },
+  {
+    "site": "Netflix",
+    "title": "Analytics Engineering Intern, Summer 2026",
+    "url": null,
+    "date": "2026-02-10"
+  },
+  {
+    "site": "Netflix",
+    "title": "Video Algorithms Intern, Summer 2026",
+    "url": null,
+    "date": "2026-02-10"
+  },
+  {
+    "site": "Netflix",
+    "title": "Machine Learning/AI Scientist Intern (PhD), 2026",
+    "url": null,
+    "date": "2026-02-10"
+  },
+  {
+    "site": "Coinbase",
+    "title": "Software Engineer Intern",
+    "url": "https://www.coinbase.com/careers/positions/7268895",
+    "date": "2026-02-10"
+  },
+  {
+    "site": "DoorDash",
+    "title": "Machine Learning Intern (PhD) - Summer 2026",
+    "url": "https://careersatdoordash.com/jobs/machine-learning-intern-phd---summer-2026/7264631",
+    "date": "2026-02-10"
+  },
+  {
+    "site": "DoorDash",
+    "title": "Machine Learning Intern (Masters) - Summer 2026",
+    "url": "https://careersatdoordash.com/jobs/machine-learning-intern-masters---summer-2026/7295800",
+    "date": "2026-02-10"
+  },
+  {
+    "site": "DoorDash",
+    "title": "Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026)",
+    "url": "https://careersatdoordash.com/jobs/software-engineer-i-entry-level-graduation-date-fall-2025-summer-2026/7264351",
+    "date": "2026-02-10"
+  },
+  {
+    "site": "DoorDash",
+    "title": "Software Engineer, Intern (Summer 2026) - Toronto",
+    "url": "https://careersatdoordash.com/jobs/software-engineer-intern-summer-2026---toronto/7263628",
+    "date": "2026-02-10"
+  },
+  {
+    "site": "Stripe",
+    "title": "Software Engineer, Intern",
+    "url": "https://stripe.com/jobs/listing/software-engineer-intern/7206389",
+    "date": "2026-02-10"
+  },
+  {
+    "site": "Stripe",
+    "title": "Software Engineer, New Grad",
+    "url": "https://stripe.com/jobs/listing/software-engineer-new-grad/7210112",
+    "date": "2026-02-10"
+  },
+  {
+    "site": "Stripe",
+    "title": "Software Engineer, New Grad",
+    "url": "https://stripe.com/jobs/listing/software-engineer-new-grad/7206505",
+    "date": "2026-02-10"
+  },
+  {
+    "site": "Ramp",
+    "title": "University Grad | Customer Experience Agent\nNew York, NY (HQ)",
+    "url": "https://jobs.ashbyhq.com/ramp/fc971889-db1d-4a20-a25e-f282f9296936",
+    "date": "2026-02-10"
+  },
+  {
+    "site": "Ramp",
+    "title": "University Grad | Software Engineer | Frontend\nNew York, NY (HQ)",
+    "url": "https://jobs.ashbyhq.com/ramp/a1229aec-1105-4c47-8533-b912e732ed89",
+    "date": "2026-02-10"
+  },
+  {
+    "site": "Roblox",
+    "title": "[2026] Security Software Engineer - Early Career\n\nSan Mateo, CA, United States\nEarly Career",
+    "url": "https://careers.roblox.com/jobs/7357095",
+    "date": "2026-02-10"
+  },
+  {
+    "site": "Discord",
+    "title": "Senior Director, Internal Audit",
+    "url": "https://discord.com/jobs/8103520002",
+    "date": "2026-02-10"
+  },
+  {
+    "site": "Nvidia",
+    "title": "ASIC Design Engineer - New College Grad 2026\nJR2003628\nUS, CA, Santa Clara",
+    "url": "https://nvidia.eightfold.ai/careers/job/893391566289",
+    "date": "2026-02-10"
+  },
+  {
+    "site": "Nvidia",
+    "title": "Verification Engineer - New College Grad 2026\nJR2004287\nChina, Shanghai",
+    "url": "https://nvidia.eightfold.ai/careers/job/893391498120",
+    "date": "2026-02-10"
+  },
+  {
+    "site": "Nvidia",
+    "title": "Deep Learning Performance Architect - New College Grad 2026\nJR2007916\nChina, Shanghai + 1 more",
+    "url": "https://nvidia.eightfold.ai/careers/job/893392146481",
+    "date": "2026-02-10"
+  },
+  {
+    "site": "Pinterest",
+    "title": "Software Engineering Intern 2026 (Mexico City)",
+    "url": "https://www.pinterestcareers.com/jobs/7263499/software-engineering-intern-2026-mexico-city/?gh_jid=7263499",
+    "date": "2026-02-10"
+  },
+  {
+    "site": "Pinterest",
+    "title": "Master's Machine Learning Internship Summer Term 2026 (Toronto)",
+    "url": "https://www.pinterestcareers.com/jobs/7268767/masters-machine-learning-internship-summer-term-2026-toronto/?gh_jid=7268767",
+    "date": "2026-02-10"
+  },
+  {
+    "site": "Pinterest",
+    "title": "PhD Machine Learning Internship 2026 (USA)",
+    "url": "https://www.pinterestcareers.com/jobs/7211004/phd-machine-learning-internship-2026-usa/?gh_jid=7211004",
+    "date": "2026-02-10"
+  },
+  {
+    "site": "Waymo",
+    "title": "2026 Intern, PhD, Machine Learning Engineer, Simulation",
+    "url": "https://careers.withwaymo.com/jobs/2026-intern-phd-machine-learning-engineer-simulation-mountain-view-california-united-states",
+    "date": "2026-02-10"
+  },
+  {
+    "site": "Waymo",
+    "title": "2026 Summer Intern, MS, Perception",
+    "url": "https://careers.withwaymo.com/jobs/2026-summer-intern-ms-perception-mountain-view-california-united-states-san-francisco",
+    "date": "2026-02-10"
+  },
+  {
+    "site": "Waymo",
+    "title": "2026 Summer Intern, MS/PhD, Perception, Optimization",
+    "url": "https://careers.withwaymo.com/jobs/2026-summer-intern-ms-phd-perception-optimization-mountain-view-california-united-states",
+    "date": "2026-02-10"
+  },
+  {
+    "site": "Waymo",
+    "title": "2026 Summer Intern, MS/PhD, Software Engineer, Planner Reasoning ML/DL",
+    "url": "https://careers.withwaymo.com/jobs/2026-summer-intern-ms-phd-software-engineer-planner-reasoning-ml-dl-mountain-view-california-united-states",
+    "date": "2026-02-10"
+  },
+  {
+    "site": "Waymo",
+    "title": "2026 Summer Intern, MS/PhD, Software Engineer, Predictive Planner Research",
+    "url": "https://careers.withwaymo.com/jobs/2026-summer-intern-ms-phd-software-engineer-predictive-planner-research-mountain-view-california-united-states",
+    "date": "2026-02-10"
+  },
+  {
+    "site": "Waymo",
+    "title": "2026 Summer Intern, PhD, Machine Learning Research, Planning/Prediction",
+    "url": "https://careers.withwaymo.com/jobs/2026-summer-intern-phd-machine-learning-research-planning-prediction-mountain-view-california-united-states",
+    "date": "2026-02-10"
+  },
+  {
+    "site": "Waymo",
+    "title": "2026 Summer Intern, PhD, ML Training Infra and Efficiency",
+    "url": "https://careers.withwaymo.com/jobs/2026-summer-intern-phd-ml-training-infra-and-efficiency-mountain-view-california-united-states",
+    "date": "2026-02-10"
+  },
+  {
+    "site": "Waymo",
+    "title": "2026 Summer Intern, PhD, Perception",
+    "url": "https://careers.withwaymo.com/jobs/2026-summer-intern-phd-perception-mountain-view-california-united-states",
+    "date": "2026-02-10"
+  },
+  {
+    "site": "Waymo",
+    "title": "2026 Summer Intern, PhD, Software Engineer, Predictive Planner ML/DL",
+    "url": "https://careers.withwaymo.com/jobs/2026-summer-intern-phd-software-engineer-predictive-planner-ml-dl-mountain-view-california-united-states",
+    "date": "2026-02-10"
+  },
+  {
+    "site": "Waymo",
+    "title": "2026 Summer Intern, PhD, Software Engineer, Release Evaluation",
+    "url": "https://careers.withwaymo.com/jobs/2026-summer-intern-phd-software-engineer-release-evaluation-san-francisco-california-united-states",
+    "date": "2026-02-10"
+  },
+  {
+    "site": "Waymo",
+    "title": "2026 Summer Intern, PhD, Software Engineer, Strategic Selection",
+    "url": "https://careers.withwaymo.com/jobs/2026-summer-intern-phd-software-engineer-strategic-selection-mountain-view-california-united-states",
+    "date": "2026-02-10"
+  },
+  {
+    "site": "Duolingo",
+    "title": "AI Research Engineer, New PhD Graduate",
+    "url": "https://careers.duolingo.com/jobs/8151163002",
+    "date": "2026-02-10"
+  },
+  {
+    "site": "Duolingo",
+    "title": "AI Research Engineer, New PhD Graduate",
+    "url": "https://careers.duolingo.com/jobs/8169815002",
+    "date": "2026-02-10"
+  },
+  {
+    "site": "Databricks",
+    "title": "MBA Intern - Product Operations\nSan Francisco, California",
+    "url": "https://www.databricks.com/company/careers/university-recruiting/mba-intern---product-operations-8399535002",
+    "date": "2026-02-10"
+  },
+  {
+    "site": "Databricks",
+    "title": "MBA Intern - Strategy & Execution\nSan Francisco, California",
+    "url": "https://www.databricks.com/company/careers/university-recruiting/mba-intern---strategy--execution-7295056002",
+    "date": "2026-02-10"
+  },
+  {
     "site": "Nvidia",
     "title": "GPU Power Architect - New College Grad 2026\nJR2012838\nUS, CA, Santa Clara + 1 more",
     "url": "https://nvidia.eightfold.ai/careers/job/893393297068",
@@ -880,83 +1180,5 @@
     "title": "GPU and SoC Modelling Architect - New College Grad 2026\nJR2009934\nUS, CA, Santa Clara",
     "url": "https://nvidia.eightfold.ai/careers/job/893392470015",
     "date": "2025-12-12"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Developer Technology Engineer - New College Grad 2026\nJR2007742\nChina, Shanghai + 1 more",
-    "url": "https://nvidia.eightfold.ai/careers/job/893392072190",
-    "date": "2025-12-11"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Developer Technology Engineer, AI - New College Grad 2026\nJR2007816\nChina, Beijing + 1 more",
-    "url": "https://nvidia.eightfold.ai/careers/job/893392072204",
-    "date": "2025-12-11"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Research Scientist, Generalist Embodied Agent Research - New College Grad 2026\nJR2009294\nUS, CA, Santa Clara + 1 more\nRemote",
-    "url": "https://nvidia.eightfold.ai/careers/job/893392468793",
-    "date": "2025-12-11"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Research Scientist, Embodied and Agentic AI - New College Grad 2026\nJR2009464\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893392394339",
-    "date": "2025-12-11"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Developer Technology Engineer, AI - New College Graduate 2026\nJR2007832\nChina, Shanghai + 2 more",
-    "url": "https://nvidia.eightfold.ai/careers/job/893392072208",
-    "date": "2025-12-11"
-  },
-  {
-    "site": "Databricks",
-    "title": "PhD GenAI Research Scientist Intern\nSan Francisco, California",
-    "url": "https://www.databricks.com/company/careers/university-recruiting/phd-genai-research-scientist-intern-7011263002",
-    "date": "2025-12-11"
-  },
-  {
-    "site": "Databricks",
-    "title": "Product Design Intern\nSeattle, Washington",
-    "url": "https://www.databricks.com/company/careers/product/product-design-intern-8143588002",
-    "date": "2025-12-11"
-  },
-  {
-    "site": "Databricks",
-    "title": "Software Engineer - New Grad (2026 Start)\nVancouver, Canada",
-    "url": "https://www.databricks.com/company/careers/university-recruiting/software-engineer---new-grad-2026-start-6866542002",
-    "date": "2025-12-11"
-  },
-  {
-    "site": "Databricks",
-    "title": "UX Research Intern\nSeattle, Washington",
-    "url": "https://www.databricks.com/company/careers/product/ux-research-intern-8143590002",
-    "date": "2025-12-11"
-  },
-  {
-    "site": "Reddit",
-    "title": "Machine Learning Engineering Intern - Core ML (Summer 2026)\n\t\t\t\t\t\t\t\tSan Francisco, CA",
-    "url": "https://ripplematch.com/company/reddit",
-    "date": "2025-12-11"
-  },
-  {
-    "site": "Reddit",
-    "title": "Senior Accounts Receivable Analyst - International     \n\t\t\t\t\t\t\t\tRemote - United Kingdom",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/7421219",
-    "date": "2025-12-11"
-  },
-  {
-    "site": "Reddit",
-    "title": "International Tax Senior Manager\n\t\t\t\t\t\t\t\tRemote - United States",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/7365371",
-    "date": "2025-12-11"
-  },
-  {
-    "site": "Notion",
-    "title": "Software Engineer, Fullstack, Early Career\nSan Francisco, California; New York, New York",
-    "url": "https://jobs.ashbyhq.com/notion/f7399542-9122-481a-bf64-43bf8093748b",
-    "date": "2025-12-11"
   }
 ]
