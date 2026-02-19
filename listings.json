@@ -1,5 +1,17 @@
 [
   {
+    "site": "Ripple",
+    "title": "Software Engineer Intern, Data Engineering (Summer 2026)\nSan Francisco, CA, United States",
+    "url": "https://ripple.com/careers/all-jobs/job/7467151/",
+    "date": "2026-02-19"
+  },
+  {
+    "site": "Ripple",
+    "title": "Software Engineer Intern (Summer 2026)\nToronto, Canada",
+    "url": "https://ripple.com/careers/all-jobs/job/7469876/",
+    "date": "2026-02-19"
+  },
+  {
     "site": "Nvidia",
     "title": "Compiler Engineer, Compute Front-End - New College Grad 2026\nJR2013488\nUS, CA, Santa Clara + 2 more",
     "url": "https://nvidia.eightfold.ai/careers/job/893393460933",
@@ -1096,17 +1108,5 @@
     "title": "ASIC Design Verification Engineer - New College Grad 2026\nJR2010391\nUS, TX, Austin",
     "url": "https://nvidia.eightfold.ai/careers/job/893392585259",
     "date": "2025-12-22"
-  },
-  {
-    "site": "Reddit",
-    "title": "Machine Learning Engineering Intern - Ads Marketplace, PhD (Summer 2026)\n\t\t\t\t\t\t\t\tSan Francisco, CA",
-    "url": "https://ripplematch.com/company/reddit",
-    "date": "2025-12-20"
-  },
-  {
-    "site": "Reddit",
-    "title": "Machine Learning Engineering Intern - Ads ML, PhD (Summer 2026)\n\t\t\t\t\t\t\t\tSan Francisco, CA",
-    "url": "https://ripplematch.com/company/reddit",
-    "date": "2025-12-20"
   }
 ]
