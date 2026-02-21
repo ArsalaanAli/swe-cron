@@ -1,6 +1,18 @@
 [
   {
     "site": "Nvidia",
+    "title": "AI Developer Technology Engineer, Financial Sector - New College Grad 2026\nJR2013803\nUS, CA, Remote + 2 more\nRemote",
+    "url": "https://nvidia.eightfold.ai/careers/job/893393583078",
+    "date": "2026-02-21"
+  },
+  {
+    "site": "Nvidia",
+    "title": "Power Methodology and Modeling Engineer - New College Grad 2026\nJR2012047\nUS, TX, Austin",
+    "url": "https://nvidia.eightfold.ai/careers/job/893392955186",
+    "date": "2026-02-21"
+  },
+  {
+    "site": "Nvidia",
     "title": "Signoff Methodology Engineer - New College Grad 2026\nJR2007500\nUS, CA, Santa Clara",
     "url": "https://nvidia.eightfold.ai/careers/job/893391952258",
     "date": "2026-02-20"
@@ -1132,35 +1144,5 @@
     "title": "Senior Financial Analyst, IT FP&A - MBA New College Grad 2026\nJR2009705\nUS, CA, Santa Clara",
     "url": "https://nvidia.eightfold.ai/careers/job/893392526610",
     "date": "2025-12-23"
-  },
-  {
-    "site": "Amazon",
-    "title": "Software Eng Intern",
-    "url": "https://www.amazon.jobs/en/jobs/3111792/software-eng-intern",
-    "date": "2025-12-22"
-  },
-  {
-    "site": "Netflix",
-    "title": "Security Technical Program Manager, Intern (Summer 2026)",
-    "url": null,
-    "date": "2025-12-22"
-  },
-  {
-    "site": "Ripple",
-    "title": "C++ Software Engineer Intern, RippleX Core Ledger (Summer 2026)\nNew York, NY, United States\nLondon, UK\nToronto, Canada",
-    "url": "https://ripple.com/careers/all-jobs/job/7467097/",
-    "date": "2025-12-22"
-  },
-  {
-    "site": "Ripple",
-    "title": "Software Engineer Intern, RippleX Platform (Summer 2026)\nSan Francisco, CA, United States\nToronto, Canada",
-    "url": "https://ripple.com/careers/all-jobs/job/7458173/",
-    "date": "2025-12-22"
-  },
-  {
-    "site": "Nvidia",
-    "title": "ASIC Design Verification Engineer - New College Grad 2026\nJR2010391\nUS, TX, Austin",
-    "url": "https://nvidia.eightfold.ai/careers/job/893392585259",
-    "date": "2025-12-22"
   }
 ]
