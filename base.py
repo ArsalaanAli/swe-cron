@@ -16,6 +16,7 @@ except ImportError:
 
 CONFIG_PATH = Path(__file__).with_name("links.json")
 LISTINGS_PATH = Path(__file__).with_name("listings.json")
+titleTags = ["intern", "grad", "early", str(datetime.date.today().year)]
 
 
 def load_sites() -> Dict[str, Dict[str, str]]:
@@ -109,7 +110,8 @@ def scrape_sites(sites: Dict[str, Dict[str, str]]) -> List[Dict[str, Optional[st
 				# print(title) #FOR TESTING
 				if not title:
 					continue
-				if "intern" in title.lower() or "grad" in title.lower() or "early" in title.lower() or site_name.lower() == "":
+				#if "intern" in title.lower() or "grad" in title.lower() or "early" in title.lower() or site_name.lower() == "":
+				if any(tiTag in title.lower() for tiTag in titleTags):	
 					if href and not href.startswith("http"):
 						from urllib.parse import urljoin
 						base_url = url.split("?")[0] if "?" in url else url
