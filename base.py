@@ -16,7 +16,7 @@ except ImportError:
 
 CONFIG_PATH = Path(__file__).with_name("links.json")
 LISTINGS_PATH = Path(__file__).with_name("listings.json")
-titleTags = ["intern", "grad", "early", str(datetime.date.today().year)]
+titleTags = ["intern", "grad", "early", str(date.today().year)]
 
 
 def load_sites() -> Dict[str, Dict[str, str]]:
