@@ -1,5 +1,17 @@
 [
   {
+    "site": "Netflix",
+    "title": "Data Visualization Engineering Intern, Summer 2026",
+    "url": null,
+    "date": "2026-02-24"
+  },
+  {
+    "site": "Netflix",
+    "title": "Experimentation & Causal Inference Intern, Summer 2026",
+    "url": null,
+    "date": "2026-02-24"
+  },
+  {
     "site": "Databricks",
     "title": "MBA Intern - Product Pricing & Commercialization\nSan Francisco, California",
     "url": "https://www.databricks.com/company/careers/business-strategy-and-ops/mba-intern---product-pricing--commercialization-8402615002",
@@ -1162,11 +1174,5 @@
     "title": "C++ Software Engineer Intern, RippleX Core Ledger (Summer 2026)\nToronto, Canada\nLondon, UK\nNew York, NY, United States",
     "url": "https://ripple.com/careers/all-jobs/job/7467107/",
     "date": "2026-01-05"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Research Scientist, Autonomous Vehicles - PhD New College Grad 2026\nJR2008395\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893392147898",
-    "date": "2025-12-25"
   }
 ]
