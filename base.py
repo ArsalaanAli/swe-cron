@@ -16,7 +16,7 @@ except ImportError:
 
 CONFIG_PATH = Path(__file__).with_name("links.json")
 LISTINGS_PATH = Path(__file__).with_name("listings.json")
-titleTags = ["intern", "grad", "early", str(date.today().year)]
+titleTags = ["intern", "grad", "early"]
 
 
 def load_sites() -> Dict[str, Dict[str, str]]:
@@ -107,11 +107,15 @@ def scrape_sites(sites: Dict[str, Dict[str, str]]) -> List[Dict[str, Optional[st
 					href = el.evaluate("el => { const a = el.querySelector('a'); return a ? a.href : null }")
 				if not href:
 					href = el.evaluate("el => { const a = el.closest('a'); return a ? a.href : null }")
-				print(title) #FOR TESTING
+				# print(title) #FOR TESTING
 				if not title:
 					continue
 				#if "intern" in title.lower() or "grad" in title.lower() or "early" in title.lower() or site_name.lower() == "":
-				if any(tiTag in title.lower() for tiTag in titleTags):	
+				title_lower = title.lower()
+				keyword_match = any(tag in title_lower for tag in ["intern", "grad", "early"])
+				year_match = str(date.today().year) in title_lower and any(tag in title_lower for tag in ["engineer", "software"])
+
+				if keyword_match or year_match:
 					if href and not href.startswith("http"):
 						from urllib.parse import urljoin
 						base_url = url.split("?")[0] if "?" in url else url
