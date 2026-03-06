@@ -1,0 +1,491 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Job Listings</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
+
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    :root {
+      --bg-base: #050506;
+      --bg-surface: rgba(255, 255, 255, 0.03);
+      --bg-surface-hover: rgba(255, 255, 255, 0.06);
+      --bg-elevated: rgba(255, 255, 255, 0.05);
+      --border: rgba(255, 255, 255, 0.06);
+      --border-hover: rgba(255, 255, 255, 0.12);
+      --text-primary: rgba(255, 255, 255, 0.92);
+      --text-secondary: rgba(255, 255, 255, 0.55);
+      --text-tertiary: rgba(255, 255, 255, 0.35);
+      --accent: #5E6AD2;
+      --accent-glow: rgba(94, 106, 210, 0.15);
+      --accent-glow-strong: rgba(94, 106, 210, 0.25);
+    }
+
+    body {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      background: var(--bg-base);
+      color: var(--text-primary);
+      min-height: 100vh;
+      overflow-x: hidden;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    /* Multi-layer background */
+    .bg-layer {
+      position: fixed;
+      inset: 0;
+      z-index: 0;
+      pointer-events: none;
+    }
+
+    .bg-gradient {
+      background:
+        radial-gradient(ellipse 80% 60% at 50% -20%, rgba(94, 106, 210, 0.12) 0%, transparent 60%),
+        radial-gradient(ellipse 60% 40% at 80% 50%, rgba(94, 106, 210, 0.06) 0%, transparent 50%),
+        radial-gradient(ellipse 50% 50% at 20% 80%, rgba(94, 106, 210, 0.04) 0%, transparent 50%);
+    }
+
+    .bg-noise {
+      opacity: 0.025;
+      background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+      background-repeat: repeat;
+      background-size: 256px 256px;
+    }
+
+    .bg-grid {
+      opacity: 0.03;
+      background-size: 60px 60px;
+      background-image:
+        linear-gradient(rgba(255,255,255,0.5) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255,255,255,0.5) 1px, transparent 1px);
+    }
+
+    /* Animated gradient blobs */
+    .blob {
+      position: fixed;
+      border-radius: 50%;
+      filter: blur(120px);
+      opacity: 0.07;
+      animation: float 25s ease-in-out infinite;
+      pointer-events: none;
+      z-index: 0;
+    }
+
+    .blob-1 {
+      width: 900px; height: 900px;
+      background: var(--accent);
+      top: -20%; left: -10%;
+      animation-delay: 0s;
+    }
+
+    .blob-2 {
+      width: 700px; height: 700px;
+      background: #7C3AED;
+      bottom: -20%; right: -10%;
+      animation-delay: -8s;
+      animation-duration: 30s;
+    }
+
+    .blob-3 {
+      width: 500px; height: 500px;
+      background: #3B82F6;
+      top: 40%; left: 60%;
+      animation-delay: -15s;
+      animation-duration: 35s;
+    }
+
+    @keyframes float {
+      0%, 100% { transform: translate(0, 0) scale(1); }
+      25% { transform: translate(40px, -30px) scale(1.05); }
+      50% { transform: translate(-20px, 20px) scale(0.95); }
+      75% { transform: translate(30px, 40px) scale(1.02); }
+    }
+
+    /* Content wrapper */
+    .content {
+      position: relative;
+      z-index: 1;
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 0 1.25rem;
+    }
+
+    /* Header */
+    .header {
+      padding: 3.5rem 0 2rem;
+      text-align: center;
+    }
+
+    .header h1 {
+      font-size: 1.6rem;
+      font-weight: 600;
+      letter-spacing: -0.03em;
+      color: var(--text-primary);
+      margin-bottom: 0.4rem;
+    }
+
+    .header p {
+      color: var(--text-tertiary);
+      font-size: 0.85rem;
+      font-weight: 400;
+    }
+
+    /* Controls */
+    .controls {
+      display: flex;
+      gap: 0.5rem;
+      margin-bottom: 1.5rem;
+      flex-wrap: wrap;
+    }
+
+    .search-input, .filter-select {
+      background: var(--bg-surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 0.6rem 0.85rem;
+      font-size: 0.85rem;
+      font-family: inherit;
+      color: var(--text-primary);
+      outline: none;
+      transition: border-color 0.2s cubic-bezier(0.16, 1, 0.3, 1),
+                  box-shadow 0.2s cubic-bezier(0.16, 1, 0.3, 1),
+                  background 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+    }
+
+    .search-input {
+      flex: 1;
+      min-width: 180px;
+    }
+
+    .search-input::placeholder {
+      color: var(--text-tertiary);
+    }
+
+    .search-input:focus, .filter-select:focus {
+      border-color: rgba(94, 106, 210, 0.5);
+      box-shadow: 0 0 0 3px var(--accent-glow), 0 0 20px var(--accent-glow);
+      background: var(--bg-surface-hover);
+    }
+
+    .filter-select {
+      cursor: pointer;
+      -webkit-appearance: none;
+      appearance: none;
+      padding-right: 2rem;
+      background-image: url("data:image/svg+xml,%3Csvg width='10' height='6' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M1 1l4 4 4-4' stroke='%23666' stroke-width='1.5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E");
+      background-repeat: no-repeat;
+      background-position: right 0.75rem center;
+    }
+
+    .filter-select option {
+      background: #18181b;
+      color: var(--text-primary);
+    }
+
+    /* Stats */
+    .stats {
+      font-size: 0.75rem;
+      color: var(--text-tertiary);
+      margin-bottom: 0.75rem;
+      letter-spacing: 0.02em;
+      text-transform: uppercase;
+      font-weight: 500;
+    }
+
+    /* Listings */
+    .listings {
+      display: flex;
+      flex-direction: column;
+      gap: 1px;
+      background: var(--border);
+      border-radius: 12px;
+      overflow: hidden;
+      border: 1px solid var(--border);
+      margin-bottom: 3rem;
+    }
+
+    .card {
+      background: var(--bg-surface);
+      padding: 0.9rem 1.1rem;
+      display: flex;
+      align-items: center;
+      gap: 0.85rem;
+      text-decoration: none;
+      color: inherit;
+      position: relative;
+      transition: background 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+    }
+
+    .card::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      opacity: 0;
+      background: radial-gradient(600px circle at var(--mouse-x, 50%) var(--mouse-y, 50%), var(--accent-glow), transparent 40%);
+      transition: opacity 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+      pointer-events: none;
+    }
+
+    .card:hover {
+      background: var(--bg-surface-hover);
+    }
+
+    .card:hover::before {
+      opacity: 1;
+    }
+
+    .card:active {
+      background: rgba(255, 255, 255, 0.08);
+    }
+
+    /* Badge */
+    .badge {
+      flex-shrink: 0;
+      padding: 0.2rem 0.55rem;
+      border-radius: 5px;
+      font-size: 0.65rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      min-width: 72px;
+      text-align: center;
+      border: 1px solid transparent;
+    }
+
+    .badge-nvidia     { background: rgba(118,185,0,0.12);  color: #9ADE2B; border-color: rgba(118,185,0,0.2); }
+    .badge-amazon     { background: rgba(255,153,0,0.12);  color: #FFB84D; border-color: rgba(255,153,0,0.2); }
+    .badge-google     { background: rgba(66,133,244,0.12);  color: #7BAAF7; border-color: rgba(66,133,244,0.2); }
+    .badge-meta       { background: rgba(0,136,255,0.12);   color: #4DA6FF; border-color: rgba(0,136,255,0.2); }
+    .badge-netflix    { background: rgba(229,9,20,0.12);    color: #F25A5A; border-color: rgba(229,9,20,0.2); }
+    .badge-salesforce { background: rgba(0,161,224,0.12);   color: #4DC4F0; border-color: rgba(0,161,224,0.2); }
+    .badge-bloomberg  { background: rgba(255,255,255,0.06); color: #E0E0E0; border-color: rgba(255,255,255,0.12); }
+    .badge-coinbase   { background: rgba(0,82,255,0.12);    color: #5A9CFF; border-color: rgba(0,82,255,0.2); }
+    .badge-doordash   { background: rgba(255,48,48,0.12);   color: #FF6B6B; border-color: rgba(255,48,48,0.2); }
+    .badge-stripe     { background: rgba(99,91,255,0.12);   color: #9B94FF; border-color: rgba(99,91,255,0.2); }
+    .badge-ramp       { background: rgba(62,220,130,0.12);  color: #5EE8A0; border-color: rgba(62,220,130,0.2); }
+    .badge-riot       { background: rgba(210,50,45,0.12);   color: #E86B67; border-color: rgba(210,50,45,0.2); }
+    .badge-roblox     { background: rgba(226,35,26,0.12);   color: #F06B64; border-color: rgba(226,35,26,0.2); }
+    .badge-discord    { background: rgba(88,101,242,0.12);  color: #8B9BF7; border-color: rgba(88,101,242,0.2); }
+    .badge-waymo      { background: rgba(26,115,232,0.12);  color: #6DB3F8; border-color: rgba(26,115,232,0.2); }
+    .badge-pinterest  { background: rgba(230,0,35,0.12);    color: #F25A6E; border-color: rgba(230,0,35,0.2); }
+    .badge-datadog    { background: rgba(99,44,166,0.12);   color: #B07ADE; border-color: rgba(99,44,166,0.2); }
+    .badge-duolingo   { background: rgba(88,204,2,0.12);    color: #7EDC3C; border-color: rgba(88,204,2,0.2); }
+    .badge-databricks { background: rgba(255,54,33,0.12);   color: #FF7A6B; border-color: rgba(255,54,33,0.2); }
+    .badge-reddit     { background: rgba(255,69,0,0.12);    color: #FF8C4D; border-color: rgba(255,69,0,0.2); }
+    .badge-notion     { background: rgba(255,255,255,0.06); color: #E0E0E0; border-color: rgba(255,255,255,0.12); }
+    .badge-plaid      { background: rgba(0,0,0,0.12);       color: #E0E0E0; border-color: rgba(255,255,255,0.12); }
+    .badge-block      { background: rgba(255,255,255,0.06); color: #E0E0E0; border-color: rgba(255,255,255,0.12); }
+    .badge-slack      { background: rgba(74,21,75,0.12);    color: #C47AC5; border-color: rgba(74,21,75,0.25); }
+    .badge-figma      { background: rgba(162,89,255,0.12);  color: #B98EFF; border-color: rgba(162,89,255,0.2); }
+    .badge-ripple     { background: rgba(0,120,210,0.12);   color: #4DA0E8; border-color: rgba(0,120,210,0.2); }
+    .badge-dropbox    { background: rgba(0,97,255,0.12);    color: #5AA3FF; border-color: rgba(0,97,255,0.2); }
+    .badge-tesla      { background: rgba(204,0,0,0.12);     color: #E85A5A; border-color: rgba(204,0,0,0.2); }
+    .badge-default    { background: rgba(255,255,255,0.06); color: var(--text-secondary); border-color: rgba(255,255,255,0.1); }
+
+    /* Card content */
+    .card-body {
+      flex: 1;
+      min-width: 0;
+    }
+
+    .card-title {
+      font-size: 0.875rem;
+      font-weight: 500;
+      line-height: 1.4;
+      color: var(--text-primary);
+      letter-spacing: -0.01em;
+    }
+
+    .card-meta {
+      font-size: 0.75rem;
+      color: var(--text-tertiary);
+      margin-top: 0.15rem;
+    }
+
+    .card-date {
+      flex-shrink: 0;
+      font-size: 0.7rem;
+      color: var(--text-tertiary);
+      white-space: nowrap;
+      font-variant-numeric: tabular-nums;
+    }
+
+    .card-arrow {
+      flex-shrink: 0;
+      color: var(--text-tertiary);
+      opacity: 0;
+      transform: translateX(-4px);
+      transition: opacity 0.2s cubic-bezier(0.16, 1, 0.3, 1),
+                  transform 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+    }
+
+    .card:hover .card-arrow {
+      opacity: 1;
+      transform: translateX(0);
+    }
+
+    /* Empty state */
+    .empty-state {
+      background: var(--bg-surface);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 3rem 1rem;
+      text-align: center;
+      color: var(--text-tertiary);
+      font-size: 0.9rem;
+      margin-bottom: 3rem;
+    }
+
+    @media (max-width: 600px) {
+      .header { padding: 2.5rem 0 1.5rem; }
+      .card { flex-wrap: wrap; gap: 0.5rem; }
+      .card-date { order: -1; width: 100%; }
+      .card-arrow { display: none; }
+    }
+  </style>
+</head>
+<body>
+  <!-- Background layers -->
+  <div class="bg-layer bg-gradient"></div>
+  <div class="bg-layer bg-noise"></div>
+  <div class="bg-layer bg-grid"></div>
+  <div class="blob blob-1"></div>
+  <div class="blob blob-2"></div>
+  <div class="blob blob-3"></div>
+
+  <div class="content">
+    <div class="header">
+      <h1>Job Listings</h1>
+      <p id="subtitle">Loading...</p>
+    </div>
+
+    <div class="controls">
+      <input class="search-input" id="search" type="text" placeholder="Search titles, companies, locations...">
+      <select class="filter-select" id="companyFilter">
+        <option value="">All Companies</option>
+      </select>
+      <select class="filter-select" id="sortSelect">
+        <option value="date-desc">Newest First</option>
+        <option value="date-asc">Oldest First</option>
+        <option value="title-asc">Title A-Z</option>
+      </select>
+    </div>
+
+    <div class="stats" id="stats"></div>
+    <div class="listings" id="listings"></div>
+  </div>
+
+  <script>
+    let allListings = [];
+
+    async function init() {
+      try {
+        const res = await fetch('listings.json');
+        allListings = await res.json();
+        document.getElementById('subtitle').textContent =
+          `${allListings.length} positions from ${new Set(allListings.map(l => l.site)).size} companies`;
+        populateCompanyFilter();
+        render();
+      } catch (e) {
+        document.getElementById('listings').innerHTML =
+          '<div class="empty-state">Failed to load listings.json</div>';
+      }
+    }
+
+    function populateCompanyFilter() {
+      const companies = [...new Set(allListings.map(l => l.site))].sort();
+      const select = document.getElementById('companyFilter');
+      companies.forEach(c => {
+        const opt = document.createElement('option');
+        opt.value = c;
+        opt.textContent = c;
+        select.appendChild(opt);
+      });
+    }
+
+    function parseListing(item) {
+      const lines = item.title.split('\n').map(l => l.trim()).filter(Boolean);
+      const title = lines[0];
+      const meta = lines.slice(1).join(' \u00b7 ');
+      return { title, meta, site: item.site, url: item.url, date: item.date };
+    }
+
+    function badgeClass(site) {
+      const key = site.toLowerCase().replace(/\s+/g, '');
+      const known = ['nvidia','amazon','google','meta','netflix','salesforce','bloomberg',
+        'coinbase','doordash','stripe','ramp','riot','roblox','discord','waymo','pinterest',
+        'datadog','duolingo','databricks','reddit','notion','plaid','block','slack','figma',
+        'ripple','dropbox','tesla'];
+      return known.includes(key) ? `badge-${key}` : 'badge-default';
+    }
+
+    function formatDate(dateStr) {
+      const d = new Date(dateStr + 'T00:00:00');
+      return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+    }
+
+    function render() {
+      const query = document.getElementById('search').value.toLowerCase();
+      const company = document.getElementById('companyFilter').value;
+      const sort = document.getElementById('sortSelect').value;
+
+      let filtered = allListings.filter(item => {
+        if (company && item.site !== company) return false;
+        if (query && !(item.title.toLowerCase().includes(query) || item.site.toLowerCase().includes(query))) return false;
+        return true;
+      });
+
+      filtered.sort((a, b) => {
+        if (sort === 'date-desc') return b.date.localeCompare(a.date);
+        if (sort === 'date-asc') return a.date.localeCompare(b.date);
+        return a.title.localeCompare(b.title);
+      });
+
+      document.getElementById('stats').textContent =
+        `${filtered.length} of ${allListings.length} listings`;
+
+      const container = document.getElementById('listings');
+      if (filtered.length === 0) {
+        container.className = '';
+        container.innerHTML = '<div class="empty-state">No listings match your search.</div>';
+        return;
+      }
+
+      container.className = 'listings';
+      const arrow = `<svg class="card-arrow" width="14" height="14" viewBox="0 0 16 16" fill="none"><path d="M6 4l4 4-4 4" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
+
+      container.innerHTML = filtered.map(item => {
+        const { title, meta, site, url, date } = parseListing(item);
+        return `
+          <a class="card" href="${url}" target="_blank" rel="noopener">
+            <span class="badge ${badgeClass(site)}">${site}</span>
+            <div class="card-body">
+              <div class="card-title">${title}</div>
+              ${meta ? `<div class="card-meta">${meta}</div>` : ''}
+            </div>
+            <span class="card-date">${formatDate(date)}</span>
+            ${arrow}
+          </a>`;
+      }).join('');
+    }
+
+    // Mouse-tracking spotlight on cards
+    document.addEventListener('mousemove', e => {
+      document.querySelectorAll('.card').forEach(card => {
+        const rect = card.getBoundingClientRect();
+        card.style.setProperty('--mouse-x', `${e.clientX - rect.left}px`);
+        card.style.setProperty('--mouse-y', `${e.clientY - rect.top}px`);
+      });
+    });
+
+    document.getElementById('search').addEventListener('input', render);
+    document.getElementById('companyFilter').addEventListener('change', render);
+    document.getElementById('sortSelect').addEventListener('change', render);
+
+    init();
+  </script>
+</body>
+</html>
