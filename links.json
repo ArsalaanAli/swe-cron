@@ -108,7 +108,7 @@
     "tag": "a.open-positions__listing-link"
   },
   "Tesla": {
-    "link": "YOUR_TESLA_CAREERS_URL",
+    "link": "https://www.tesla.com/careers/search/?query=software&region=5",
     "tag": "a[href*='/careers/search/job/']"
   }
 }
