@@ -1,5 +1,233 @@
 [
   {
+    "site": "Amazon",
+    "title": "Software Development Engineer - Military Veterans",
+    "url": "https://www.amazon.jobs/en/jobs/3179205/software-development-engineer-military-veterans",
+    "date": "2026-03-07"
+  },
+  {
+    "site": "Amazon",
+    "title": "Software Development Engineer Apprentice - Military Veterans",
+    "url": "https://www.amazon.jobs/en/jobs/3188438/software-development-engineer-apprentice-military-veterans",
+    "date": "2026-03-07"
+  },
+  {
+    "site": "Amazon",
+    "title": "Software Development Engineer – Amazon Leo (US)",
+    "url": "https://www.amazon.jobs/en/jobs/3144341/software-development-engineer-amazon-leo-us",
+    "date": "2026-03-07"
+  },
+  {
+    "site": "Coinbase",
+    "title": "Software Engineer",
+    "url": "https://www.coinbase.com/careers/positions/7642536",
+    "date": "2026-03-07"
+  },
+  {
+    "site": "Discord",
+    "title": "Rust/C++ Software Engineer",
+    "url": "https://discord.com/jobs/8177727002",
+    "date": "2026-03-07"
+  },
+  {
+    "site": "Discord",
+    "title": "Software Engineer - Realtime Infrastructure",
+    "url": "https://discord.com/jobs/8328560002",
+    "date": "2026-03-07"
+  },
+  {
+    "site": "Discord",
+    "title": "Software Engineer, Data Platform",
+    "url": "https://discord.com/jobs/8396927002",
+    "date": "2026-03-07"
+  },
+  {
+    "site": "Discord",
+    "title": "Data Engineer, Analytics",
+    "url": "https://discord.com/jobs/8371252002",
+    "date": "2026-03-07"
+  },
+  {
+    "site": "Discord",
+    "title": "Software Engineer, Ads",
+    "url": "https://discord.com/jobs/8362007002",
+    "date": "2026-03-07"
+  },
+  {
+    "site": "Duolingo",
+    "title": "Platform Engineer II",
+    "url": "https://careers.duolingo.com/jobs/8449895002",
+    "date": "2026-03-07"
+  },
+  {
+    "site": "Reddit",
+    "title": "Android Software Engineer, Ad Formats\n\t\t\t\t\t\t\t\tChicago, IL",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7415003",
+    "date": "2026-03-07"
+  },
+  {
+    "site": "Reddit",
+    "title": "Android Software Engineer, Ad Formats\n\t\t\t\t\t\t\t\tNew York City, NY",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7415013",
+    "date": "2026-03-07"
+  },
+  {
+    "site": "Reddit",
+    "title": "Android Software Engineer, Ad Formats\n\t\t\t\t\t\t\t\tRemote - United States",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7415052",
+    "date": "2026-03-07"
+  },
+  {
+    "site": "Reddit",
+    "title": "Android Software Engineer, Ad Formats\n\t\t\t\t\t\t\t\tSan Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7414993",
+    "date": "2026-03-07"
+  },
+  {
+    "site": "Reddit",
+    "title": "Machine Learning Engineer, Search and Answers\n\t\t\t\t\t\t\t\tRemote - United States",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/6534982",
+    "date": "2026-03-07"
+  },
+  {
+    "site": "Reddit",
+    "title": "Software Engineer\n\t\t\t\t\t\t\t\tRemote - Ontario, Canada",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/6909093",
+    "date": "2026-03-07"
+  },
+  {
+    "site": "Reddit",
+    "title": "Software Engineer, Ads\n\t\t\t\t\t\t\t\tRemote - Ontario, Canada",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/6512458",
+    "date": "2026-03-07"
+  },
+  {
+    "site": "Reddit",
+    "title": "Software Engineer, Ads\n\t\t\t\t\t\t\t\tRemote - United States",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/6469397",
+    "date": "2026-03-07"
+  },
+  {
+    "site": "Reddit",
+    "title": "iOS Software Engineer, Ad Formats\n\t\t\t\t\t\t\t\tChicago, IL",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7414842",
+    "date": "2026-03-07"
+  },
+  {
+    "site": "Reddit",
+    "title": "iOS Software Engineer, Ad Formats\n\t\t\t\t\t\t\t\tNew York City, NY",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7414849",
+    "date": "2026-03-07"
+  },
+  {
+    "site": "Reddit",
+    "title": "iOS Software Engineer, Ad Formats\n\t\t\t\t\t\t\t\tRemote - United States",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7415041",
+    "date": "2026-03-07"
+  },
+  {
+    "site": "Reddit",
+    "title": "Backend Engineer, Feeds Experience\n\t\t\t\t\t\t\t\tRemote - United States",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7565219",
+    "date": "2026-03-07"
+  },
+  {
+    "site": "Notion",
+    "title": "AI Applications Engineer\nSan Francisco, California",
+    "url": "https://jobs.ashbyhq.com/notion/bc9a9573-e963-48a7-b7b9-a32017f28916",
+    "date": "2026-03-07"
+  },
+  {
+    "site": "Notion",
+    "title": "Data Engineer, Finance\nSan Francisco, California",
+    "url": "https://jobs.ashbyhq.com/notion/4d1bce46-3cb1-4a26-b6c6-ac9b02ee413d",
+    "date": "2026-03-07"
+  },
+  {
+    "site": "Notion",
+    "title": "Data Engineer, Go-To-Market\nSan Francisco, California",
+    "url": "https://jobs.ashbyhq.com/notion/655b047b-5e58-4b0c-82f0-8c16b2c03318",
+    "date": "2026-03-07"
+  },
+  {
+    "site": "Notion",
+    "title": "Forward Deployed Software Engineer, Developer Platform\nSan Francisco, California; San Francisco, California",
+    "url": "https://jobs.ashbyhq.com/notion/d5d75b07-7f89-4b3f-b0a6-bb77c5613140",
+    "date": "2026-03-07"
+  },
+  {
+    "site": "Notion",
+    "title": "Model Behavior Engineer\nNew York, New York; San Francisco, California",
+    "url": "https://jobs.ashbyhq.com/notion/4bbfad88-0830-46c5-8d05-d95d17d583ca",
+    "date": "2026-03-07"
+  },
+  {
+    "site": "Notion",
+    "title": "Software Engineer, Admin Tools\nHyderabad, India",
+    "url": "https://jobs.ashbyhq.com/notion/db5eb883-83d3-478b-b619-04d3336142af",
+    "date": "2026-03-07"
+  },
+  {
+    "site": "Notion",
+    "title": "Software Engineer, Cloud Infrastructure\nSan Francisco, California; New York, New York",
+    "url": "https://jobs.ashbyhq.com/notion/e050309a-6b81-4341-b1ca-9bdd17e62e13",
+    "date": "2026-03-07"
+  },
+  {
+    "site": "Notion",
+    "title": "Software Engineer, Datastore\nSan Francisco, California; New York, New York",
+    "url": "https://jobs.ashbyhq.com/notion/3fbcf972-52d5-4475-8720-040025c6f7da",
+    "date": "2026-03-07"
+  },
+  {
+    "site": "Notion",
+    "title": "Software Engineer, Developer Experience\nHyderabad, India",
+    "url": "https://jobs.ashbyhq.com/notion/49bdf081-6e20-4323-8c73-6d6b19544ff5",
+    "date": "2026-03-07"
+  },
+  {
+    "site": "Notion",
+    "title": "Software Engineer, Developer Experience\nSan Francisco, California",
+    "url": "https://jobs.ashbyhq.com/notion/dda89eef-ad64-4b84-af95-d0c4896cae42",
+    "date": "2026-03-07"
+  },
+  {
+    "site": "Notion",
+    "title": "Software Engineer, Enterprise Data Platform\nSan Francisco, California",
+    "url": "https://jobs.ashbyhq.com/notion/91156750-4050-4621-aa45-0fb068308d2c",
+    "date": "2026-03-07"
+  },
+  {
+    "site": "Notion",
+    "title": "Software Engineer, Mail\nNew York, New York; San Francisco, California",
+    "url": "https://jobs.ashbyhq.com/notion/ff54d0b3-d30f-4622-b6e6-9b9c6e4132ea",
+    "date": "2026-03-07"
+  },
+  {
+    "site": "Notion",
+    "title": "Software Engineer, Mobile Platform (Android)\nNew York, New York",
+    "url": "https://jobs.ashbyhq.com/notion/67a6ea13-9e71-4e0c-ba9c-999126417a3c",
+    "date": "2026-03-07"
+  },
+  {
+    "site": "Notion",
+    "title": "Software Engineer, Permissions\nSan Francisco, California",
+    "url": "https://jobs.ashbyhq.com/notion/66b1756e-843d-4118-89d1-08667eb6fa27",
+    "date": "2026-03-07"
+  },
+  {
+    "site": "Notion",
+    "title": "Software Engineer, Product Infrastructure\nSan Francisco, California; New York, New York",
+    "url": "https://jobs.ashbyhq.com/notion/d41b635b-c17b-4efd-89fd-fdb2ddb62e9a",
+    "date": "2026-03-07"
+  },
+  {
+    "site": "Notion",
+    "title": "Software Engineer, Product Security\nSan Francisco, California; New York, New York",
+    "url": "https://jobs.ashbyhq.com/notion/3c6dd26e-4ffb-44f2-87e2-598f49d74ab5",
+    "date": "2026-03-07"
+  },
+  {
     "site": "Nvidia",
     "title": "Research Scientist, Platform Architecture and System Software - PhD New College Grad 2026\nJR2013888\nUS, CA, Santa Clara + 2 more",
     "url": "https://nvidia.eightfold.ai/careers/job/893393648119",
@@ -1366,23 +1594,5 @@
     "title": "DL Algorithms Engineer - Cosmos - New College Graduate 2026\nJR2010848\nUS, CA, Santa Clara",
     "url": "https://nvidia.eightfold.ai/careers/job/893392717321",
     "date": "2026-01-06"
-  },
-  {
-    "site": "Amazon",
-    "title": "Software Development Engineer Internship - Military Veterans",
-    "url": "https://www.amazon.jobs/en/jobs/3152797/software-development-engineer-internship-military-veterans",
-    "date": "2026-01-05"
-  },
-  {
-    "site": "Ramp",
-    "title": "Summer 2026 | Legal Internship\nNew York, NY (HQ)",
-    "url": "https://jobs.ashbyhq.com/ramp/bdf9e73f-9b33-47eb-874c-5f8a2be9f7cd",
-    "date": "2026-01-05"
-  },
-  {
-    "site": "Ripple",
-    "title": "C++ Software Engineer Intern, RippleX Core Ledger (Summer 2026)\nToronto, Canada\nLondon, UK\nNew York, NY, United States",
-    "url": "https://ripple.com/careers/all-jobs/job/7467107/",
-    "date": "2026-01-05"
   }
 ]
