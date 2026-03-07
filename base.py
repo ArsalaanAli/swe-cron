@@ -113,9 +113,11 @@ def scrape_sites(sites: Dict[str, Dict[str, str]]) -> List[Dict[str, Optional[st
 				#if "intern" in title.lower() or "grad" in title.lower() or "early" in title.lower() or site_name.lower() == "":
 				title_lower = title.lower()
 				keyword_match = any(tag in title_lower for tag in ["intern", "grad", "early"])
-				year_match = str(date.today().year) in title_lower and any(tag in title_lower for tag in ["engineer", "software"])
-
-				if keyword_match or year_match:
+				year_match = any(str(y) in title_lower for y in [date.today().year, date.today().year + 1]) and any(tag in title_lower for tag in ["engineer", "software"])
+				senior_titles = ["senior", "sr", "staff", "principal", "lead", "director", "manager", "vp", "head", "distinguished", "fellow"]
+				entry_eng_match = any(tag in title_lower for tag in ["engineer", "software"]) and not any(t in title_lower for t in senior_titles)
+				
+				if keyword_match or year_match or entry_eng_match:
 					if href and not href.startswith("http"):
 						from urllib.parse import urljoin
 						base_url = url.split("?")[0] if "?" in url else url
