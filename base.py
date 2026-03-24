@@ -17,7 +17,8 @@ except ImportError:
 CONFIG_PATH = Path(__file__).with_name("links.json")
 LISTINGS_PATH = Path(__file__).with_name("listings.json")
 titleTags = ["intern", "grad", "early"]
-ignored_senior_titles = ["senior", "sr", "staff", "principal", "lead", "director", "manager", "vp", "head", "distinguished", "ii"]
+ignoredSeniorTitles = ["senior", "sr", "staff", "principal", "lead", "director", "manager", "vp", "head", "distinguished", "ii"]
+roleTitles = ["engineer", "software", "developer"]
 
 
 def load_sites() -> Dict[str, Dict[str, str]]:
@@ -115,7 +116,7 @@ def scrape_sites(sites: Dict[str, Dict[str, str]]) -> List[Dict[str, Optional[st
 				title_lower = title.lower()
 				keyword_match = any(tag in title_lower for tag in ["intern", "grad", "early"])
 				year_match = any(str(y) in title_lower for y in [date.today().year, date.today().year + 1]) and any(tag in title_lower for tag in ["engineer", "software"])
-				entry_eng_match = any(tag in title_lower for tag in ["engineer", "software"]) and not any(t in title_lower for t in ignored_senior_titles)
+				entry_eng_match = any(tag in title_lower for tag in roleTitles) and not any(t in title_lower for t in ignoredSeniorTitles)
 				
 				if keyword_match or year_match or entry_eng_match:
 					if href and not href.startswith("http"):
