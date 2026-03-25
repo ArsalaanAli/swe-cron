@@ -1,5 +1,35 @@
 [
   {
+    "site": "Discord",
+    "title": "Software Engineer, Safety Experience",
+    "url": "https://discord.com/jobs/8475544002",
+    "date": "2026-03-25"
+  },
+  {
+    "site": "Nvidia",
+    "title": "Cell Modelling and Verification Engineer - New College Grad 2026\nJR2011631\nUS, CA, Santa Clara",
+    "url": "https://nvidia.eightfold.ai/careers/job/893392886848",
+    "date": "2026-03-25"
+  },
+  {
+    "site": "Waymo",
+    "title": "2026 Summer Intern, BS/MS, Software Engineering, Simulation",
+    "url": "https://careers.withwaymo.com/jobs/2026-summer-intern-bs-ms-software-engineering-simulation-mountain-view-california-united-states",
+    "date": "2026-03-25"
+  },
+  {
+    "site": "Reddit",
+    "title": "Machine Learning Engineer, Ads\n\t\t\t\t\t\t\t\tRemote - Ontario, Canada",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7131934",
+    "date": "2026-03-25"
+  },
+  {
+    "site": "Reddit",
+    "title": "Machine Learning Engineer, Ads\n\t\t\t\t\t\t\t\tRemote - United States",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7131932",
+    "date": "2026-03-25"
+  },
+  {
     "site": "Google Intern",
     "title": "Open Engineering Career Opportunities, CapitalG Portfolio Companies",
     "url": "https://www.google.com/about/careers/applications/jobs/results/124491726204084934-open-engineering-career-opportunities-capitalg-portfolio-companies?location=United%20States&location=Canada&q=software&target_level=INTERN_AND_APPRENTICE&sort_by=date#!t=jo&jid=127025001&",
@@ -1558,71 +1588,5 @@
     "title": "Machine Learning Intern Fall 2026 (Toronto)",
     "url": "https://www.pinterestcareers.com/jobs/7268778/machine-learning-intern-fall-2026-toronto/?gh_jid=7268778",
     "date": "2026-01-24"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Deep Learning Kernel Software Performance Architect - New College Grad 2026\nJR2011814\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893392916080",
-    "date": "2026-01-23"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Software Engineer, DL Libraries Infrastructure - New College Grad 2026\nJR2011998\nUS, CA, Santa Clara + 3 more",
-    "url": "https://nvidia.eightfold.ai/careers/job/893392917458",
-    "date": "2026-01-23"
-  },
-  {
-    "site": "Nvidia",
-    "title": "ASIC Clocks Design Engineer - New College Grad 2026\nJR2011786\nUS, CA, Santa Clara + 1 more",
-    "url": "https://nvidia.eightfold.ai/careers/job/893392917549",
-    "date": "2026-01-23"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Applied Machine Learning Engineer, Circuit Design - New College Grad 2026\nJR2011517\nUS, CA, Remote + 1 more\nRemote",
-    "url": "https://nvidia.eightfold.ai/careers/job/893392916064",
-    "date": "2026-01-23"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Circuits Timing Engineer - New College Grad 2026\nJR2011570\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893392916076",
-    "date": "2026-01-23"
-  },
-  {
-    "site": "Block",
-    "title": "Mobile Software Engineer Intern (Summer 2026)\nRemote\nBay Area, CA, US",
-    "url": "https://block.xyz/careers/jobs/5083061008",
-    "date": "2026-01-23"
-  },
-  {
-    "site": "Block",
-    "title": "Mobile Software Engineer Intern (Summer 2026)\nRemote\nToronto, Ontario , Canada",
-    "url": "https://block.xyz/careers/jobs/5083063008",
-    "date": "2026-01-23"
-  },
-  {
-    "site": "Dropbox",
-    "title": "Remote - Canada: Select locations\n\nResearch and Insights Intern (Summer 2026)",
-    "url": "https://jobs.dropbox.com/listing/7558572",
-    "date": "2026-01-23"
-  },
-  {
-    "site": "Dropbox",
-    "title": "Remote - US: All locations\n\nResearch and Insights Intern (Summer 2026)",
-    "url": "https://jobs.dropbox.com/listing/7558568",
-    "date": "2026-01-23"
-  },
-  {
-    "site": "Dropbox",
-    "title": "Remote - Canada: Select locations\n\nSupport Enablement Engineer Intern (Summer 2026)",
-    "url": "https://jobs.dropbox.com/listing/7531481",
-    "date": "2026-01-23"
-  },
-  {
-    "site": "Dropbox",
-    "title": "Remote - US: All locations\n\nSupport Enablement Engineer Intern (Summer 2026)",
-    "url": "https://jobs.dropbox.com/listing/7531477",
-    "date": "2026-01-23"
   }
 ]
