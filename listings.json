@@ -1,5 +1,23 @@
 [
   {
+    "site": "Discord",
+    "title": "Privacy Engineer",
+    "url": "https://discord.com/jobs/8484011002",
+    "date": "2026-03-31"
+  },
+  {
+    "site": "Nvidia",
+    "title": "AI Chip Design Engineer - New College Grad 2026\nJR2015481\nUS, CA, Santa Clara",
+    "url": "https://nvidia.eightfold.ai/careers/job/893394338007",
+    "date": "2026-03-31"
+  },
+  {
+    "site": "Nvidia",
+    "title": "ASIC Design Engineer - New College Grad 2026\nJR2015302\nUS, NC, Durham + 2 more",
+    "url": "https://nvidia.eightfold.ai/careers/job/893394334718",
+    "date": "2026-03-31"
+  },
+  {
     "site": "Pinterest",
     "title": "Machine Learning Intern Fall 2026 (Toronto)",
     "url": "https://www.pinterestcareers.com/jobs/7268778/machine-learning-intern-fall-2026-toronto/?gh_jid=7268778",
@@ -1450,89 +1468,5 @@
     "title": "ASIC Clocks Design Engineer - New College Grad 2026\nJR2012417\nUS, CA, Santa Clara + 1 more",
     "url": "https://nvidia.eightfold.ai/careers/job/893392993494",
     "date": "2026-01-30"
-  },
-  {
-    "site": "Amazon",
-    "title": "Software Development Engineer Internship - Military Veteran",
-    "url": "https://www.amazon.jobs/en/jobs/3168974/software-development-engineer-internship-military-veteran",
-    "date": "2026-01-28"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Deep Learning Software Engineer, FlashInfer - New College Grad 2025\nJR2002086\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893384037168",
-    "date": "2026-01-28"
-  },
-  {
-    "site": "Block",
-    "title": "Embedded/Firmware Engineer Intern (Summer 2026)\nRemote\nToronto, Ontario , Canada",
-    "url": "https://block.xyz/careers/jobs/5083066008",
-    "date": "2026-01-28"
-  },
-  {
-    "site": "Block",
-    "title": "Embedded/Firmware Engineer Intern (Summer 2026)\nRemote\nBay Area, CA, US",
-    "url": "https://block.xyz/careers/jobs/5083064008",
-    "date": "2026-01-28"
-  },
-  {
-    "site": "Roblox",
-    "title": "[2026 Canada] Software Engineer, Geometry - Early Career\n\nVancouver, British Columbia, Canada\nEarly Career",
-    "url": "https://careers.roblox.com/jobs/7558821",
-    "date": "2026-01-28"
-  },
-  {
-    "site": "Roblox",
-    "title": "[2026] Software Engineer, Creator - Early Career\n\nSan Mateo, CA, United States\nEarly Career",
-    "url": "https://careers.roblox.com/jobs/7557909",
-    "date": "2026-01-28"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Research Scientist, AI for Graphics and Gaming - New College Grad 2026\nJR2011267\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893392954486",
-    "date": "2026-01-28"
-  },
-  {
-    "site": "Dropbox",
-    "title": "Remote - Canada: Select locations\n\nContent Design Intern (Summer 2026)",
-    "url": "https://jobs.dropbox.com/listing/7558613",
-    "date": "2026-01-28"
-  },
-  {
-    "site": "Dropbox",
-    "title": "Remote - US: All locations\n\nContent Design Intern (Summer 2026)",
-    "url": "https://jobs.dropbox.com/listing/7558609",
-    "date": "2026-01-28"
-  },
-  {
-    "site": "Meta",
-    "title": "Research Scientist Intern, MSL Infra Kernels & Optimizations (PhD)",
-    "url": "https://www.metacareers.com/profile/job_details/4342539279351100",
-    "date": "2026-01-27"
-  },
-  {
-    "site": "Waymo",
-    "title": "2026 Summer Intern, MS/PhD, Software Engineer, Simulation",
-    "url": "https://careers.withwaymo.com/jobs/2026-summer-intern-ms-phd-software-engineer-simulation-mountain-view-california-united-states",
-    "date": "2026-01-27"
-  },
-  {
-    "site": "Dropbox",
-    "title": "Remote - Ireland\n\nSolutions Consultant Intern (Summer 2026)",
-    "url": "https://jobs.dropbox.com/listing/7460106",
-    "date": "2026-01-27"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Research Scientist, AI Accelerator SW HW Co-Design - New College Grad 2026\nJR2011644\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893392854958",
-    "date": "2026-01-26"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Applied Machine Learning Engineer, Circuit Design - New College Grad 2026\nJR2011517\nUS, CA, Santa Clara + 1 more\nRemote",
-    "url": "https://nvidia.eightfold.ai/careers/job/893392916064",
-    "date": "2026-01-26"
   }
 ]
