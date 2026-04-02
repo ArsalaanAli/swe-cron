@@ -1,5 +1,11 @@
 [
   {
+    "site": "Discord",
+    "title": "Software Engineer- Database Infrastructure",
+    "url": "https://discord.com/jobs/8487457002",
+    "date": "2026-04-02"
+  },
+  {
     "site": "Nvidia",
     "title": "Cell Modeling and Verification Engineer - New College Grad 2026\nJR2011631\nUS, CA, Santa Clara",
     "url": "https://nvidia.eightfold.ai/careers/job/893392886848",
@@ -1528,11 +1534,5 @@
     "title": "Software Engineer, Intern (Summer)",
     "url": "https://stripe.com/jobs/listing/software-engineer-intern-summer/7210115",
     "date": "2026-02-03"
-  },
-  {
-    "site": "Nvidia",
-    "title": "ASIC Hardware Design Engineer - New College Grad 2026\nJR2011787\nUS, TX, Austin",
-    "url": "https://nvidia.eightfold.ai/careers/job/893392917966",
-    "date": "2026-01-31"
   }
 ]
