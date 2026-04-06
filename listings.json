@@ -1,5 +1,17 @@
 [
   {
+    "site": "Google Early",
+    "title": "ASIC Design Verification Engineer, Machine Learning, Google Cloud",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/142027521464902342-asic-design-verification-engineer-machine-learning-google-cloud?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
+    "date": "2026-04-06"
+  },
+  {
+    "site": "Nvidia",
+    "title": "RTL Power Optimization – New College Grad 2026\nJR2011172\nUS, CA, Santa Clara",
+    "url": "https://nvidia.eightfold.ai/careers/job/893392918607",
+    "date": "2026-04-06"
+  },
+  {
     "site": "Nvidia",
     "title": "Software Engineer, cuDNN - Deep Learning\nJR2002836\nChina, Shanghai",
     "url": "https://nvidia.eightfold.ai/careers/job/893391245105",
@@ -1582,23 +1594,5 @@
     "title": "Software Engineer Intern, Data Engineering (Summer 2026)\nToronto, Canada",
     "url": "https://ripple.com/careers/all-jobs/job/7586462/",
     "date": "2026-02-05"
-  },
-  {
-    "site": "Netflix",
-    "title": "Studio Management & Services Intern (Summer 2026)",
-    "url": null,
-    "date": "2026-02-04"
-  },
-  {
-    "site": "Netflix",
-    "title": "Soundtrack Operations Intern (Summer 2026)",
-    "url": null,
-    "date": "2026-02-04"
-  },
-  {
-    "site": "Stripe",
-    "title": "Software Engineer, Intern (Summer)",
-    "url": "https://stripe.com/jobs/listing/software-engineer-intern-summer/7210115",
-    "date": "2026-02-03"
   }
 ]
