@@ -57,7 +57,7 @@
   },
   "Roblox": {
     "link": "https://careers.roblox.com/jobs?search=software&groups=early-career-talent",
-    "tag": ".share-list-item_IF16h a"
+    "tag": "a[href^=\"/jobs/\"]"
   },
   "Discord": {
     "link": "https://discord.com/careers#all-jobs",
