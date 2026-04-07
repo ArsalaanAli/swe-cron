@@ -97,7 +97,7 @@
   },
   "Plaid": {
     "link": "https://plaid.com/careers/?department=Engineering&search=software#search",
-    "tag": "a[href^=\"/careers/openings/\"]"
+    "tag": "li.MuiBox-root"
   },
   "Block": {
     "link": "https://block.xyz/careers/jobs?teams[]=Software%20Engineering",
