@@ -102,8 +102,8 @@ def scrape_sites(sites: Dict[str, Dict[str, str]]) -> List[Dict[str, Optional[st
 					title = (title or "").strip()
 
 				if not title:
-				    title = el.evaluate("el => { const p = el.querySelector('p[class*=\"p1-regular\"]'); return p ? p.innerText : '' }")
-    				title = (title or "").strip()
+					title = el.evaluate("el => { const p = el.querySelector('p[class*=\"p1-regular\"]'); return p ? p.innerText : '' }")
+					title = (title or "").strip()
 				
 				if not title:
 					title = (el.inner_text() or "").strip()
