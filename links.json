@@ -31,8 +31,12 @@
     "link": "https://bloomberg.avature.net/careers/SearchJobs/?1845=%5B162508%2C162484%2C162461%2C162535%2C162520%2C162491%2C162522%5D&1845_format=3996&1686=%5B55478%5D&1686_format=2312&2562=%5B219290%5D&2562_format=6594&listFilterMode=1&jobRecordsPerPage=12&",
     "tag": ".article--result .article__header__text__title a.link"
   },
-  "Coinbase": {
+  "Coinbase Intern": {
     "link": "https://www.coinbase.com/en-ca/careers/positions?department=Internships+%26+Emerging+Talent+Positions&location=all&search=software",
+    "tag": "a[href*='/careers/positions/']"
+  },
+  "Coinbase": {
+    "link": "https://www.coinbase.com/en-ca/careers/positions?location=remote%2520canada%2Cremote%2520usa%2Cca%2Cny%2Cnc&search=software",
     "tag": "a[href*='/careers/positions/']"
   },
   "DoorDash": {
