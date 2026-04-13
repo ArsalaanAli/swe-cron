@@ -1,5 +1,143 @@
 [
   {
+    "site": "Amazon",
+    "title": "Software Development Engineer Internship - Military Veteran",
+    "url": "https://www.amazon.jobs/en/jobs/3179209/software-development-engineer-internship-military-veteran",
+    "date": "2026-04-13"
+  },
+  {
+    "site": "Amazon",
+    "title": "Software Development Engineer Internship - Summer 2026 (US)",
+    "url": "https://www.amazon.jobs/en/jobs/3116030/software-development-engineer-internship-summer-2026-us",
+    "date": "2026-04-13"
+  },
+  {
+    "site": "Amazon",
+    "title": "2026 Annapurna Labs at AWS Internships (US) - Machine Learning Systems & Silicon Innovation",
+    "url": "https://www.amazon.jobs/en/jobs/3137672/2026-annapurna-labs-at-aws-internships-us-machine-learning-systems-silicon-innovation",
+    "date": "2026-04-13"
+  },
+  {
+    "site": "Netflix",
+    "title": "Analytics Engineer Intern - Content Decision Sciences and Conversation Scaling, Summer 2026",
+    "url": null,
+    "date": "2026-04-13"
+  },
+  {
+    "site": "Netflix",
+    "title": "Software Engineer PhD Intern, Streaming Algorithms (Summer 2026)",
+    "url": null,
+    "date": "2026-04-13"
+  },
+  {
+    "site": "Netflix",
+    "title": "Data Engineering Intern, Summer 2026",
+    "url": null,
+    "date": "2026-04-13"
+  },
+  {
+    "site": "Netflix",
+    "title": "Machine Learning Engineer Intern, (MS/PhD) 2026",
+    "url": null,
+    "date": "2026-04-13"
+  },
+  {
+    "site": "Netflix",
+    "title": "Analytics Engineering Intern, Summer 2026",
+    "url": null,
+    "date": "2026-04-13"
+  },
+  {
+    "site": "Netflix",
+    "title": "Video Algorithms Intern, Summer 2026",
+    "url": null,
+    "date": "2026-04-13"
+  },
+  {
+    "site": "Netflix",
+    "title": "Machine Learning/AI Scientist Intern (PhD), 2026",
+    "url": null,
+    "date": "2026-04-13"
+  },
+  {
+    "site": "DoorDash",
+    "title": "Machine Learning Intern (PhD) - Summer 2026",
+    "url": "https://careersatdoordash.com/jobs/machine-learning-intern-phd---summer-2026/7264631",
+    "date": "2026-04-13"
+  },
+  {
+    "site": "DoorDash",
+    "title": "Machine Learning Intern (Masters) - Summer 2026",
+    "url": "https://careersatdoordash.com/jobs/machine-learning-intern-masters---summer-2026/7295800",
+    "date": "2026-04-13"
+  },
+  {
+    "site": "Ramp",
+    "title": "University Grad | Customer Experience Agent\nNew York, NY (HQ)",
+    "url": "https://jobs.ashbyhq.com/ramp/fc971889-db1d-4a20-a25e-f282f9296936",
+    "date": "2026-04-13"
+  },
+  {
+    "site": "Ramp",
+    "title": "University Grad | Software Engineer | Frontend\nNew York, NY (HQ)",
+    "url": "https://jobs.ashbyhq.com/ramp/a1229aec-1105-4c47-8533-b912e732ed89",
+    "date": "2026-04-13"
+  },
+  {
+    "site": "Nvidia",
+    "title": "GPU Power Architect - New College Grad 2026\nJR2012838\nUS, CA, Santa Clara + 1 more",
+    "url": "https://nvidia.eightfold.ai/careers/job/893393297068",
+    "date": "2026-04-13"
+  },
+  {
+    "site": "Waymo",
+    "title": "2026 Intern, PhD, Machine Learning Engineer, Simulation",
+    "url": "https://careers.withwaymo.com/jobs/2026-intern-phd-machine-learning-engineer-simulation-mountain-view-california-united-states",
+    "date": "2026-04-13"
+  },
+  {
+    "site": "Duolingo",
+    "title": "AI Research Engineer, New PhD Graduate",
+    "url": "https://careers.duolingo.com/jobs/8151163002",
+    "date": "2026-04-13"
+  },
+  {
+    "site": "Duolingo",
+    "title": "AI Research Engineer, New PhD Graduate",
+    "url": "https://careers.duolingo.com/jobs/8169815002",
+    "date": "2026-04-13"
+  },
+  {
+    "site": "Databricks",
+    "title": "MBA Intern - Product Operations\nSan Francisco, California",
+    "url": "https://www.databricks.com/company/careers/university-recruiting/mba-intern---product-operations-8399535002",
+    "date": "2026-04-13"
+  },
+  {
+    "site": "Databricks",
+    "title": "MBA Intern - Strategic Finance\nSan Francisco, California",
+    "url": "https://www.databricks.com/company/careers/finance/mba-intern---strategic-finance-8402610002",
+    "date": "2026-04-13"
+  },
+  {
+    "site": "Databricks",
+    "title": "MBA Intern - Strategy & Execution\nSan Francisco, California",
+    "url": "https://www.databricks.com/company/careers/university-recruiting/mba-intern---strategy--execution-7295056002",
+    "date": "2026-04-13"
+  },
+  {
+    "site": "Databricks",
+    "title": "PhD GenAI Research Scientist Intern\nSan Francisco, California",
+    "url": "https://www.databricks.com/company/careers/university-recruiting/phd-genai-research-scientist-intern-7011263002",
+    "date": "2026-04-13"
+  },
+  {
+    "site": "Notion",
+    "title": "Software Engineer, Fullstack, Early Career\nSan Francisco, California; New York, New York",
+    "url": "https://jobs.ashbyhq.com/notion/f7399542-9122-481a-bf64-43bf8093748b",
+    "date": "2026-04-13"
+  },
+  {
     "site": "Google Early",
     "title": "Silicon System and Software Integration Engineer, University Graduate",
     "url": "https://www.google.com/about/careers/applications/jobs/results/132257654129992390-silicon-system-and-software-integration-engineer-university-graduate?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
