@@ -1,5 +1,11 @@
 [
   {
+    "site": "Block",
+    "title": "Solutions Engineer\nRemote\nLondon, UK",
+    "url": "https://block.xyz/careers/jobs/5187354008",
+    "date": "2026-04-14"
+  },
+  {
     "site": "Amazon",
     "title": "Software Development Engineer Internship - Military Veteran",
     "url": "https://www.amazon.jobs/en/jobs/3179209/software-development-engineer-internship-military-veteran",
@@ -1522,23 +1528,5 @@
     "title": "Developer Technology Engineer, Public Sector - New College Grad 2026\nJR2008990\nUS, CA, Santa Clara",
     "url": "https://nvidia.eightfold.ai/careers/job/893392271632",
     "date": "2026-02-13"
-  },
-  {
-    "site": "Nvidia",
-    "title": "ASIC RTL Integration and Netlisting Engineer - New College Grad 2026\nJR2013172\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893393381580",
-    "date": "2026-02-12"
-  },
-  {
-    "site": "Nvidia",
-    "title": "High-Performance LLM Training Engineer - New College Grad 2026\nJR2013288\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893393381490",
-    "date": "2026-02-12"
-  },
-  {
-    "site": "Nvidia",
-    "title": "ASIC Timing Engineer - New College Grad 2026\nJR2013177\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893393381575",
-    "date": "2026-02-12"
   }
 ]
