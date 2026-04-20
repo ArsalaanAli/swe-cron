@@ -1,5 +1,17 @@
 [
   {
+    "site": "Pinterest",
+    "title": "PhD Fall Machine Learning Intern (ATG — Visual, Multimodal, and Recommender Systems)",
+    "url": "https://www.pinterestcareers.com/jobs/7255640/phd-fall-machine-learning-intern-atg-visual-multimodal-and-recommender-systems/?gh_jid=7255640",
+    "date": "2026-04-20"
+  },
+  {
+    "site": "Datadog",
+    "title": "IT Support Technician Intern",
+    "url": "https://careers.datadoghq.com/detail/7391788/?gh_jid=7391788",
+    "date": "2026-04-20"
+  },
+  {
     "site": "Nvidia",
     "title": "Deep Learning Software Engineer, FlashInfer - New College Grad 2025\nJR2002086\nUS, CA, Santa Clara",
     "url": "https://nvidia.eightfold.ai/careers/job/893384037168",
@@ -1552,41 +1564,5 @@
     "title": "Software Engineer Intern (Summer 2026)\nToronto, Canada",
     "url": "https://ripple.com/careers/all-jobs/job/7469876/",
     "date": "2026-02-19"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Compiler Engineer, Compute Front-End - New College Grad 2026\nJR2013488\nUS, CA, Santa Clara + 2 more",
-    "url": "https://nvidia.eightfold.ai/careers/job/893393460933",
-    "date": "2026-02-18"
-  },
-  {
-    "site": "Nvidia",
-    "title": "GPU Architecture Engineer - New College Grad 2025\nJR2002495\nUS, CA, Santa Clara + 2 more",
-    "url": "https://nvidia.eightfold.ai/careers/job/893384144367",
-    "date": "2026-02-18"
-  },
-  {
-    "site": "Databricks",
-    "title": "MBA Intern - People Analytics\nSan Francisco, California",
-    "url": "https://www.databricks.com/company/careers/people-operations/mba-intern---people-analytics-8402613002",
-    "date": "2026-02-18"
-  },
-  {
-    "site": "Ripple",
-    "title": "Software Engineer Intern (Summer 2026)\nSan Francisco, CA, United States",
-    "url": "https://ripple.com/careers/all-jobs/job/7469777/",
-    "date": "2026-02-18"
-  },
-  {
-    "site": "Nvidia",
-    "title": "CAD Engineer, Physical Design - New College Grad 2026\nJR2013149\nUS, CA, Santa Clara + 1 more",
-    "url": "https://nvidia.eightfold.ai/careers/job/893393527962",
-    "date": "2026-02-18"
-  },
-  {
-    "site": "Databricks",
-    "title": "MBA Intern - Corporate Operations (Corp Ops)\nSan Francisco, California",
-    "url": "https://www.databricks.com/company/careers/corporate-operations/mba-intern---corporate-operations-corp-ops-8402603002",
-    "date": "2026-02-18"
   }
 ]
