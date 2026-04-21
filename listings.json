@@ -1,5 +1,17 @@
 [
   {
+    "site": "Google Early",
+    "title": "Security Engineer, Access Risk Intelligence and Security Mitigation",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/74402318644060870-security-engineer-access-risk-intelligence-and-security-mitigation?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
+    "date": "2026-04-21"
+  },
+  {
+    "site": "Notion",
+    "title": "Software Engineer, AI Capture\nSan Francisco, California",
+    "url": "https://jobs.ashbyhq.com/notion/b31ce253-4238-4ed6-a5a2-73b63cbf1709",
+    "date": "2026-04-21"
+  },
+  {
     "site": "Nvidia",
     "title": "CPU Design Engineer - New College Grad 2026\nJR2007624\nUS, CA, Remote + 5 more\nRemote",
     "url": "https://nvidia.eightfold.ai/careers/job/893391950885",
@@ -1528,53 +1540,5 @@
     "title": "Circuit Design Engineer, Power Modeling and Simulation - New College Grad 2026\nJR2009985\nUS, CA, Santa Clara",
     "url": "https://nvidia.eightfold.ai/careers/job/893392526581",
     "date": "2026-02-20"
-  },
-  {
-    "site": "Nvidia",
-    "title": "System Design Engineer - New College Grad 2026\nJR2011879\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893392898537",
-    "date": "2026-02-19"
-  },
-  {
-    "site": "Nvidia",
-    "title": "CPU Verification Engineer - New College Grad 2026\nJR2013504\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893393562241",
-    "date": "2026-02-19"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Formal Verification Engineer - New College Grad 2026\nJR2013674\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893393546843",
-    "date": "2026-02-19"
-  },
-  {
-    "site": "Databricks",
-    "title": "MBA Intern - People Analytics\nSan Francisco, California",
-    "url": "https://www.databricks.com/company/careers/people/mba-intern---people-analytics-8402613002",
-    "date": "2026-02-19"
-  },
-  {
-    "site": "Reddit",
-    "title": "Machine Learning Engineering Intern - Ads Marketplace, PhD (Summer 2026)\n\t\t\t\t\t\t\t\tSan Francisco, CA",
-    "url": "https://ripplematch.com/company/reddit",
-    "date": "2026-02-19"
-  },
-  {
-    "site": "Reddit",
-    "title": "Machine Learning Engineering Intern - Ads ML, PhD (Summer 2026)\n\t\t\t\t\t\t\t\tSan Francisco, CA",
-    "url": "https://ripplematch.com/company/reddit",
-    "date": "2026-02-19"
-  },
-  {
-    "site": "Ripple",
-    "title": "Software Engineer Intern, Data Engineering (Summer 2026)\nSan Francisco, CA, United States",
-    "url": "https://ripple.com/careers/all-jobs/job/7467151/",
-    "date": "2026-02-19"
-  },
-  {
-    "site": "Ripple",
-    "title": "Software Engineer Intern (Summer 2026)\nToronto, Canada",
-    "url": "https://ripple.com/careers/all-jobs/job/7469876/",
-    "date": "2026-02-19"
   }
 ]
