@@ -1,5 +1,17 @@
 [
   {
+    "site": "Pinterest",
+    "title": "Master's Fall Machine Learning Internship (ATG - Visual Search)",
+    "url": "https://www.pinterestcareers.com/jobs/7253017/masters-fall-machine-learning-internship-atg-visual-search/?gh_jid=7253017",
+    "date": "2026-04-22"
+  },
+  {
+    "site": "Reddit",
+    "title": "Software Engineer, ACE\n\t\t\t\t\t\t\t\tLondon, United Kingdom",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7843951",
+    "date": "2026-04-22"
+  },
+  {
     "site": "Google Early",
     "title": "Security Engineer, Access Risk Intelligence and Security Mitigation",
     "url": "https://www.google.com/about/careers/applications/jobs/results/74402318644060870-security-engineer-access-risk-intelligence-and-security-mitigation?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
@@ -1522,23 +1534,5 @@
     "title": "Power Methodology and Modeling Engineer - New College Grad 2026\nJR2012047\nUS, TX, Austin",
     "url": "https://nvidia.eightfold.ai/careers/job/893392955186",
     "date": "2026-02-21"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Signoff Methodology Engineer - New College Grad 2026\nJR2007500\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893391952258",
-    "date": "2026-02-20"
-  },
-  {
-    "site": "Netflix",
-    "title": "Internet Measurement Research Intern - OpenConnect Distributed Systems, Summer 2026",
-    "url": null,
-    "date": "2026-02-20"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Circuit Design Engineer, Power Modeling and Simulation - New College Grad 2026\nJR2009985\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893392526581",
-    "date": "2026-02-20"
   }
 ]
