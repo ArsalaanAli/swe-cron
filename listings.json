@@ -1,5 +1,29 @@
 [
   {
+    "site": "Amazon",
+    "title": "(Fall 2026) Annapurna Labs at AWS Internship (US) - Machine Learning Systems & Silicon Innovation",
+    "url": "https://www.amazon.jobs/en/jobs/10400153/fall-2026-annapurna-labs-at-aws-internship-us-machine-learning-systems-silicon-innovation",
+    "date": "2026-04-23"
+  },
+  {
+    "site": "Netflix",
+    "title": "Internet Measurement Research Intern - OpenConnect Distributed Systems, Summer 2026",
+    "url": null,
+    "date": "2026-04-23"
+  },
+  {
+    "site": "Nvidia",
+    "title": "GPU Power Architect - New College Grad 2026\nJR2016783\nUS, CA, Santa Clara + 1 more",
+    "url": "https://nvidia.eightfold.ai/careers/job/893394854442",
+    "date": "2026-04-23"
+  },
+  {
+    "site": "Nvidia",
+    "title": "Deep Learning Architect, LLM Inference - New College Grad 2026\nJR2016950\nUS, CA, Santa Clara",
+    "url": "https://nvidia.eightfold.ai/careers/job/893394852156",
+    "date": "2026-04-23"
+  },
+  {
     "site": "Pinterest",
     "title": "Master's Fall Machine Learning Internship (ATG - Visual Search)",
     "url": "https://www.pinterestcareers.com/jobs/7253017/masters-fall-machine-learning-internship-atg-visual-search/?gh_jid=7253017",
@@ -1516,23 +1540,5 @@
     "title": "Research Scientist, Circuits - PhD New College Grad 2026\nJR2010010\nUS, CA, Santa Clara + 1 more",
     "url": "https://nvidia.eightfold.ai/careers/job/893392513195",
     "date": "2026-02-22"
-  },
-  {
-    "site": "Nvidia",
-    "title": "ASIC Design Verification Engineer - New College Grad 2026\nJR2010391\nUS, TX, Austin",
-    "url": "https://nvidia.eightfold.ai/careers/job/893392585259",
-    "date": "2026-02-21"
-  },
-  {
-    "site": "Nvidia",
-    "title": "AI Developer Technology Engineer, Financial Sector - New College Grad 2026\nJR2013803\nUS, CA, Remote + 2 more\nRemote",
-    "url": "https://nvidia.eightfold.ai/careers/job/893393583078",
-    "date": "2026-02-21"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Power Methodology and Modeling Engineer - New College Grad 2026\nJR2012047\nUS, TX, Austin",
-    "url": "https://nvidia.eightfold.ai/careers/job/893392955186",
-    "date": "2026-02-21"
   }
 ]
