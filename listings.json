@@ -1,5 +1,35 @@
 [
   {
+    "site": "Netflix",
+    "title": "Video Algorithms Intern, Video Coding (Gaussian Splatting), Fall 2026",
+    "url": null,
+    "date": "2026-04-27"
+  },
+  {
+    "site": "Nvidia",
+    "title": "Applied Machine Learning Engineer, Circuit Design - New College Grad 2026\nJR2011517\nUS, CA, Remote + 1 more\nRemote",
+    "url": "https://nvidia.eightfold.ai/careers/job/893392916064",
+    "date": "2026-04-27"
+  },
+  {
+    "site": "Block",
+    "title": "Software Engineer, Cash App - Lending Products\nRemote\nBay Area, CA, US",
+    "url": "https://block.xyz/careers/jobs/5196173008",
+    "date": "2026-04-27"
+  },
+  {
+    "site": "Block",
+    "title": "Software Engineer, Cash App - Lending Products\nRemote\nNew York, NY, US",
+    "url": "https://block.xyz/careers/jobs/5201726008",
+    "date": "2026-04-27"
+  },
+  {
+    "site": "Block",
+    "title": "Software Engineer, Cash App - Lending Products\nRemote\nVancouver, British Columbia, Canada",
+    "url": "https://block.xyz/careers/jobs/5196175008",
+    "date": "2026-04-27"
+  },
+  {
     "site": "Databricks",
     "title": "MBA Intern - Product Pricing & Commercialization\nSan Francisco, California",
     "url": "https://www.databricks.com/company/careers/business-strategy-and-ops/mba-intern---product-pricing--commercialization-8402615002",
@@ -1540,65 +1570,5 @@
     "title": "Software Development Engineer Internship - Amazon Leo, Summer 2026 (US)",
     "url": "https://www.amazon.jobs/en/jobs/3144153/software-development-engineer-internship-amazon-leo-summer-2026-us",
     "date": "2026-02-26"
-  },
-  {
-    "site": "Nvidia",
-    "title": "ASIC Floorplan Design Engineer - New College Grad 2026\nJR2012971\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893393297040",
-    "date": "2026-02-25"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Software Development Engineer, CAD Infrastructure - New College Grad 2026\nJR2013599\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893393620866",
-    "date": "2026-02-25"
-  },
-  {
-    "site": "Amazon",
-    "title": "IT Application Analyst Intern, AWS",
-    "url": "https://www.amazon.jobs/en/jobs/3186602/it-application-analyst-intern-aws",
-    "date": "2026-02-25"
-  },
-  {
-    "site": "Amazon",
-    "title": "Software Development Engineer - 2026 (US)",
-    "url": "https://www.amazon.jobs/en/jobs/3177934/software-development-engineer-2026-us",
-    "date": "2026-02-25"
-  },
-  {
-    "site": "Amazon",
-    "title": "2026 Annapurna Labs at AWS, Early Career (US) - Machine Learning Systems & Silicon Innovation",
-    "url": "https://www.amazon.jobs/en/jobs/3175965/2026-annapurna-labs-at-aws-early-career-us-machine-learning-systems-silicon-innovation",
-    "date": "2026-02-25"
-  },
-  {
-    "site": "Amazon",
-    "title": "Software Development Engineer - 2026 (Canada)",
-    "url": "https://www.amazon.jobs/en/jobs/3165932/software-development-engineer-2026-canada",
-    "date": "2026-02-25"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Software Engineer, TensorRT Specialized Platforms - New College Grad 2025\nJR2002870\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893384134357",
-    "date": "2026-02-25"
-  },
-  {
-    "site": "Nvidia",
-    "title": "CAD Engineer - New College Grad 2026\nJR2013740\nUS, CA, Santa Clara + 1 more",
-    "url": "https://nvidia.eightfold.ai/careers/job/893393653980",
-    "date": "2026-02-25"
-  },
-  {
-    "site": "Netflix",
-    "title": "Data Visualization Engineering Intern, Summer 2026",
-    "url": null,
-    "date": "2026-02-24"
-  },
-  {
-    "site": "Netflix",
-    "title": "Experimentation & Causal Inference Intern, Summer 2026",
-    "url": null,
-    "date": "2026-02-24"
   }
 ]
