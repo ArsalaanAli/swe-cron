@@ -1,5 +1,47 @@
 [
   {
+    "site": "Amazon",
+    "title": "Software Development Engineer - 2026 (US)",
+    "url": "https://www.amazon.jobs/en/jobs/3177934/software-development-engineer-2026-us",
+    "date": "2026-04-28"
+  },
+  {
+    "site": "Amazon",
+    "title": "2026 Annapurna Labs at AWS, Early Career (US) - Machine Learning Systems & Silicon Innovation",
+    "url": "https://www.amazon.jobs/en/jobs/3175965/2026-annapurna-labs-at-aws-early-career-us-machine-learning-systems-silicon-innovation",
+    "date": "2026-04-28"
+  },
+  {
+    "site": "Amazon",
+    "title": "Software Development Engineer - 2026 (Canada)",
+    "url": "https://www.amazon.jobs/en/jobs/3165932/software-development-engineer-2026-canada",
+    "date": "2026-04-28"
+  },
+  {
+    "site": "Netflix",
+    "title": "Data Visualization Engineering Intern, Summer 2026",
+    "url": null,
+    "date": "2026-04-28"
+  },
+  {
+    "site": "Netflix",
+    "title": "Experimentation & Causal Inference Intern, Summer 2026",
+    "url": null,
+    "date": "2026-04-28"
+  },
+  {
+    "site": "Nvidia",
+    "title": "Research Scientist, Electronic Design Automation - New College Grad 2026\nJR2012979\nUS, CA, Santa Clara",
+    "url": "https://nvidia.eightfold.ai/careers/job/893393263747",
+    "date": "2026-04-28"
+  },
+  {
+    "site": "Nvidia",
+    "title": "Research Scientist, AI Accelerator Design and VLSI - New College Grad 2026\nJR2011644\nUS, CA, Santa Clara",
+    "url": "https://nvidia.eightfold.ai/careers/job/893392854958",
+    "date": "2026-04-28"
+  },
+  {
     "site": "Netflix",
     "title": "Video Algorithms Intern, Video Coding (Gaussian Splatting), Fall 2026",
     "url": null,
@@ -1564,11 +1606,5 @@
     "title": "Security Engineer Intern, Secure Digital Assets Operations (Summer 2026)\nSan Francisco, CA, United States",
     "url": "https://ripple.com/careers/all-jobs/job/7467118/",
     "date": "2026-02-27"
-  },
-  {
-    "site": "Amazon",
-    "title": "Software Development Engineer Internship - Amazon Leo, Summer 2026 (US)",
-    "url": "https://www.amazon.jobs/en/jobs/3144153/software-development-engineer-internship-amazon-leo-summer-2026-us",
-    "date": "2026-02-26"
   }
 ]
