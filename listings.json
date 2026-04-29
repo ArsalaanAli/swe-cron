@@ -1,5 +1,23 @@
 [
   {
+    "site": "Google Early",
+    "title": "Data Engineer, Geo 3P and Developer Data Operations",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/86745576837653190-data-engineer-geo-3p-and-developer-data-operations?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
+    "date": "2026-04-29"
+  },
+  {
+    "site": "Nvidia",
+    "title": "Hardware Applications Engineer - New College Grad 2026\nJR2016940\nUS, CA, Santa Clara",
+    "url": "https://nvidia.eightfold.ai/careers/job/893394949374",
+    "date": "2026-04-29"
+  },
+  {
+    "site": "Nvidia",
+    "title": "CPU Design Engineer - New College Grad 2026\nJR2007624\nUS, OR, Hillsboro + 5 more\nRemote",
+    "url": "https://nvidia.eightfold.ai/careers/job/893391950885",
+    "date": "2026-04-29"
+  },
+  {
     "site": "Amazon",
     "title": "Software Development Engineer Internship - Amazon Leo, Summer 2026 (US)",
     "url": "https://www.amazon.jobs/en/jobs/3144153/software-development-engineer-internship-amazon-leo-summer-2026-us",
@@ -1612,23 +1630,5 @@
     "title": "Software Engineer, Agentic AI for Science - PhD New College Grad 2026\nJR2013057\nUS, CA, Santa Clara",
     "url": "https://nvidia.eightfold.ai/careers/job/893393329170",
     "date": "2026-02-28"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Deep Learning Performance Architect - New College Graduate 2026\nJR2014027\nUS, CA, Santa Clara + 1 more",
-    "url": "https://nvidia.eightfold.ai/careers/job/893393730895",
-    "date": "2026-02-27"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Architecture Energy Modeling Engineer - New College Grad 2026\nJR2011635\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893392918608",
-    "date": "2026-02-27"
-  },
-  {
-    "site": "Ripple",
-    "title": "Security Engineer Intern, Secure Digital Assets Operations (Summer 2026)\nSan Francisco, CA, United States",
-    "url": "https://ripple.com/careers/all-jobs/job/7467118/",
-    "date": "2026-02-27"
   }
 ]
