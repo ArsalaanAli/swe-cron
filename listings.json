@@ -1,5 +1,23 @@
 [
   {
+    "site": "Google Early",
+    "title": "Forward Deployed Engineer I, GenAI, Google Cloud",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/139736153191260870-forward-deployed-engineer-i-genai-google-cloud?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
+    "date": "2026-04-30"
+  },
+  {
+    "site": "Google Early",
+    "title": "Security Engineer, Access Security Team",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/105043434598736582-security-engineer-access-security-team?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
+    "date": "2026-04-30"
+  },
+  {
+    "site": "Block",
+    "title": "Software Engineer, Finance Applications\nRemote\nBay Area, CA, US",
+    "url": "https://block.xyz/careers/jobs/4888459008",
+    "date": "2026-04-30"
+  },
+  {
     "site": "Amazon",
     "title": "Front-End Engineer Fall Internship – 2026 (US)",
     "url": "https://www.amazon.jobs/en/jobs/10407301/front-end-engineer-fall-internship-2026-us",
@@ -1636,35 +1654,5 @@
     "title": "2026 Summer Intern, MS, ML Runtime and Deployment",
     "url": "https://careers.withwaymo.com/jobs/2026-summer-intern-ms-ml-runtime-and-deployment-mountain-view-california-united-states",
     "date": "2026-03-02"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Software Engineer, Robotics - Isaac Lab - New College Grad 2026\nJR2014185\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893393732387",
-    "date": "2026-02-28"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Developer Technology Engineer, CPU Performance - New College Grad 2026\nJR2013804\nUS, CA, Remote + 2 more\nRemote",
-    "url": "https://nvidia.eightfold.ai/careers/job/893393583113",
-    "date": "2026-02-28"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Research Scientist, Robotics Research - PhD New College Grad 2026\nJR2011473\nUS, WA, Seattle",
-    "url": "https://nvidia.eightfold.ai/careers/job/893392824102",
-    "date": "2026-02-28"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Research Scientist, Embodied and Agentic AI - New College Grad 2026\nJR2009464\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893392394339",
-    "date": "2026-02-28"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Software Engineer, Agentic AI for Science - PhD New College Grad 2026\nJR2013057\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893393329170",
-    "date": "2026-02-28"
   }
 ]
