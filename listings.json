@@ -1,5 +1,11 @@
 [
   {
+    "site": "Reddit",
+    "title": "Internal Communications Senior Manager (Global Sales)\n\t\t\t\t\t\t\t\tNew York City, NY",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7510898",
+    "date": "2026-05-04"
+  },
+  {
     "site": "Nvidia",
     "title": "GPU Power Architect - New College Grad 2026\nJR2017169\nUS, CA, Santa Clara",
     "url": "https://nvidia.eightfold.ai/careers/job/893394987881",
@@ -1594,59 +1600,5 @@
     "title": "AI Scientist, Robotics Digital Twins - PhD New College Grad 2026\nJR2013056\nUS, CA, Santa Clara",
     "url": "https://nvidia.eightfold.ai/careers/job/893393329228",
     "date": "2026-03-05"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Firmware Engineer, Memory Subsystem - New College Grad 2026\nJR2010096\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893392589947",
-    "date": "2026-03-04"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Circuit Design Engineer - New College Grad 2026\nJR2014331\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893393862731",
-    "date": "2026-03-04"
-  },
-  {
-    "site": "Nvidia",
-    "title": "GPU Compiler LLVM Backend Intern - 2026\nJR2008002\nChina, Shanghai",
-    "url": "https://nvidia.eightfold.ai/careers/job/893392072199",
-    "date": "2026-03-04"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Signoff Methodology Engineer - New College Grad 2026\nJR2014110\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893393842952",
-    "date": "2026-03-03"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Compiler Engineer, Backend GPU - New College Grad 2026\nJR2014049\nUS, CA, Remote + 5 more\nRemote",
-    "url": "https://nvidia.eightfold.ai/careers/job/893393842967",
-    "date": "2026-03-03"
-  },
-  {
-    "site": "Waymo",
-    "title": "2026 Summer Intern, MS/PhD, ML Runtime and Deployment",
-    "url": "https://careers.withwaymo.com/jobs/2026-summer-intern-ms-phd-ml-runtime-and-deployment-mountain-view-california-united-states",
-    "date": "2026-03-03"
-  },
-  {
-    "site": "Databricks",
-    "title": "MBA Intern - Commercial Transformation\nSan Francisco, California",
-    "url": "https://www.databricks.com/company/careers/business-strategy-and-ops/mba-intern---commercial-transformation-8402617002",
-    "date": "2026-03-03"
-  },
-  {
-    "site": "Databricks",
-    "title": "MBA Intern - Workforce Intelligence\nSan Francisco, California",
-    "url": "https://www.databricks.com/company/careers/people/mba-intern---workforce-intelligence-8402613002",
-    "date": "2026-03-03"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Developer Technology Intern, High-Performance Databases - Summer 2026\nJR2006184\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893391746411",
-    "date": "2026-03-03"
   }
 ]
