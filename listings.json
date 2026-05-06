@@ -1,5 +1,23 @@
 [
   {
+    "site": "Amazon",
+    "title": "Software Development Engineer Intern, AWS Data Services - Fall 2026 (US)",
+    "url": "https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us",
+    "date": "2026-05-06"
+  },
+  {
+    "site": "Google Early",
+    "title": "Hardware Validation Engineer, Cloud Platforms",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/135325114404086470-hardware-validation-engineer-cloud-platforms?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
+    "date": "2026-05-06"
+  },
+  {
+    "site": "Google Early",
+    "title": "Network Implementation Engineer, Network Deployment Engineering, Lab Solutions and Architecture",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/129235194375742150-network-implementation-engineer-network-deployment-engineering-lab-solutions-and-architecture?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
+    "date": "2026-05-06"
+  },
+  {
     "site": "Roblox",
     "title": "Software Engineer, Communication Safety\n\nSan Mateo, CA, United States\nEngineering",
     "url": "https://careers.roblox.com/jobs/7888723",
@@ -1684,11 +1702,5 @@
     "title": "Software Engineer, Product Security\nSan Francisco, California; New York, New York",
     "url": "https://jobs.ashbyhq.com/notion/3c6dd26e-4ffb-44f2-87e2-598f49d74ab5",
     "date": "2026-03-07"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Research Scientist, Platform Architecture and System Software - PhD New College Grad 2026\nJR2013888\nUS, CA, Santa Clara + 2 more",
-    "url": "https://nvidia.eightfold.ai/careers/job/893393648119",
-    "date": "2026-03-06"
   }
 ]
