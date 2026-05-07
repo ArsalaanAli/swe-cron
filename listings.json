@@ -1,5 +1,107 @@
 [
   {
+    "site": "Amazon",
+    "title": "Software Development Engineer, AWS Data Services - 2026 (US)",
+    "url": "https://www.amazon.jobs/en/jobs/10414316/software-development-engineer-aws-data-services-2026-us",
+    "date": "2026-05-07"
+  },
+  {
+    "site": "Amazon",
+    "title": "Software Development Engineer – Amazon Leo (US)",
+    "url": "https://www.amazon.jobs/en/jobs/3144341/software-development-engineer-amazon-leo-us",
+    "date": "2026-05-07"
+  },
+  {
+    "site": "Stripe",
+    "title": "PhD Data Scientist, Intern",
+    "url": "https://stripe.com/jobs/listing/phd-data-scientist-intern/7285974",
+    "date": "2026-05-07"
+  },
+  {
+    "site": "Stripe",
+    "title": "PhD Data Scientist, Intern",
+    "url": "https://stripe.com/jobs/listing/phd-data-scientist-intern/7874965",
+    "date": "2026-05-07"
+  },
+  {
+    "site": "Stripe",
+    "title": "PhD Machine Learning Engineer, Intern",
+    "url": "https://stripe.com/jobs/listing/phd-machine-learning-engineer-intern/7216664",
+    "date": "2026-05-07"
+  },
+  {
+    "site": "Stripe",
+    "title": "Tech Operations Associate, New Grad (Mexico)",
+    "url": "https://stripe.com/jobs/listing/tech-operations-associate-new-grad-mexico/7718947",
+    "date": "2026-05-07"
+  },
+  {
+    "site": "Discord",
+    "title": "Software Engineer, Data Platform",
+    "url": "https://discord.com/jobs/8396927002",
+    "date": "2026-05-07"
+  },
+  {
+    "site": "Discord",
+    "title": "Data Engineer, Analytics",
+    "url": "https://discord.com/jobs/8371252002",
+    "date": "2026-05-07"
+  },
+  {
+    "site": "Nvidia",
+    "title": "ASIC Floorplan Design Engineer - New College Grad 2026\nJR2012971\nUS, CA, Santa Clara",
+    "url": "https://nvidia.eightfold.ai/careers/job/893393297040",
+    "date": "2026-05-07"
+  },
+  {
+    "site": "Nvidia",
+    "title": "ASIC Physical Design Engineer, Netlisting - New College Grad 2026\nJR2017681\nUS, CA, Santa Clara + 1 more",
+    "url": "https://nvidia.eightfold.ai/careers/job/893395048676",
+    "date": "2026-05-07"
+  },
+  {
+    "site": "Notion",
+    "title": "AI Applications Engineer\nSan Francisco, California",
+    "url": "https://jobs.ashbyhq.com/notion/bc9a9573-e963-48a7-b7b9-a32017f28916",
+    "date": "2026-05-07"
+  },
+  {
+    "site": "Notion",
+    "title": "Data Engineer, Finance\nSan Francisco, California",
+    "url": "https://jobs.ashbyhq.com/notion/4d1bce46-3cb1-4a26-b6c6-ac9b02ee413d",
+    "date": "2026-05-07"
+  },
+  {
+    "site": "Notion",
+    "title": "Data Engineer, Go-To-Market\nSan Francisco, California",
+    "url": "https://jobs.ashbyhq.com/notion/655b047b-5e58-4b0c-82f0-8c16b2c03318",
+    "date": "2026-05-07"
+  },
+  {
+    "site": "Notion",
+    "title": "Model Behavior Engineer\nNew York, New York; San Francisco, California",
+    "url": "https://jobs.ashbyhq.com/notion/4bbfad88-0830-46c5-8d05-d95d17d583ca",
+    "date": "2026-05-07"
+  },
+  {
+    "site": "Notion",
+    "title": "Software Engineer, Datastore\nSan Francisco, California; New York, New York",
+    "url": "https://jobs.ashbyhq.com/notion/3fbcf972-52d5-4475-8720-040025c6f7da",
+    "date": "2026-05-07"
+  },
+  {
+    "site": "Notion",
+    "title": "Software Engineer, Developer Experience\nHyderabad, India",
+    "url": "https://jobs.ashbyhq.com/notion/49bdf081-6e20-4323-8c73-6d6b19544ff5",
+    "date": "2026-05-07"
+  },
+  {
+    "site": "Notion",
+    "title": "Software Engineer, Product Infrastructure\nSan Francisco, California; New York, New York",
+    "url": "https://jobs.ashbyhq.com/notion/d41b635b-c17b-4efd-89fd-fdb2ddb62e9a",
+    "date": "2026-05-07"
+  },
+  {
     "site": "Google Early",
     "title": "Optical Validation Engineer, Google Cloud",
     "url": "https://www.google.com/about/careers/applications/jobs/results/143702138877289158-optical-validation-engineer-google-cloud?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
