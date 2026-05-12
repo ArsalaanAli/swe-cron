@@ -1,6 +1,18 @@
 [
   {
     "site": "Nvidia",
+    "title": "Systems Software Engineer - New College Grad 2026\nJR2017083\nUS, OR, Hillsboro",
+    "url": "https://nvidia.eightfold.ai/careers/job/893395087798",
+    "date": "2026-05-12"
+  },
+  {
+    "site": "Nvidia",
+    "title": "Power Methodology and Modeling Engineer - New College Grad 2026\nJR2017486\nUS, TX, Austin",
+    "url": "https://nvidia.eightfold.ai/careers/job/893395016029",
+    "date": "2026-05-12"
+  },
+  {
+    "site": "Nvidia",
     "title": "Power Architect - New College Grad 2026\nJR2017842\nUS, CA, Santa Clara + 1 more",
     "url": "https://nvidia.eightfold.ai/careers/job/893395086021",
     "date": "2026-05-11"
@@ -1588,59 +1600,5 @@
     "title": "Software Engineer II, Data & AI\nSan Francisco, CA, United States",
     "url": "https://ripple.com/careers/all-jobs/job/7654753/",
     "date": "2026-03-16"
-  },
-  {
-    "site": "Discord",
-    "title": "Senior Director, Internal Audit",
-    "url": "https://discord.com/jobs?id=8103520002",
-    "date": "2026-03-12"
-  },
-  {
-    "site": "Discord",
-    "title": "Rust/C++ Software Engineer",
-    "url": "https://discord.com/jobs?id=8177727002",
-    "date": "2026-03-12"
-  },
-  {
-    "site": "Discord",
-    "title": "Software Engineer - Realtime Infrastructure",
-    "url": "https://discord.com/jobs?id=8328560002",
-    "date": "2026-03-12"
-  },
-  {
-    "site": "Discord",
-    "title": "Software Engineer, Data Platform",
-    "url": "https://discord.com/jobs?id=8396927002",
-    "date": "2026-03-12"
-  },
-  {
-    "site": "Discord",
-    "title": "Data Engineer, Analytics",
-    "url": "https://discord.com/jobs?id=8371252002",
-    "date": "2026-03-12"
-  },
-  {
-    "site": "Discord",
-    "title": "Full-Stack Software Engineer, Ads",
-    "url": "https://discord.com/jobs?id=8362007002",
-    "date": "2026-03-12"
-  },
-  {
-    "site": "Notion",
-    "title": "Software Engineer, Data Platform\nSan Francisco, California",
-    "url": "https://jobs.ashbyhq.com/notion/91156750-4050-4621-aa45-0fb068308d2c",
-    "date": "2026-03-12"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Long-Horizon Agents Software Engineer — New College Grad 2026\nJR2014184\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893393996709",
-    "date": "2026-03-12"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Compiler Engineer, Backend GPU - New College Grad 2026\nJR2014049\nUS, CA, Santa Clara + 5 more\nRemote",
-    "url": "https://nvidia.eightfold.ai/careers/job/893393842967",
-    "date": "2026-03-12"
   }
 ]
