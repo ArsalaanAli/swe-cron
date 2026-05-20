@@ -1,6 +1,24 @@
 [
   {
     "site": "Google Early",
+    "title": "Network Implementation Engineer, Network Delivery Implementation",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/141085883171250886-network-implementation-engineer-network-delivery-implementation?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
+    "date": "2026-05-20"
+  },
+  {
+    "site": "Google Early",
+    "title": "Silicon Design Verification Engineer",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/86602986070909638-silicon-design-verification-engineer?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
+    "date": "2026-05-20"
+  },
+  {
+    "site": "Nvidia",
+    "title": "Software Engineer, AI and DL Kernel Libraries - New College Grad 2026\nJR2018473\nUS, CA, Santa Clara + 1 more\nRemote",
+    "url": "https://nvidia.eightfold.ai/careers/job/893395186036",
+    "date": "2026-05-20"
+  },
+  {
+    "site": "Google Early",
     "title": "Modem Power Firmware Engineer, Pixel",
     "url": "https://www.google.com/about/careers/applications/jobs/results/93560687061541574-modem-power-firmware-engineer-pixel?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
     "date": "2026-05-19"
@@ -1834,17 +1852,5 @@
     "title": "Signal and Power Integrity Engineer - Hardware\nJR2014809\nUS, CA, Santa Clara + 1 more",
     "url": "https://nvidia.eightfold.ai/careers/job/893394097035",
     "date": "2026-03-22"
-  },
-  {
-    "site": "Notion",
-    "title": "Software Engineer, Trust\nSan Francisco, California; New York, New York",
-    "url": "https://jobs.ashbyhq.com/notion/0517ac3d-544c-4499-a810-cb794d0f8458",
-    "date": "2026-03-20"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Senior Systems Software Engineer - New College Grad 2026\nJR2015144\nUS, OR, Hillsboro",
-    "url": "https://nvidia.eightfold.ai/careers/job/893394177005",
-    "date": "2026-03-20"
   }
 ]
