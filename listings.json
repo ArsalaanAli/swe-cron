@@ -1,5 +1,11 @@
 [
   {
+    "site": "Reddit",
+    "title": "Frontend Engineer, Ads Growth\n\t\t\t\t\t\t\t\tRemote - United States",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7980795",
+    "date": "2026-06-04"
+  },
+  {
     "site": "Nvidia",
     "title": "AI Inference Performance Engineer - New College Grad 2026\nJR2014441\nUS, CA, Santa Clara",
     "url": "https://nvidia.eightfold.ai/careers/job/893393884394",
@@ -1798,11 +1804,5 @@
     "title": "RTL Power Optimization – New College Grad 2026\nJR2011172\nUS, CA, Santa Clara",
     "url": "https://nvidia.eightfold.ai/careers/job/893392918607",
     "date": "2026-04-06"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Software Engineer, cuDNN - Deep Learning\nJR2002836\nChina, Shanghai",
-    "url": "https://nvidia.eightfold.ai/careers/job/893391245105",
-    "date": "2026-04-04"
   }
 ]
