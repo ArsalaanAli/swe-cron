@@ -1,6 +1,24 @@
 [
   {
     "site": "Google Early",
+    "title": "Hardware Validation Engineer, Cloud Platforms",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/77715221367399110-hardware-validation-engineer-cloud-platforms?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
+    "date": "2026-06-09"
+  },
+  {
+    "site": "Google Early",
+    "title": "Chip CAD DevOps Engineer, Google Cloud",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/76209989948973766-chip-cad-devops-engineer-google-cloud?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
+    "date": "2026-06-09"
+  },
+  {
+    "site": "Coinbase",
+    "title": "Software Engineer, Backend (Consumer - Risk)",
+    "url": "https://www.coinbase.com/careers/positions/7991763",
+    "date": "2026-06-09"
+  },
+  {
+    "site": "Google Early",
     "title": "Data Engineer",
     "url": "https://www.google.com/about/careers/applications/jobs/results/92372690618196678-data-engineer?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
     "date": "2026-06-08"
@@ -1750,35 +1768,5 @@
     "title": "AI and FSI Developer Technology Engineer - New College Grad 2026\nJR2013803\nUS, CA, Remote + 2 more\nRemote",
     "url": "https://nvidia.eightfold.ai/careers/job/893393583078",
     "date": "2026-04-10"
-  },
-  {
-    "site": "Reddit",
-    "title": "Machine Learning Engineer\n\t\t\t\t\t\t\t\tNew York City, NY",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/7793604",
-    "date": "2026-04-09"
-  },
-  {
-    "site": "Reddit",
-    "title": "Machine Learning Engineer\n\t\t\t\t\t\t\t\tSan Francisco, CA",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/7793615",
-    "date": "2026-04-09"
-  },
-  {
-    "site": "Reddit",
-    "title": "Software Engineer\n\t\t\t\t\t\t\t\tSan Francisco, CA",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/7792819",
-    "date": "2026-04-09"
-  },
-  {
-    "site": "Amazon",
-    "title": "Software Development Engineer Internship - Fall 2026 (Canada)",
-    "url": "https://www.amazon.jobs/en/jobs/10387163/software-development-engineer-internship-fall-2026-canada",
-    "date": "2026-04-09"
-  },
-  {
-    "site": "Reddit",
-    "title": "International Strategic Finance, London\n\t\t\t\t\t\t\t\tLondon, United Kingdom",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/7520366",
-    "date": "2026-04-09"
   }
 ]
