@@ -283,6 +283,7 @@
     .badge-ripple     { background: rgba(0,120,210,0.12);   color: #4DA0E8; border-color: rgba(0,120,210,0.2); }
     .badge-dropbox    { background: rgba(0,97,255,0.12);    color: #5AA3FF; border-color: rgba(0,97,255,0.2); }
     .badge-tesla      { background: rgba(204,0,0,0.12);     color: #E85A5A; border-color: rgba(204,0,0,0.2); }
+    .badge-apple      { background: rgba(164,164,164,0.12); color: #C4C4C4; border-color: rgba(164,164,164,0.2); }
     .badge-default    { background: rgba(255,255,255,0.06); color: var(--text-secondary); border-color: rgba(255,255,255,0.1); }
 
     /* Card content */
@@ -418,8 +419,9 @@
       const known = ['nvidia','amazon','google','meta','netflix','salesforce','bloomberg',
         'coinbase','doordash','stripe','ramp','riot','roblox','discord','waymo','pinterest',
         'datadog','duolingo','databricks','reddit','notion','plaid','block','slack','figma',
-        'ripple','dropbox','tesla'];
-      return known.includes(key) ? `badge-${key}` : 'badge-default';
+        'ripple','dropbox','tesla','apple'];
+      const match = known.find(k => key.startsWith(k));
+      return match ? `badge-${match}` : 'badge-default';
     }
 
     function formatDate(dateStr) {
