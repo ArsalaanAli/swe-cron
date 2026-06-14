@@ -12,7 +12,11 @@
     "tag": ".Ln1EL"
   },  
   "Meta": {
-    "link": "https://www.metacareers.com/jobsearch?teams[0]=University%20Grad%20-%20Business&teams[1]=University%20Grad%20-%20Engineering%2C%20Tech%20%26%20Design&teams[2]=University%20Grad%20-%20PhD%20%26%20Postdoc&sort_by_new=true&q=software%20engineer%20intern&roles[0]=Internship",
+    "link": "https://www.metacareers.com/jobsearch/?sort_by_new=true&roles[0]=Full%20time%20employment&roles[1]=Internship&q=engineer%20internship",
+    "tag": "a[href*='/profile/job_details/']"
+  },
+  "Meta New Grad": {
+    "link": "https://www.metacareers.com/jobsearch/?sort_by_new=true&roles[0]=Full%20time%20employment&roles[1]=Internship&q=engineer%20university%20grad",
     "tag": "a[href*='/profile/job_details/']"
   },
   "Netflix": {
