@@ -1,5 +1,11 @@
 [
   {
+    "site": "Coinbase",
+    "title": "Software Engineer",
+    "url": "https://www.coinbase.com/careers/positions/8003605",
+    "date": "2026-06-17"
+  },
+  {
     "site": "Amazon",
     "title": "Software Development Engineer Internship - Fall 2026 (Canada)",
     "url": "https://www.amazon.jobs/en/jobs/10387163/software-development-engineer-internship-fall-2026-canada",
@@ -1756,17 +1762,5 @@
     "title": "IT Support Technician Intern",
     "url": "https://careers.datadoghq.com/detail/7391788/?gh_jid=7391788",
     "date": "2026-04-20"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Deep Learning Software Engineer, FlashInfer - New College Grad 2025\nJR2002086\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893384037168",
-    "date": "2026-04-17"
-  },
-  {
-    "site": "Google Early",
-    "title": "Forward Deployed Developer, GenAI, Google Cloud",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/115303524132102854-forward-deployed-developer-genai-google-cloud?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
-    "date": "2026-04-17"
   }
 ]
