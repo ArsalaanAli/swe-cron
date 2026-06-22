@@ -1,5 +1,29 @@
 [
   {
+    "site": "Nvidia",
+    "title": "ASIC Hardware Design Engineer - New College Grad 2026\nJR2011787\nUS, TX, Austin",
+    "url": "https://nvidia.eightfold.ai/careers/job/893392917966",
+    "date": "2026-06-22"
+  },
+  {
+    "site": "Reddit",
+    "title": "Machine Learning Engineer\n\t\t\t\t\t\t\t\tNew York City, NY",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8014401",
+    "date": "2026-06-22"
+  },
+  {
+    "site": "Reddit",
+    "title": "Machine Learning Engineer\n\t\t\t\t\t\t\t\tSan Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8014436",
+    "date": "2026-06-22"
+  },
+  {
+    "site": "Reddit",
+    "title": "Software Engineer\n\t\t\t\t\t\t\t\tSan Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8013591",
+    "date": "2026-06-22"
+  },
+  {
     "site": "Plaid",
     "title": "Software Engineer, Backend",
     "url": "https://plaid.com/careers/openings/engineering/new-york-city-office/software-engineer-backend-2/",
@@ -1750,53 +1774,5 @@
     "title": "Deep Learning Architect, LLM Inference - New College Grad 2026\nJR2016950\nUS, CA, Santa Clara",
     "url": "https://nvidia.eightfold.ai/careers/job/893394852156",
     "date": "2026-04-23"
-  },
-  {
-    "site": "Pinterest",
-    "title": "Master's Fall Machine Learning Internship (ATG - Visual Search)",
-    "url": "https://www.pinterestcareers.com/jobs/7253017/masters-fall-machine-learning-internship-atg-visual-search/?gh_jid=7253017",
-    "date": "2026-04-22"
-  },
-  {
-    "site": "Reddit",
-    "title": "Software Engineer, ACE\n\t\t\t\t\t\t\t\tLondon, United Kingdom",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/7843951",
-    "date": "2026-04-22"
-  },
-  {
-    "site": "Google Early",
-    "title": "Security Engineer, Access Risk Intelligence and Security Mitigation",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/74402318644060870-security-engineer-access-risk-intelligence-and-security-mitigation?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
-    "date": "2026-04-21"
-  },
-  {
-    "site": "Notion",
-    "title": "Software Engineer, AI Capture\nSan Francisco, California",
-    "url": "https://jobs.ashbyhq.com/notion/b31ce253-4238-4ed6-a5a2-73b63cbf1709",
-    "date": "2026-04-21"
-  },
-  {
-    "site": "Nvidia",
-    "title": "CPU Design Engineer - New College Grad 2026\nJR2007624\nUS, CA, Remote + 5 more\nRemote",
-    "url": "https://nvidia.eightfold.ai/careers/job/893391950885",
-    "date": "2026-04-20"
-  },
-  {
-    "site": "Nvidia",
-    "title": "ASIC Verification Engineer - New College Grad 2026\nJR2016248\nUS, NC, Durham + 2 more",
-    "url": "https://nvidia.eightfold.ai/careers/job/893394695273",
-    "date": "2026-04-20"
-  },
-  {
-    "site": "Pinterest",
-    "title": "PhD Fall Machine Learning Intern (ATG — Visual, Multimodal, and Recommender Systems)",
-    "url": "https://www.pinterestcareers.com/jobs/7255640/phd-fall-machine-learning-intern-atg-visual-multimodal-and-recommender-systems/?gh_jid=7255640",
-    "date": "2026-04-20"
-  },
-  {
-    "site": "Datadog",
-    "title": "IT Support Technician Intern",
-    "url": "https://careers.datadoghq.com/detail/7391788/?gh_jid=7391788",
-    "date": "2026-04-20"
   }
 ]
