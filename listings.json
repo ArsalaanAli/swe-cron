@@ -1,5 +1,23 @@
 [
   {
+    "site": "Google Early",
+    "title": "Design Verification Engineer, TPU Cloud Compute",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/131330438437184198-design-verification-engineer-tpu-cloud-compute?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
+    "date": "2026-06-23"
+  },
+  {
+    "site": "Reddit",
+    "title": "Machine Learning Systems Engineer, Ads ML Platform\n\t\t\t\t\t\t\t\tRemote - The Netherlands",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8022942",
+    "date": "2026-06-23"
+  },
+  {
+    "site": "Reddit",
+    "title": "Machine Learning Systems Engineer, Ads ML Platform\n\t\t\t\t\t\t\t\tRemote - United Kingdom",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8022937",
+    "date": "2026-06-23"
+  },
+  {
     "site": "Salesforce",
     "title": "AI Operations Engineer",
     "url": "https://careers.salesforce.com/en/jobs/jr346023/ai-operations-engineer/",
@@ -1726,83 +1744,5 @@
     "title": "ASIC Verification Engineer - New College Grad 2026\nJR2012573\nUS, TX, Austin + 1 more",
     "url": "https://nvidia.eightfold.ai/careers/job/893393262025",
     "date": "2026-04-24"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Applied AI Engineer, Silicon Co-Design Group, New College Grad 2026\nJR2015814\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893394391567",
-    "date": "2026-04-23"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Applied AI Engineer - Silicon Co-Design Group\nJR2016228\nChina, Shanghai",
-    "url": "https://nvidia.eightfold.ai/careers/job/893394620729",
-    "date": "2026-04-23"
-  },
-  {
-    "site": "Block",
-    "title": "Software Engineer, Cash App - Controls\nVancouver, British Columbia, Canada",
-    "url": "https://block.xyz/careers/jobs/5069263008",
-    "date": "2026-04-23"
-  },
-  {
-    "site": "Block",
-    "title": "Software Engineer, Cash App - Controls\nBay Area, CA, US",
-    "url": "https://block.xyz/careers/jobs/5069261008",
-    "date": "2026-04-23"
-  },
-  {
-    "site": "Block",
-    "title": "Software Engineer, Cash App - Controls\nNew York, NY, US",
-    "url": "https://block.xyz/careers/jobs/5198719008",
-    "date": "2026-04-23"
-  },
-  {
-    "site": "Google Early",
-    "title": "nGP Software and Tools Systems Development Engineer",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/94763384204862150-ngp-software-and-tools-systems-development-engineer?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
-    "date": "2026-04-23"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Software QA Engineer- New College Grad 2026\nJR2016688\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893394871692",
-    "date": "2026-04-23"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Formal Verification Engineer - New College Grad 2026\nJR2013674\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893393546843",
-    "date": "2026-04-23"
-  },
-  {
-    "site": "Notion",
-    "title": "Software Engineer, Collections Experience\nSan Francisco, California; New York, New York",
-    "url": "https://jobs.ashbyhq.com/notion/5d8c1ec6-e9ea-416b-9715-880bf5037abc",
-    "date": "2026-04-23"
-  },
-  {
-    "site": "Amazon",
-    "title": "(Fall 2026) Annapurna Labs at AWS Internship (US) - Machine Learning Systems & Silicon Innovation",
-    "url": "https://www.amazon.jobs/en/jobs/10400153/fall-2026-annapurna-labs-at-aws-internship-us-machine-learning-systems-silicon-innovation",
-    "date": "2026-04-23"
-  },
-  {
-    "site": "Netflix",
-    "title": "Internet Measurement Research Intern - OpenConnect Distributed Systems, Summer 2026",
-    "url": null,
-    "date": "2026-04-23"
-  },
-  {
-    "site": "Nvidia",
-    "title": "GPU Power Architect - New College Grad 2026\nJR2016783\nUS, CA, Santa Clara + 1 more",
-    "url": "https://nvidia.eightfold.ai/careers/job/893394854442",
-    "date": "2026-04-23"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Deep Learning Architect, LLM Inference - New College Grad 2026\nJR2016950\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893394852156",
-    "date": "2026-04-23"
   }
 ]
