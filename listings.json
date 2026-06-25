@@ -1,6 +1,12 @@
 [
   {
     "site": "Google Early",
+    "title": "IP DFT Engineer",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/85256275553592006-ip-dft-engineer?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
+    "date": "2026-06-25"
+  },
+  {
+    "site": "Google Early",
     "title": "Network Implementation Engineer",
     "url": "https://www.google.com/about/careers/applications/jobs/results/124173614172775110-network-implementation-engineer?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
     "date": "2026-06-24"
@@ -1756,23 +1762,5 @@
     "title": "Software Engineer, Cash App - Lending Products\nRemote\nVancouver, British Columbia, Canada",
     "url": "https://block.xyz/careers/jobs/5196175008",
     "date": "2026-04-27"
-  },
-  {
-    "site": "Databricks",
-    "title": "MBA Intern - Product Pricing & Commercialization\nSan Francisco, California",
-    "url": "https://www.databricks.com/company/careers/business-strategy-and-ops/mba-intern---product-pricing--commercialization-8402615002",
-    "date": "2026-04-25"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Software Engineer, AI Networking- New College Grad 2026\nJR2017100\nUS, CA, Santa Clara + 1 more",
-    "url": "https://nvidia.eightfold.ai/careers/job/893394887129",
-    "date": "2026-04-25"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Research Scientist, ML Systems - PhD New College Grad 2026\nJR2010435\nSingapore, Singapore-Suntec Tower + 1 more\nRemote",
-    "url": "https://nvidia.eightfold.ai/careers/job/893392589944",
-    "date": "2026-04-25"
   }
 ]
