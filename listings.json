@@ -1,5 +1,35 @@
 [
   {
+    "site": "Amazon",
+    "title": "Software Development Engineer – Embedded Systems 2026 (US)",
+    "url": "https://www.amazon.jobs/en/jobs/3183020/software-development-engineer-embedded-systems-2026-us",
+    "date": "2026-06-29"
+  },
+  {
+    "site": "Nvidia",
+    "title": "Compiler Engineer - Smart Network Devices- New College Grad 2026\nJR2020535\nUS, CA, Santa Clara",
+    "url": "https://nvidia.eightfold.ai/careers/job/893396004995",
+    "date": "2026-06-29"
+  },
+  {
+    "site": "Duolingo",
+    "title": "Software Engineer I",
+    "url": "https://careers.duolingo.com/jobs/8612080002",
+    "date": "2026-06-29"
+  },
+  {
+    "site": "Reddit",
+    "title": "Machine Learning Engineer\n\t\t\t\t\t\t\t\tSan Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8026401",
+    "date": "2026-06-29"
+  },
+  {
+    "site": "Reddit",
+    "title": "Software Engineer\n\t\t\t\t\t\t\t\tSan Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8026180",
+    "date": "2026-06-29"
+  },
+  {
     "site": "Netflix",
     "title": "Video Algorithms Intern, Video Coding (Gaussian Splatting), Fall 2026",
     "url": null,
@@ -1678,125 +1708,5 @@
     "title": "Software Engineer, Finance Applications\nRemote\nBay Area, CA, US",
     "url": "https://block.xyz/careers/jobs/4888459008",
     "date": "2026-04-30"
-  },
-  {
-    "site": "Amazon",
-    "title": "Front-End Engineer Fall Internship – 2026 (US)",
-    "url": "https://www.amazon.jobs/en/jobs/10407301/front-end-engineer-fall-internship-2026-us",
-    "date": "2026-04-29"
-  },
-  {
-    "site": "Salesforce",
-    "title": "Summer 2026 Intern - Recruiting Analytics",
-    "url": "https://careers.salesforce.com/en/jobs/jr339759/summer-2026-intern-recruiting-analytics/",
-    "date": "2026-04-29"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Compiler Engineer, Backend- New College Grad 2026\nJR2017290\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893394959617",
-    "date": "2026-04-29"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Backend Compiler Engineer\nJR2017221\nUS, TX, Austin + 5 more\nRemote",
-    "url": "https://nvidia.eightfold.ai/careers/job/893394960171",
-    "date": "2026-04-29"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Solutions Architect, Data Processing - New College Grad 2026\nJR2017017\nUS, CA, Santa Clara + 1 more\nRemote",
-    "url": "https://nvidia.eightfold.ai/careers/job/893394883767",
-    "date": "2026-04-29"
-  },
-  {
-    "site": "Google Early",
-    "title": "Network Implementation Engineer, Network Delivery Implementation",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/128004750669947590-network-implementation-engineer-network-delivery-implementation?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
-    "date": "2026-04-29"
-  },
-  {
-    "site": "Google Early",
-    "title": "Data Engineer, Geo 3P and Developer Data Operations",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/86745576837653190-data-engineer-geo-3p-and-developer-data-operations?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
-    "date": "2026-04-29"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Hardware Applications Engineer - New College Grad 2026\nJR2016940\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893394949374",
-    "date": "2026-04-29"
-  },
-  {
-    "site": "Nvidia",
-    "title": "CPU Design Engineer - New College Grad 2026\nJR2007624\nUS, OR, Hillsboro + 5 more\nRemote",
-    "url": "https://nvidia.eightfold.ai/careers/job/893391950885",
-    "date": "2026-04-29"
-  },
-  {
-    "site": "Amazon",
-    "title": "Software Development Engineer Internship - Amazon Leo, Summer 2026 (US)",
-    "url": "https://www.amazon.jobs/en/jobs/3144153/software-development-engineer-internship-amazon-leo-summer-2026-us",
-    "date": "2026-04-28"
-  },
-  {
-    "site": "Nvidia",
-    "title": "CAD Engineer - New College Grad 2026\nJR2013740\nUS, CA, Santa Clara + 1 more",
-    "url": "https://nvidia.eightfold.ai/careers/job/893393653980",
-    "date": "2026-04-28"
-  },
-  {
-    "site": "Plaid",
-    "title": "Software Engineer - Europe",
-    "url": "https://plaid.com/careers/openings/engineering/london/software-engineer-europe/",
-    "date": "2026-04-28"
-  },
-  {
-    "site": "Duolingo",
-    "title": "Software Engineer I",
-    "url": "https://careers.duolingo.com/jobs/8526793002",
-    "date": "2026-04-28"
-  },
-  {
-    "site": "Amazon",
-    "title": "Software Development Engineer - 2026 (US)",
-    "url": "https://www.amazon.jobs/en/jobs/3177934/software-development-engineer-2026-us",
-    "date": "2026-04-28"
-  },
-  {
-    "site": "Amazon",
-    "title": "2026 Annapurna Labs at AWS, Early Career (US) - Machine Learning Systems & Silicon Innovation",
-    "url": "https://www.amazon.jobs/en/jobs/3175965/2026-annapurna-labs-at-aws-early-career-us-machine-learning-systems-silicon-innovation",
-    "date": "2026-04-28"
-  },
-  {
-    "site": "Amazon",
-    "title": "Software Development Engineer - 2026 (Canada)",
-    "url": "https://www.amazon.jobs/en/jobs/3165932/software-development-engineer-2026-canada",
-    "date": "2026-04-28"
-  },
-  {
-    "site": "Netflix",
-    "title": "Data Visualization Engineering Intern, Summer 2026",
-    "url": null,
-    "date": "2026-04-28"
-  },
-  {
-    "site": "Netflix",
-    "title": "Experimentation & Causal Inference Intern, Summer 2026",
-    "url": null,
-    "date": "2026-04-28"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Research Scientist, Electronic Design Automation - New College Grad 2026\nJR2012979\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893393263747",
-    "date": "2026-04-28"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Research Scientist, AI Accelerator Design and VLSI - New College Grad 2026\nJR2011644\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893392854958",
-    "date": "2026-04-28"
   }
 ]
