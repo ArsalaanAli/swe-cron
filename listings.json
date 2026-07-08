@@ -1,5 +1,11 @@
 [
   {
+    "site": "Google Early",
+    "title": "Software Engineer II, Early Career, Google Cloud AI Career Catalyst Program",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/138156162599002822-software-engineer-ii-early-career-google-cloud-ai-career-catalyst-program?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
+    "date": "2026-07-08"
+  },
+  {
     "site": "Nvidia",
     "title": "ASIC Verification Engineer - New College Grad 2026\nJR2020640\nUS, CA, Santa Clara",
     "url": "https://nvidia.eightfold.ai/careers/job/893396189448",
@@ -1522,17 +1528,5 @@
     "title": "GPU System and Scheduling Architect - New College Grad 2026\nJR2016691\nUS, CA, Santa Clara",
     "url": "https://nvidia.eightfold.ai/careers/job/893395078465",
     "date": "2026-05-11"
-  },
-  {
-    "site": "Google Early",
-    "title": "SAP Application Engineer, Supply Chain Logistics",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/77148734407746246-sap-application-engineer-supply-chain-logistics?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
-    "date": "2026-05-08"
-  },
-  {
-    "site": "Discord",
-    "title": "Software Engineer, Core Product",
-    "url": "https://discord.com/jobs/8520965002",
-    "date": "2026-05-08"
   }
 ]
