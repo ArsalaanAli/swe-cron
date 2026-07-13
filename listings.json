@@ -1,5 +1,11 @@
 [
   {
+    "site": "Apple",
+    "title": "AI Software Engineer, Apple Cloud AI Platform",
+    "url": "https://jobs.apple.com/en-ca/details/200671631-0836/ai-software-engineer-apple-cloud-ai-platform?team=SFTWR",
+    "date": "2026-07-13"
+  },
+  {
     "site": "Reddit",
     "title": "Backend Engineer, Moderation Enforcement\n\t\t\t\t\t\t\t\tRemote - United States",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/7922994",
@@ -1486,89 +1492,5 @@
     "title": "Data Engineer, Operations and Infrastructure Data Science",
     "url": "https://www.google.com/about/careers/applications/jobs/results/112955719988191942-data-engineer-operations-and-infrastructure-data-science?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
     "date": "2026-05-14"
-  },
-  {
-    "site": "Amazon",
-    "title": "Software Development Engineer - Military Veterans",
-    "url": "https://www.amazon.jobs/en/jobs/3179205/software-development-engineer-military-veterans",
-    "date": "2026-05-13"
-  },
-  {
-    "site": "Notion",
-    "title": "Software Engineer, Agent Dev Velocity\nSan Francisco, California; New York, New York",
-    "url": "https://jobs.ashbyhq.com/notion/c565d3b0-0dcf-4bcd-b29b-4168479ac78e",
-    "date": "2026-05-13"
-  },
-  {
-    "site": "Amazon",
-    "title": "Software Development Engineer Fall Intern - Military Veteran",
-    "url": "https://www.amazon.jobs/en/jobs/3179209/software-development-engineer-fall-intern-military-veteran",
-    "date": "2026-05-13"
-  },
-  {
-    "site": "Notion",
-    "title": "Software Engineer, AI Dev Velocity\nSan Francisco, California; New York, New York",
-    "url": "https://jobs.ashbyhq.com/notion/c565d3b0-0dcf-4bcd-b29b-4168479ac78e",
-    "date": "2026-05-13"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Circuit Design Engineer, Power Modeling and Simulation - New College Grad 2026\nJR2009985\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893392526581",
-    "date": "2026-05-13"
-  },
-  {
-    "site": "Nvidia",
-    "title": "DFT Engineer - New College Grad\nJR2016865\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893394773734",
-    "date": "2026-05-12"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Signal and Power Integrity Engineer - New College Grad 2026\nJR2017741\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893395106253",
-    "date": "2026-05-12"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Signoff Methodology Engineer - New College Grad 2026\nJR2014110\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893393842952",
-    "date": "2026-05-12"
-  },
-  {
-    "site": "Nvidia",
-    "title": "GPU Verification Engineer - New College Grad 2026\nJR2017593\nUS, MA, Westford",
-    "url": "https://nvidia.eightfold.ai/careers/job/893395048742",
-    "date": "2026-05-12"
-  },
-  {
-    "site": "Amazon",
-    "title": "Software Development Engineer Intern",
-    "url": "https://www.amazon.jobs/en/jobs/3179209/software-development-engineer-intern",
-    "date": "2026-05-12"
-  },
-  {
-    "site": "Reddit",
-    "title": "Software Engineer\n\t\t\t\t\t\t\t\tSan Francisco, CA",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/7871453",
-    "date": "2026-05-12"
-  },
-  {
-    "site": "Notion",
-    "title": "Software Engineer, Data Platform\nSan Francisco, California",
-    "url": "https://jobs.ashbyhq.com/notion/91156750-4050-4621-aa45-0fb068308d2c",
-    "date": "2026-05-12"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Systems Software Engineer - New College Grad 2026\nJR2017083\nUS, OR, Hillsboro",
-    "url": "https://nvidia.eightfold.ai/careers/job/893395087798",
-    "date": "2026-05-12"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Power Methodology and Modeling Engineer - New College Grad 2026\nJR2017486\nUS, TX, Austin",
-    "url": "https://nvidia.eightfold.ai/careers/job/893395016029",
-    "date": "2026-05-12"
   }
 ]
