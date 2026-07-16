@@ -1,5 +1,17 @@
 [
   {
+    "site": "Nvidia",
+    "title": "Physical Design Methodology and Operations Engineer - New College Grad 2026\nJR2021434\nUS, CA, Santa Clara",
+    "url": "https://nvidia.eightfold.ai/careers/job/893396367409",
+    "date": "2026-07-16"
+  },
+  {
+    "site": "Nvidia",
+    "title": "Systems Software Engineer - New College Grad 2026\nJR2017083\nUS, OR, Hillsboro",
+    "url": "https://nvidia.eightfold.ai/careers/job/893395087798",
+    "date": "2026-07-16"
+  },
+  {
     "site": "Google Early",
     "title": "Security Engineer, Detection",
     "url": "https://www.google.com/about/careers/applications/jobs/results/108836916245209798-security-engineer-detection?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
@@ -1450,41 +1462,5 @@
     "title": "Forward Deployed Engineer I, GenAI, Google Cloud",
     "url": "https://www.google.com/about/careers/applications/jobs/results/102008123228594886-forward-deployed-engineer-i-genai-google-cloud?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
     "date": "2026-05-18"
-  },
-  {
-    "site": "Roblox",
-    "title": "[2026] Software Engineer, Game Developer\n\nSan Mateo, CA, United States\nEarly Career",
-    "url": "https://careers.roblox.com/jobs/7557910",
-    "date": "2026-05-16"
-  },
-  {
-    "site": "Plaid",
-    "title": "Software Engineer, Backend",
-    "url": "https://plaid.com/careers/openings/all-cost-centers/new-york-city-office/software-engineer-backend/",
-    "date": "2026-05-16"
-  },
-  {
-    "site": "Plaid",
-    "title": "Software Engineer, Full Stack",
-    "url": "https://plaid.com/careers/openings/all-cost-centers/new-york-city-office/software-engineer-full-stack/",
-    "date": "2026-05-16"
-  },
-  {
-    "site": "Plaid",
-    "title": "Software Engineer, Backend",
-    "url": "https://plaid.com/careers/openings/all-cost-centers/san-francisco-hq/software-engineer-backend/",
-    "date": "2026-05-16"
-  },
-  {
-    "site": "Plaid",
-    "title": "Software Engineer, Full Stack",
-    "url": "https://plaid.com/careers/openings/all-cost-centers/san-francisco-hq/software-engineer-full-stack/",
-    "date": "2026-05-16"
-  },
-  {
-    "site": "Plaid",
-    "title": "Software Engineer, Backend",
-    "url": "https://plaid.com/careers/openings/all-cost-centers/seattle-office/software-engineer-backend/",
-    "date": "2026-05-16"
   }
 ]
