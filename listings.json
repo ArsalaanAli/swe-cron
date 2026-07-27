@@ -1,5 +1,17 @@
 [
   {
+    "site": "Google Early",
+    "title": "Mechatronics Engineer",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/75375433779946182-mechatronics-engineer?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
+    "date": "2026-07-27"
+  },
+  {
+    "site": "Google Early",
+    "title": "Network Operations Engineer, Network (English)",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/108992348964168390-network-operations-engineer-network-english?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
+    "date": "2026-07-27"
+  },
+  {
     "site": "Apple",
     "title": "Software Engineer - Customer Feedback",
     "url": "https://jobs.apple.com/en-ca/details/200673955-3543/software-engineer-customer-feedback?team=SFTWR",
@@ -1480,71 +1492,5 @@
     "title": "Software Engineer, Web Infrastructure\nSan Francisco, California; New York, New York",
     "url": "https://jobs.ashbyhq.com/notion/6895adad-5031-4dce-9e8e-b9361d3a2850",
     "date": "2026-05-28"
-  },
-  {
-    "site": "Google Early",
-    "title": "Forward Deployed Developer, Generative AI, Google Cloud",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/133526255398986438-forward-deployed-developer-generative-ai-google-cloud?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
-    "date": "2026-05-27"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Compiler Engineer, Compute Front-End - New College Grad 2026\nJR2013488\nUS, CA, Santa Clara + 2 more",
-    "url": "https://nvidia.eightfold.ai/careers/job/893393460933",
-    "date": "2026-05-26"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Circuit Design Engineer - New College Grad 2026\nJR2018635\nUS, CA, Remote + 1 more\nRemote",
-    "url": "https://nvidia.eightfold.ai/careers/job/893395273228",
-    "date": "2026-05-26"
-  },
-  {
-    "site": "Reddit",
-    "title": "Analytics Engineer\n\t\t\t\t\t\t\t\tRemote - United States",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/7958354",
-    "date": "2026-05-26"
-  },
-  {
-    "site": "Reddit",
-    "title": "Analytics Engineer\n\t\t\t\t\t\t\t\tToronto, Canada",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/7958385",
-    "date": "2026-05-26"
-  },
-  {
-    "site": "Roblox",
-    "title": "Software Engineer, Monetization Products\n\nSan Mateo, CA, United States\nEngineering",
-    "url": "https://careers.roblox.com/jobs/7947219",
-    "date": "2026-05-26"
-  },
-  {
-    "site": "Plaid",
-    "title": "Software Engineer IC4",
-    "url": "https://plaid.com/careers/openings/engineering/london-office/software-engineer-ic-4/",
-    "date": "2026-05-26"
-  },
-  {
-    "site": "Google Intern",
-    "title": "Open Engineering Career Opportunities, CapitalG Portfolio Companies",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/124491726204084934-open-engineering-career-opportunities-capitalg-portfolio-companies?location=United%20States&location=Canada&q=software&target_level=INTERN_AND_APPRENTICE&sort_by=date#!t=jo&jid=127025001&",
-    "date": "2026-05-25"
-  },
-  {
-    "site": "Google Early",
-    "title": "Forward Deployed Engineer I, Applied AI, Google Cloud",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/114621883831198406-forward-deployed-engineer-i-applied-ai-google-cloud?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
-    "date": "2026-05-25"
-  },
-  {
-    "site": "Ramp",
-    "title": "Software Engineer Internship, Android\nNew York, NY (HQ)",
-    "url": "https://jobs.ashbyhq.com/ramp/67fadb77-43d8-4449-954b-d4cf2c6d3b8b",
-    "date": "2026-05-25"
-  },
-  {
-    "site": "Notion",
-    "title": "Software Engineer, Infrastructure\nHyderabad, India",
-    "url": "https://jobs.ashbyhq.com/notion/42f18ccd-c4c8-4a85-8c1f-de12c575fe87",
-    "date": "2026-05-25"
   }
 ]
