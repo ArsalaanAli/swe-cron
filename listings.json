@@ -1,5 +1,17 @@
 [
   {
+    "site": "Discord",
+    "title": "Data Engineer",
+    "url": "https://discord.com/jobs/8614971002",
+    "date": "2026-07-30"
+  },
+  {
+    "site": "Apple",
+    "title": "Swift Software Engineer, SWE Program Tools",
+    "url": "https://jobs.apple.com/en-ca/details/200675075-0836/swift-software-engineer-swe-program-tools?team=SFTWR",
+    "date": "2026-07-30"
+  },
+  {
     "site": "Block",
     "title": "Software Engineer, Reconciliation & Reporting\nRemote\nBay Area, CA, US",
     "url": "https://block.xyz/careers/jobs/5369941008",
@@ -1504,17 +1516,5 @@
     "title": "Deep Learning Computer Architect - New College Grad 2026\nJR2019178\nUS, CA, Santa Clara + 1 more",
     "url": "https://nvidia.eightfold.ai/careers/job/893395379838",
     "date": "2026-06-01"
-  },
-  {
-    "site": "Google Early",
-    "title": "ASIC Design Verification Engineer, Google Cloud",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/77174102632080070-asic-design-verification-engineer-google-cloud?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
-    "date": "2026-05-29"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Software Engineer, TensorRT Specialized Platforms - New College Grad 2025\nJR2002870\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893384134357",
-    "date": "2026-05-29"
   }
 ]
