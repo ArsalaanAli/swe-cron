@@ -1,5 +1,11 @@
 [
   {
+    "site": "Roblox",
+    "title": "Software Engineer, Communications\n\nSan Mateo, CA, United States\nEarly Career",
+    "url": "https://careers.roblox.com/jobs/8083944",
+    "date": "2026-08-01"
+  },
+  {
     "site": "Apple",
     "title": "Compute Runtime Software Engineer",
     "url": "https://jobs.apple.com/en-ca/details/200675127-3337/compute-runtime-software-engineer?team=SFTWR",
@@ -1522,17 +1528,5 @@
     "title": "Senior Software Engineer - Full Stack Internal Tooling (Build and Deployment Platform)\n\t\t\t\t\t\t\t\tRemote - United States",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/7976852",
     "date": "2026-06-02"
-  },
-  {
-    "site": "Reddit",
-    "title": "Software Engineer\n\t\t\t\t\t\t\t\tRemote - Ontario, Canada",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/6909093",
-    "date": "2026-06-01"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Deep Learning Computer Architect - New College Grad 2026\nJR2019178\nUS, CA, Santa Clara + 1 more",
-    "url": "https://nvidia.eightfold.ai/careers/job/893395379838",
-    "date": "2026-06-01"
   }
 ]
