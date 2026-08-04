@@ -1,5 +1,11 @@
 [
   {
+    "site": "Apple",
+    "title": "Software Engineer - Early Career (Front-end)",
+    "url": "https://jobs.apple.com/en-ca/details/200660851-0157/software-engineer-early-career-front-end?team=SFTWR",
+    "date": "2026-08-04"
+  },
+  {
     "site": "Discord",
     "title": "Software Engineer, Distributed Systems",
     "url": "https://discord.com/jobs/8545663002",
@@ -1474,29 +1480,5 @@
     "title": "Manufacturing Engineer, Edge Supply Chain Manufacturing Engineering",
     "url": "https://www.google.com/about/careers/applications/jobs/results/128829116055986886-manufacturing-engineer-edge-supply-chain-manufacturing-engineering?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
     "date": "2026-06-05"
-  },
-  {
-    "site": "Google Early",
-    "title": "Hardware Validation Engineer, ML Products, University Graduate",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/107128442041836230-hardware-validation-engineer-ml-products-university-graduate?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
-    "date": "2026-06-04"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Software R&D Engineer, VLSI Physical Design - New College Grad 2026\nJR2019330\nUS, TX, Austin",
-    "url": "https://nvidia.eightfold.ai/careers/job/893395449216",
-    "date": "2026-06-04"
-  },
-  {
-    "site": "Plaid",
-    "title": "Software Engineer",
-    "url": "https://plaid.com/careers/openings/engineering/london-office/software-engineer/",
-    "date": "2026-06-04"
-  },
-  {
-    "site": "Reddit",
-    "title": "Frontend Engineer, Ads Growth\n\t\t\t\t\t\t\t\tRemote - United States",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/7980795",
-    "date": "2026-06-04"
   }
 ]
