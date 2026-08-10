@@ -1,5 +1,17 @@
 [
   {
+    "site": "Figma",
+    "title": "Software Engineer Intern (Winter 2027)",
+    "url": "https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004",
+    "date": "2026-08-10"
+  },
+  {
+    "site": "Apple",
+    "title": "Frontend Engineer, EE&P - IS&T Early Career",
+    "url": "https://jobs.apple.com/en-ca/details/200676168-0157/frontend-engineer-ee-p-is-t-early-career?team=SFTWR",
+    "date": "2026-08-10"
+  },
+  {
     "site": "Nvidia",
     "title": "Low Power ASIC Engineer - New College Grad 2026\nJR2017005\nUS, CA, Santa Clara",
     "url": "https://nvidia.eightfold.ai/careers/job/893394874489",
@@ -1378,95 +1390,5 @@
     "title": "Software Engineer, New Grad, Developer Experience & Product Platform",
     "url": "https://stripe.com/jobs/listing/software-engineer-new-grad-developer-experience-product-platform/7991718",
     "date": "2026-06-11"
-  },
-  {
-    "site": "Google Early",
-    "title": "RTL Design and Integration Engineer",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/91632461594665670-rtl-design-and-integration-engineer?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
-    "date": "2026-06-10"
-  },
-  {
-    "site": "Google Early",
-    "title": "Network Operations Engineer, Network (English)",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/106542938778936006-network-operations-engineer-network-english?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
-    "date": "2026-06-10"
-  },
-  {
-    "site": "Roblox",
-    "title": "Software Engineer, Creator Translation\n\nSan Mateo, CA, United States\nEngineering",
-    "url": "https://careers.roblox.com/jobs/7786397",
-    "date": "2026-06-10"
-  },
-  {
-    "site": "Notion",
-    "title": "Software Engineer, Security\nSan Francisco, California",
-    "url": "https://jobs.ashbyhq.com/notion/def3f337-5593-491c-b34d-e0b53f2a5cac",
-    "date": "2026-06-10"
-  },
-  {
-    "site": "Google Early",
-    "title": "Network Implementation Engineer, Network Delivery Implementation",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/75583783717216966-network-implementation-engineer-network-delivery-implementation?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
-    "date": "2026-06-10"
-  },
-  {
-    "site": "Google Early",
-    "title": "Optical Validation Engineer, Google Cloud",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/137097782799278790-optical-validation-engineer-google-cloud?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
-    "date": "2026-06-10"
-  },
-  {
-    "site": "Roblox",
-    "title": "Software Engineer, Storage\n\nSan Mateo, CA, United States\nEngineering",
-    "url": "https://careers.roblox.com/jobs/7991654",
-    "date": "2026-06-10"
-  },
-  {
-    "site": "Nvidia",
-    "title": "GPU Architect - New College Grad 2026\nJR2019445\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893395507227",
-    "date": "2026-06-10"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Verification and Validation Engineer - New College Grad 2026\nJR2018584\nUS, TX, Austin",
-    "url": "https://nvidia.eightfold.ai/careers/job/893395243078",
-    "date": "2026-06-10"
-  },
-  {
-    "site": "Reddit",
-    "title": "International Strategic Finance, London\n\t\t\t\t\t\t\t\tLondon, United Kingdom",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/7520366",
-    "date": "2026-06-10"
-  },
-  {
-    "site": "Block",
-    "title": "Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op)\nRemote\nToronto, Ontario , Canada",
-    "url": "https://block.xyz/careers/jobs/5108009008",
-    "date": "2026-06-10"
-  },
-  {
-    "site": "Block",
-    "title": "Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op)\nRemote\nBay Area, CA, US",
-    "url": "https://block.xyz/careers/jobs/5108007008",
-    "date": "2026-06-10"
-  },
-  {
-    "site": "Google Early",
-    "title": "Hardware Validation Engineer, Cloud Platforms",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/77715221367399110-hardware-validation-engineer-cloud-platforms?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
-    "date": "2026-06-09"
-  },
-  {
-    "site": "Google Early",
-    "title": "Chip CAD DevOps Engineer, Google Cloud",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/76209989948973766-chip-cad-devops-engineer-google-cloud?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
-    "date": "2026-06-09"
-  },
-  {
-    "site": "Coinbase",
-    "title": "Software Engineer, Backend (Consumer - Risk)",
-    "url": "https://www.coinbase.com/careers/positions/7991763",
-    "date": "2026-06-09"
   }
 ]
