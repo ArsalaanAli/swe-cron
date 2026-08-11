@@ -1,5 +1,23 @@
 [
   {
+    "site": "Nvidia",
+    "title": "GPU Architect - New College Grad 2026\nJR2019445\nUS, CA, Santa Clara",
+    "url": "https://nvidia.eightfold.ai/careers/job/893395507227",
+    "date": "2026-08-11"
+  },
+  {
+    "site": "Block",
+    "title": "Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op)\nRemote\nBay Area, CA, US",
+    "url": "https://block.xyz/careers/jobs/5108007008",
+    "date": "2026-08-11"
+  },
+  {
+    "site": "Block",
+    "title": "Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op)\nRemote\nToronto, Ontario , Canada",
+    "url": "https://block.xyz/careers/jobs/5108009008",
+    "date": "2026-08-11"
+  },
+  {
     "site": "Figma",
     "title": "Software Engineer Intern (Winter 2027)",
     "url": "https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004",
@@ -1378,17 +1396,5 @@
     "title": "Circuit Design Engineer - New College Grad 2026\nJR2019567\nUS, CA, Santa Clara",
     "url": "https://nvidia.eightfold.ai/careers/job/893395488559",
     "date": "2026-06-12"
-  },
-  {
-    "site": "Stripe",
-    "title": "Software Engineer, New Grad, Developer & End User Experience Platform",
-    "url": "https://stripe.com/jobs/listing/software-engineer-new-grad-developer-end-user-experience-platform/7991718",
-    "date": "2026-06-11"
-  },
-  {
-    "site": "Stripe",
-    "title": "Software Engineer, New Grad, Developer Experience & Product Platform",
-    "url": "https://stripe.com/jobs/listing/software-engineer-new-grad-developer-experience-product-platform/7991718",
-    "date": "2026-06-11"
   }
 ]
