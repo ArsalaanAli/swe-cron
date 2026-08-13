@@ -1,5 +1,11 @@
 [
   {
+    "site": "Google Early",
+    "title": "Data Center Engineer, Electrical Engineering",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/140196211398189766-data-center-engineer-electrical-engineering?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
+    "date": "2026-08-13"
+  },
+  {
     "site": "Nvidia",
     "title": "GPU Verification Engineer - New College Grad 2026\nJR2023187\nUS, MA, Westford + 1 more",
     "url": "https://nvidia.eightfold.ai/careers/job/893396961051",
@@ -1414,23 +1420,5 @@
     "title": "Data Engineer, Product Analytics (University Grad)",
     "url": "https://www.metacareers.com/profile/job_details/1468691051611430",
     "date": "2026-06-14"
-  },
-  {
-    "site": "Netflix",
-    "title": "Software Engineer PhD Intern, Streaming Algorithms (Summer 2026)",
-    "url": null,
-    "date": "2026-06-13"
-  },
-  {
-    "site": "Databricks",
-    "title": "PhD GenAI Research Scientist Intern\nSan Francisco, California",
-    "url": "https://www.databricks.com/company/careers/university-recruiting/phd-genai-research-scientist-intern-7011263002",
-    "date": "2026-06-13"
-  },
-  {
-    "site": "Reddit",
-    "title": "Software Engineer - Data Movement Platform\n\t\t\t\t\t\t\t\tRemote - United States",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/7997866",
-    "date": "2026-06-13"
   }
 ]
