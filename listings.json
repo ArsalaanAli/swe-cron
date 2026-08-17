@@ -1,5 +1,23 @@
 [
   {
+    "site": "Google Early",
+    "title": "Software Engineer, Service Networking Engineering Productivity",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/110968593876689606-software-engineer-service-networking-engineering-productivity?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
+    "date": "2026-08-17"
+  },
+  {
+    "site": "Nvidia",
+    "title": "Verification Engineer - New College Grad 2026\nJR2021016\nUS, CA, Santa Clara + 2 more",
+    "url": "https://nvidia.eightfold.ai/careers/job/893396250446",
+    "date": "2026-08-17"
+  },
+  {
+    "site": "Datadog",
+    "title": "Software Engineering Intern (Winter)",
+    "url": "https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095",
+    "date": "2026-08-17"
+  },
+  {
     "site": "Amazon",
     "title": "Software Development Engineer, Early Career - 2026",
     "url": "https://www.amazon.jobs/en/jobs/10502743/software-development-engineer-early-career-2026",
@@ -1324,29 +1342,5 @@
     "title": "Hardware Test Engineer, Platforms Infrastructure",
     "url": "https://www.google.com/about/careers/applications/jobs/results/98407547018322630-hardware-test-engineer-platforms-infrastructure?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
     "date": "2026-06-18"
-  },
-  {
-    "site": "Coinbase",
-    "title": "Software Engineer",
-    "url": "https://www.coinbase.com/careers/positions/7967649",
-    "date": "2026-06-17"
-  },
-  {
-    "site": "Ripple",
-    "title": "Vice President of Engineering, Fiat Infrastructure\nSan Francisco, CA, United States",
-    "url": "https://ripple.com/careers/all-jobs/job/7624480/",
-    "date": "2026-06-17"
-  },
-  {
-    "site": "Coinbase",
-    "title": "Software Engineer",
-    "url": "https://www.coinbase.com/careers/positions/8003605",
-    "date": "2026-06-17"
-  },
-  {
-    "site": "Amazon",
-    "title": "Software Development Engineer Internship - Fall 2026 (Canada)",
-    "url": "https://www.amazon.jobs/en/jobs/10387163/software-development-engineer-internship-fall-2026-canada",
-    "date": "2026-06-16"
   }
 ]
