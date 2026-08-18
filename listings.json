@@ -1,5 +1,11 @@
 [
   {
+    "site": "Reddit",
+    "title": "Software Engineer, Content Platform\n\t\t\t\t\t\t\t\tRemote - United States",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8139781",
+    "date": "2026-08-18"
+  },
+  {
     "site": "Google Early",
     "title": "ASIC Design Verification Engineer, Google Cloud",
     "url": "https://www.google.com/about/careers/applications/jobs/results/77174102632080070-asic-design-verification-engineer-google-cloud?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
@@ -1360,29 +1366,5 @@
     "title": "Software Engineer\n\t\t\t\t\t\t\t\tSan Francisco, CA",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/8013591",
     "date": "2026-06-22"
-  },
-  {
-    "site": "Plaid",
-    "title": "Software Engineer, Backend",
-    "url": "https://plaid.com/careers/openings/engineering/new-york-city-office/software-engineer-backend-2/",
-    "date": "2026-06-18"
-  },
-  {
-    "site": "Plaid",
-    "title": "Software Engineer, Full Stack",
-    "url": "https://plaid.com/careers/openings/engineering/san-francisco-hq/software-engineer-full-stack-2/",
-    "date": "2026-06-18"
-  },
-  {
-    "site": "Google Early",
-    "title": "Silicon System and Software Integration Engineer, TPU Cloud",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/122964039713071814-silicon-system-and-software-integration-engineer-tpu-cloud?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
-    "date": "2026-06-18"
-  },
-  {
-    "site": "Google Early",
-    "title": "Hardware Test Engineer, Platforms Infrastructure",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/98407547018322630-hardware-test-engineer-platforms-infrastructure?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
-    "date": "2026-06-18"
   }
 ]
