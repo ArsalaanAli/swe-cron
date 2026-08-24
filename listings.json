@@ -1,5 +1,41 @@
 [
   {
+    "site": "Google Intern",
+    "title": "Software Developer Intern, PhD, Summer 2027",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/112518690523488966-software-developer-intern-phd-summer-2027?location=United%20States&location=Canada&q=software&target_level=INTERN_AND_APPRENTICE&sort_by=date#!t=jo&jid=127025001&",
+    "date": "2026-08-24"
+  },
+  {
+    "site": "Google Intern",
+    "title": "Software Engineering Intern, PhD, Summer 2026",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/91436104816698054-software-engineering-intern-phd-summer-2026?location=United%20States&location=Canada&q=software&target_level=INTERN_AND_APPRENTICE&sort_by=date#!t=jo&jid=127025001&",
+    "date": "2026-08-24"
+  },
+  {
+    "site": "Google Intern",
+    "title": "Research Intern, PhD, Summer 2027",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/104496653687235270-research-intern-phd-summer-2027?location=United%20States&location=Canada&q=software&target_level=INTERN_AND_APPRENTICE&sort_by=date#!t=jo&jid=127025001&",
+    "date": "2026-08-24"
+  },
+  {
+    "site": "Google Intern",
+    "title": "Research Intern, PhD, Summer 2027",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/86701057991680710-research-intern-phd-summer-2027?location=United%20States&location=Canada&q=software&target_level=INTERN_AND_APPRENTICE&sort_by=date#!t=jo&jid=127025001&",
+    "date": "2026-08-24"
+  },
+  {
+    "site": "Nvidia",
+    "title": "Power Methodology and Modeling Engineer - New College Grad 2026\nJR2017486\nUS, TX, Austin",
+    "url": "https://nvidia.eightfold.ai/careers/job/893395016029",
+    "date": "2026-08-24"
+  },
+  {
+    "site": "Nvidia",
+    "title": "Cell Modeling and Verification Engineer - New College Grad 2026\nJR2011631\nUS, CA, Santa Clara",
+    "url": "https://nvidia.eightfold.ai/careers/job/893392886848",
+    "date": "2026-08-24"
+  },
+  {
     "site": "Nvidia",
     "title": "Architecture Energy Modeling Engineer - New College Grad 2026\nJR2023398\nUS, CA, Santa Clara",
     "url": "https://nvidia.eightfold.ai/careers/job/893397266929",
@@ -1330,89 +1366,5 @@
     "title": "IP DFT Engineer",
     "url": "https://www.google.com/about/careers/applications/jobs/results/85256275553592006-ip-dft-engineer?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
     "date": "2026-06-25"
-  },
-  {
-    "site": "Google Early",
-    "title": "Network Implementation Engineer",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/124173614172775110-network-implementation-engineer?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
-    "date": "2026-06-24"
-  },
-  {
-    "site": "Nvidia",
-    "title": "ASIC Verification Engineer - New College Grad 2026\nJR2012573\nUS, TX, Austin + 1 more",
-    "url": "https://nvidia.eightfold.ai/careers/job/893393262025",
-    "date": "2026-06-24"
-  },
-  {
-    "site": "Nvidia",
-    "title": "System Design Engineer - New College Grad 2026\nJR2011879\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893392898537",
-    "date": "2026-06-24"
-  },
-  {
-    "site": "Amazon",
-    "title": "Software Development Engineer – Database 2026 (US)",
-    "url": "https://www.amazon.jobs/en/jobs/3130865/software-development-engineer-database-2026-us",
-    "date": "2026-06-23"
-  },
-  {
-    "site": "Meta",
-    "title": "Research Scientist Intern, Embedded Contextual AI on Wearables (PhD)",
-    "url": "https://www.metacareers.com/profile/job_details/2160167211413098",
-    "date": "2026-06-23"
-  },
-  {
-    "site": "Meta New Grad",
-    "title": "Network Production Engineer (University Grad)",
-    "url": "https://www.metacareers.com/profile/job_details/4416232018698029",
-    "date": "2026-06-23"
-  },
-  {
-    "site": "Amazon",
-    "title": "(Fall 2026) Annapurna Labs at AWS Internship (US) - Machine Learning Systems & Silicon Innovation",
-    "url": "https://www.amazon.jobs/en/jobs/10400153/fall-2026-annapurna-labs-at-aws-internship-us-machine-learning-systems-silicon-innovation",
-    "date": "2026-06-23"
-  },
-  {
-    "site": "Google Early",
-    "title": "Data Center Technician, Third Party Data Centers, Engineering Field Services",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/125240243530932934-data-center-technician-third-party-data-centers-engineering-field-services?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
-    "date": "2026-06-23"
-  },
-  {
-    "site": "Netflix",
-    "title": "AI/ML Scientist Intern, AIMS AI Foundations (PhD) – Fall 2026",
-    "url": null,
-    "date": "2026-06-23"
-  },
-  {
-    "site": "Coinbase",
-    "title": "Software Engineer, Enterprise Apps",
-    "url": "https://www.coinbase.com/careers/positions/7958901",
-    "date": "2026-06-23"
-  },
-  {
-    "site": "Notion",
-    "title": "Software Engineer, Collections Experience\nSan Francisco, California; New York, New York",
-    "url": "https://jobs.ashbyhq.com/notion/5d8c1ec6-e9ea-416b-9715-880bf5037abc",
-    "date": "2026-06-23"
-  },
-  {
-    "site": "Google Early",
-    "title": "Design Verification Engineer, TPU Cloud Compute",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/131330438437184198-design-verification-engineer-tpu-cloud-compute?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
-    "date": "2026-06-23"
-  },
-  {
-    "site": "Reddit",
-    "title": "Machine Learning Systems Engineer, Ads ML Platform\n\t\t\t\t\t\t\t\tRemote - The Netherlands",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/8022942",
-    "date": "2026-06-23"
-  },
-  {
-    "site": "Reddit",
-    "title": "Machine Learning Systems Engineer, Ads ML Platform\n\t\t\t\t\t\t\t\tRemote - United Kingdom",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/8022937",
-    "date": "2026-06-23"
   }
 ]
