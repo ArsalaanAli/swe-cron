@@ -1,6 +1,24 @@
 [
   {
     "site": "Amazon",
+    "title": "Software Development Engineer, Amazon Leo, Early Career - 2026",
+    "url": "https://www.amazon.jobs/en/jobs/10513110/software-development-engineer-amazon-leo-early-career-2026",
+    "date": "2026-08-25"
+  },
+  {
+    "site": "Nvidia",
+    "title": "Circuit Design Engineer - New College Grad 2026\nJR2019567\nUS, CA, Santa Clara",
+    "url": "https://nvidia.eightfold.ai/careers/job/893395488559",
+    "date": "2026-08-25"
+  },
+  {
+    "site": "Apple",
+    "title": "Software Engineer, Infrastructure Services (Cloud Network Fault Tolerance)",
+    "url": "https://jobs.apple.com/en-ca/details/200679765-3401/software-engineer-infrastructure-services-cloud-network-fault-tolerance?team=SFTWR",
+    "date": "2026-08-25"
+  },
+  {
+    "site": "Amazon",
     "title": "Software Development Engineer – Database 2026 (US)",
     "url": "https://www.amazon.jobs/en/jobs/3130865/software-development-engineer-database-2026-us",
     "date": "2026-08-24"
@@ -1372,23 +1390,5 @@
     "title": "ASIC Clocks Verification Engineer - New College Grad 2026\nJR2013336\nUS, CA, Santa Clara",
     "url": "https://nvidia.eightfold.ai/careers/job/893393391163",
     "date": "2026-06-26"
-  },
-  {
-    "site": "Coinbase",
-    "title": "Software Engineer, Frontend (Consumer - Card)",
-    "url": "https://www.coinbase.com/careers/positions/8028985",
-    "date": "2026-06-25"
-  },
-  {
-    "site": "Roblox",
-    "title": "Software Engineer, Data Engineering\n\nSan Mateo, CA, United States\nEngineering",
-    "url": "https://careers.roblox.com/jobs/8025021",
-    "date": "2026-06-25"
-  },
-  {
-    "site": "Google Early",
-    "title": "IP DFT Engineer",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/85256275553592006-ip-dft-engineer?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
-    "date": "2026-06-25"
   }
 ]
