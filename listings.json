@@ -1,5 +1,11 @@
 [
   {
+    "site": "Roblox",
+    "title": "Software Engineer, Creator Studio\n\nSan Mateo, CA, United States\nEarly Career",
+    "url": "https://careers.roblox.com/jobs/8131689",
+    "date": "2026-08-26"
+  },
+  {
     "site": "Nvidia",
     "title": "ASIC Verification Engineer - New College Grad 2026\nJR2012573\nUS, TX, Austin + 1 more",
     "url": "https://nvidia.eightfold.ai/careers/job/893393262025",
@@ -1378,29 +1384,5 @@
     "title": "ASIC Physical Design and Timing Engineer - New College Grad 2026\nJR2019810\nUS, CA, Santa Clara",
     "url": "https://nvidia.eightfold.ai/careers/job/893395979989",
     "date": "2026-06-27"
-  },
-  {
-    "site": "Reddit",
-    "title": "Machine Learning Engineer, Ads Optimization & Ads Marketplace Quality\n\t\t\t\t\t\t\t\tRemote - United States",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/8029120",
-    "date": "2026-06-26"
-  },
-  {
-    "site": "Coinbase",
-    "title": "Software Engineer - Salesforce Platform (EAA)",
-    "url": "https://www.coinbase.com/careers/positions/7652048",
-    "date": "2026-06-26"
-  },
-  {
-    "site": "Discord",
-    "title": "Software Engineer, Developer Success",
-    "url": "https://discord.com/jobs/8609250002",
-    "date": "2026-06-26"
-  },
-  {
-    "site": "Nvidia",
-    "title": "ASIC Clocks Verification Engineer - New College Grad 2026\nJR2013336\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893393391163",
-    "date": "2026-06-26"
   }
 ]
