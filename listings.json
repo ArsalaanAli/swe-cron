@@ -1,5 +1,29 @@
 [
   {
+    "site": "Netflix",
+    "title": "Machine Learning/AI Infrastructure Engineering Intern (AI Platform) PhD, Winter 2027",
+    "url": null,
+    "date": "2026-08-27"
+  },
+  {
+    "site": "Netflix",
+    "title": "Machine Learning/AI Scientist PhD Intern, Winter 2027",
+    "url": null,
+    "date": "2026-08-27"
+  },
+  {
+    "site": "Reddit",
+    "title": "Backend Software Engineer, PDP Experience\n\t\t\t\t\t\t\t\tRemote - United States",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8148431",
+    "date": "2026-08-27"
+  },
+  {
+    "site": "Apple",
+    "title": "Systems Engineer",
+    "url": "https://jobs.apple.com/en-ca/details/200680183-0836/systems-engineer?team=SFTWR",
+    "date": "2026-08-27"
+  },
+  {
     "site": "Discord",
     "title": "Software Engineer, Developer Success",
     "url": "https://discord.com/jobs/8609250002",
@@ -1366,35 +1390,5 @@
     "title": "Software Engineer\n\t\t\t\t\t\t\t\tSan Francisco, CA",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/8026180",
     "date": "2026-06-29"
-  },
-  {
-    "site": "Netflix",
-    "title": "Video Algorithms Intern, Video Coding (Gaussian Splatting), Fall 2026",
-    "url": null,
-    "date": "2026-06-27"
-  },
-  {
-    "site": "Block",
-    "title": "Software Engineer, Cash App - Lending Products\nRemote\nNew York, NY, US",
-    "url": "https://block.xyz/careers/jobs/5201726008",
-    "date": "2026-06-27"
-  },
-  {
-    "site": "Block",
-    "title": "Software Engineer, Cash App - Lending Products\nRemote\nBay Area, CA, US",
-    "url": "https://block.xyz/careers/jobs/5196173008",
-    "date": "2026-06-27"
-  },
-  {
-    "site": "Block",
-    "title": "Software Engineer, Cash App - Lending Products\nRemote\nVancouver, British Columbia, Canada",
-    "url": "https://block.xyz/careers/jobs/5196175008",
-    "date": "2026-06-27"
-  },
-  {
-    "site": "Nvidia",
-    "title": "ASIC Physical Design and Timing Engineer - New College Grad 2026\nJR2019810\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893395979989",
-    "date": "2026-06-27"
   }
 ]
