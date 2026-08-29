@@ -1,5 +1,35 @@
 [
   {
+    "site": "Meta",
+    "title": "Research Scientist Intern, Optical Engineering (PhD)",
+    "url": "https://www.metacareers.com/profile/job_details/1976111093092020",
+    "date": "2026-08-29"
+  },
+  {
+    "site": "Coinbase",
+    "title": "Software Engineer, CDP - Payment Acceptance",
+    "url": "https://www.coinbase.com/careers/positions/8164730",
+    "date": "2026-08-29"
+  },
+  {
+    "site": "Ripple",
+    "title": "Vice President of Engineering, Fiat Infrastructure\nSan Francisco, CA, United States",
+    "url": "https://ripple.com/careers/all-jobs/job/7624480/",
+    "date": "2026-08-29"
+  },
+  {
+    "site": "Apple",
+    "title": "Software Engineer - Early Career (Front-end)",
+    "url": "https://jobs.apple.com/en-ca/details/200680752-0157/software-engineer-early-career-front-end?team=SFTWR",
+    "date": "2026-08-29"
+  },
+  {
+    "site": "Apple",
+    "title": "Software Engineer - Early Career (Front-end)",
+    "url": "https://jobs.apple.com/en-ca/details/200680752-0836/software-engineer-early-career-front-end?team=SFTWR",
+    "date": "2026-08-29"
+  },
+  {
     "site": "Nvidia",
     "title": "GPU PCIe and Boot Architect - New College Grad 2026\nJR2021768\nUS, CA, Santa Clara + 1 more",
     "url": "https://nvidia.eightfold.ai/careers/job/893396473667",
@@ -1366,59 +1396,5 @@
     "title": "Solutions Architect, Data Processing - New College Grad 2026\nJR2017017\nUS, CA, Santa Clara + 1 more\nRemote",
     "url": "https://nvidia.eightfold.ai/careers/job/893394883767",
     "date": "2026-06-30"
-  },
-  {
-    "site": "Amazon",
-    "title": "Software Development Engineer - 2026 (US)",
-    "url": "https://www.amazon.jobs/en/jobs/3177934/software-development-engineer-2026-us",
-    "date": "2026-06-29"
-  },
-  {
-    "site": "Amazon",
-    "title": "Software Development Engineer - 2026 (Canada)",
-    "url": "https://www.amazon.jobs/en/jobs/3165932/software-development-engineer-2026-canada",
-    "date": "2026-06-29"
-  },
-  {
-    "site": "Nvidia",
-    "title": "ASIC Design Verification Engineer - New College Grad 2026\nJR2010391\nUS, TX, Austin",
-    "url": "https://nvidia.eightfold.ai/careers/job/893392585259",
-    "date": "2026-06-29"
-  },
-  {
-    "site": "Duolingo",
-    "title": "Software Engineer I",
-    "url": "https://careers.duolingo.com/jobs/8526793002",
-    "date": "2026-06-29"
-  },
-  {
-    "site": "Amazon",
-    "title": "Software Development Engineer – Embedded Systems 2026 (US)",
-    "url": "https://www.amazon.jobs/en/jobs/3183020/software-development-engineer-embedded-systems-2026-us",
-    "date": "2026-06-29"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Compiler Engineer - Smart Network Devices- New College Grad 2026\nJR2020535\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893396004995",
-    "date": "2026-06-29"
-  },
-  {
-    "site": "Duolingo",
-    "title": "Software Engineer I",
-    "url": "https://careers.duolingo.com/jobs/8612080002",
-    "date": "2026-06-29"
-  },
-  {
-    "site": "Reddit",
-    "title": "Machine Learning Engineer\n\t\t\t\t\t\t\t\tSan Francisco, CA",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/8026401",
-    "date": "2026-06-29"
-  },
-  {
-    "site": "Reddit",
-    "title": "Software Engineer\n\t\t\t\t\t\t\t\tSan Francisco, CA",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/8026180",
-    "date": "2026-06-29"
   }
 ]
