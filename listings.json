@@ -1,5 +1,17 @@
 [
   {
+    "site": "Google Intern",
+    "title": "Research Intern, PhD, Summer 2027",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/131287072689267398-research-intern-phd-summer-2027?location=United%20States&location=Canada&q=software&target_level=INTERN_AND_APPRENTICE&sort_by=date#!t=jo&jid=127025001&",
+    "date": "2026-09-08"
+  },
+  {
+    "site": "Google Early",
+    "title": "Software Engineer, Search Ads in AI Experiences",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/99532077367468742-software-engineer-search-ads-in-ai-experiences?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
+    "date": "2026-09-08"
+  },
+  {
     "site": "Nvidia",
     "title": "Solutions Architect, WWFO - New College Graduate 2027\nJR2024999\nUS, CA, Santa Clara",
     "url": "https://nvidia.eightfold.ai/careers/job/893397577503",
@@ -1402,161 +1414,5 @@
     "title": "Oracle ERP Fusion Technical Developer",
     "url": "https://discord.com/jobs/8627078002",
     "date": "2026-07-10"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Formal Verification Engineer - New College Grad 2026\nJR2020837\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893396250456",
-    "date": "2026-07-09"
-  },
-  {
-    "site": "Nvidia",
-    "title": "ASIC Design Engineer - New College Grad 2026\nJR2020309\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893396250459",
-    "date": "2026-07-09"
-  },
-  {
-    "site": "Google Early",
-    "title": "Software Engineer II, Early Career, Google Cloud AI Career Catalyst Program",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/138156162599002822-software-engineer-ii-early-career-google-cloud-ai-career-catalyst-program?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
-    "date": "2026-07-08"
-  },
-  {
-    "site": "Nvidia",
-    "title": "ASIC Verification Engineer - New College Grad 2026\nJR2020640\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893396189448",
-    "date": "2026-07-07"
-  },
-  {
-    "site": "Nvidia",
-    "title": "ASIC Verification Engineer - New College Grad 2026\nJR2016248\nUS, NC, Durham + 2 more",
-    "url": "https://nvidia.eightfold.ai/careers/job/893394695273",
-    "date": "2026-07-07"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Verification Engineer - New College Grad 2026\nJR2017633\nUS, CA, Santa Clara + 2 more",
-    "url": "https://nvidia.eightfold.ai/careers/job/893395036261",
-    "date": "2026-07-07"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Formal Verification Engineer - New College Grad 2026\nJR2013065\nUS, TX, Austin + 1 more",
-    "url": "https://nvidia.eightfold.ai/careers/job/893393329215",
-    "date": "2026-07-07"
-  },
-  {
-    "site": "Amazon",
-    "title": "Software Development Engineer Internship - Fall 2026 (US)",
-    "url": "https://www.amazon.jobs/en/jobs/3116030/software-development-engineer-internship-fall-2026-us",
-    "date": "2026-07-07"
-  },
-  {
-    "site": "Amazon",
-    "title": "Software Development Engineer, AWS Data Services - 2026 (US)",
-    "url": "https://www.amazon.jobs/en/jobs/10414316/software-development-engineer-aws-data-services-2026-us",
-    "date": "2026-07-07"
-  },
-  {
-    "site": "Amazon",
-    "title": "Software Development Engineer – Amazon Leo (US)",
-    "url": "https://www.amazon.jobs/en/jobs/3144341/software-development-engineer-amazon-leo-us",
-    "date": "2026-07-07"
-  },
-  {
-    "site": "Amazon",
-    "title": "Software Development Engineer Intern, AWS Data Services - Fall 2026 (US)",
-    "url": "https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us",
-    "date": "2026-07-07"
-  },
-  {
-    "site": "Discord",
-    "title": "Software Engineer, Data Platform",
-    "url": "https://discord.com/jobs/8396927002",
-    "date": "2026-07-07"
-  },
-  {
-    "site": "Nvidia",
-    "title": "ASIC Floorplan Design Engineer - New College Grad 2026\nJR2012971\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893393297040",
-    "date": "2026-07-07"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Circuit Design Engineer - New College Grad 2026\nJR2014331\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893393862731",
-    "date": "2026-07-07"
-  },
-  {
-    "site": "Nvidia",
-    "title": "ASIC Physical Design Engineer, Netlisting - New College Grad 2026\nJR2017681\nUS, CA, Santa Clara + 1 more",
-    "url": "https://nvidia.eightfold.ai/careers/job/893395048676",
-    "date": "2026-07-07"
-  },
-  {
-    "site": "Plaid",
-    "title": "Software Engineer, Full Stack",
-    "url": "https://plaid.com/careers/openings/engineering/new-york-city-office/software-engineer-full-stack/",
-    "date": "2026-07-07"
-  },
-  {
-    "site": "Plaid",
-    "title": "Software Engineer, Backend",
-    "url": "https://plaid.com/careers/openings/engineering/san-francisco-hq/software-engineer-backend/",
-    "date": "2026-07-07"
-  },
-  {
-    "site": "Apple",
-    "title": "Systems Engineer",
-    "url": "https://jobs.apple.com/en-ca/details/200636915-0836/systems-engineer?team=SFTWR",
-    "date": "2026-07-07"
-  },
-  {
-    "site": "Apple",
-    "title": "iOS/tvOS Software Engineer, Siri Home Devices",
-    "url": "https://jobs.apple.com/en-ca/details/200652186-0836/ios-tvos-software-engineer-siri-home-devices?team=SFTWR",
-    "date": "2026-07-07"
-  },
-  {
-    "site": "Apple",
-    "title": "Software Engineer - AiDP Reliability Engineering, IS&T, Early Career Opportunities",
-    "url": "https://jobs.apple.com/en-ca/details/200621756-0157/software-engineer-aidp-reliability-engineering-is-t-early-career-opportunities?team=SFTWR",
-    "date": "2026-07-07"
-  },
-  {
-    "site": "Meta",
-    "title": "Research Scientist Intern, 3D Vision & World Simulation (PhD)",
-    "url": "https://www.metacareers.com/profile/job_details/2839011673109571",
-    "date": "2026-07-07"
-  },
-  {
-    "site": "Meta New Grad",
-    "title": "Research Scientist Intern, 3D Vision & World Simulation (PhD)",
-    "url": "https://www.metacareers.com/profile/job_details/2839011673109571",
-    "date": "2026-07-07"
-  },
-  {
-    "site": "Roblox",
-    "title": "Software Engineer, Data Engineering\n\nSan Mateo, CA, United States\nEarly Career",
-    "url": "https://careers.roblox.com/jobs/8025021",
-    "date": "2026-07-07"
-  },
-  {
-    "site": "Roblox",
-    "title": "Software Engineer, Storage\n\nSan Mateo, CA, United States\nEarly Career",
-    "url": "https://careers.roblox.com/jobs/7991654",
-    "date": "2026-07-07"
-  },
-  {
-    "site": "Roblox",
-    "title": "Software Engineer, User Sharing\n\nSan Mateo, CA, United States\nEarly Career",
-    "url": "https://careers.roblox.com/jobs/7767204",
-    "date": "2026-07-07"
-  },
-  {
-    "site": "Reddit",
-    "title": "Machine Learning Engineer, Ads Optimization\n\t\t\t\t\t\t\t\tRemote - United States",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/8029120",
-    "date": "2026-07-07"
   }
 ]
