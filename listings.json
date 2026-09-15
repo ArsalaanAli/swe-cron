@@ -1,5 +1,41 @@
 [
   {
+    "site": "Amazon",
+    "title": "Software Development Engineer Apprentice - Military Veterans",
+    "url": "https://www.amazon.jobs/en/jobs/3188438/software-development-engineer-apprentice-military-veterans",
+    "date": "2026-09-15"
+  },
+  {
+    "site": "Amazon",
+    "title": "Software Development Engineer - Military Veterans",
+    "url": "https://www.amazon.jobs/en/jobs/3179205/software-development-engineer-military-veterans",
+    "date": "2026-09-15"
+  },
+  {
+    "site": "Amazon",
+    "title": "Software Development Engineer Intern, AWS Data Services - Fall 2026 (US)",
+    "url": "https://www.amazon.jobs/en/jobs/10412530/software-development-engineer-intern-aws-data-services-fall-2026-us",
+    "date": "2026-09-15"
+  },
+  {
+    "site": "DoorDash",
+    "title": "Software Engineer, Intern (Summer 2027) - US",
+    "url": "https://careersatdoordash.com/jobs/software-engineer-intern-summer-2027---us/8171041",
+    "date": "2026-09-15"
+  },
+  {
+    "site": "DoorDash",
+    "title": "Software Engineer, Intern (Summer 2027) - TOR",
+    "url": "https://careersatdoordash.com/jobs/software-engineer-intern-summer-2027---tor/8170944",
+    "date": "2026-09-15"
+  },
+  {
+    "site": "DoorDash",
+    "title": "Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US",
+    "url": "https://careersatdoordash.com/jobs/software-engineer-i-entry-level-graduation-date-fall-2026-summer-2027---us/8163709",
+    "date": "2026-09-15"
+  },
+  {
     "site": "Google Intern",
     "title": "User Experience Research Intern, MS, Summer 2027",
     "url": "https://www.google.com/about/careers/applications/jobs/results/89541201752924870-user-experience-research-intern-ms-summer-2027?location=United%20States&location=Canada&q=software&target_level=INTERN_AND_APPRENTICE&sort_by=date#!t=jo&jid=127025001&",
@@ -1528,47 +1564,5 @@
     "title": "IS&T Early Career Engineering Program Manager Opportunities",
     "url": "https://jobs.apple.com/en-ca/details/200672968-0157/is-t-early-career-engineering-program-manager-opportunities?team=SFTWR",
     "date": "2026-07-17"
-  },
-  {
-    "site": "Roblox",
-    "title": "Software Engineer, Ads Platform\n\nSan Mateo, CA, United States\nEarly Career",
-    "url": "https://careers.roblox.com/jobs/8047815",
-    "date": "2026-07-16"
-  },
-  {
-    "site": "Meta",
-    "title": "Research Scientist Intern, 3D Scene Understanding (PhD)",
-    "url": "https://www.metacareers.com/profile/job_details/1029177790044680",
-    "date": "2026-07-16"
-  },
-  {
-    "site": "Meta New Grad",
-    "title": "Research Scientist Intern, 3D Scene Understanding (PhD)",
-    "url": "https://www.metacareers.com/profile/job_details/1029177790044680",
-    "date": "2026-07-16"
-  },
-  {
-    "site": "Databricks",
-    "title": "Associate Product Manager, New Grad (2027 Start)\nBellevue, Washington; Mountain View, California; San Francisco, California",
-    "url": "https://www.databricks.com/company/careers/university-recruiting/associate-product-manager-new-grad-2027-start-7586263002",
-    "date": "2026-07-16"
-  },
-  {
-    "site": "Databricks",
-    "title": "Product Management Intern (Summer 2027)\nBellevue, Washington; Mountain View, California; San Francisco, California",
-    "url": "https://www.databricks.com/company/careers/product/product-management-intern-summer-2027-6883068002",
-    "date": "2026-07-16"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Physical Design Methodology and Operations Engineer - New College Grad 2026\nJR2021434\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893396367409",
-    "date": "2026-07-16"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Systems Software Engineer - New College Grad 2026\nJR2017083\nUS, OR, Hillsboro",
-    "url": "https://nvidia.eightfold.ai/careers/job/893395087798",
-    "date": "2026-07-16"
   }
 ]
