@@ -1,5 +1,23 @@
 [
   {
+    "site": "Nvidia",
+    "title": "Software Engineer, Coding Agent Harness Engineering - New College Grad 2026\nJR2023749\nUS, CA, Remote + 1 more\nRemote",
+    "url": "https://nvidia.eightfold.ai/careers/job/893397115817",
+    "date": "2026-09-16"
+  },
+  {
+    "site": "Nvidia",
+    "title": "Backend Compiler Engineer - New College Grad 2026\nJR2021242\nUS, CA, Santa Clara",
+    "url": "https://nvidia.eightfold.ai/careers/job/893396325243",
+    "date": "2026-09-16"
+  },
+  {
+    "site": "Nvidia",
+    "title": "Harness and Platform Engineer, AI Safety and Security Engineering\nJR2021886\nUS, CA, Santa Clara + 5 more\nRemote",
+    "url": "https://nvidia.eightfold.ai/careers/job/893396714506",
+    "date": "2026-09-16"
+  },
+  {
     "site": "Apple",
     "title": "Software Engineer - Customer Feedback",
     "url": "https://jobs.apple.com/en-ca/details/200683935-3543/software-engineer-customer-feedback?team=SFTWR",
@@ -1576,29 +1594,5 @@
     "title": "TPU SoC Design Engineer, Google Cloud",
     "url": "https://www.google.com/about/careers/applications/jobs/results/94872216629322438-tpu-soc-design-engineer-google-cloud?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
     "date": "2026-07-20"
-  },
-  {
-    "site": "Discord",
-    "title": "QA/DevOps Engineer",
-    "url": "https://discord.com/jobs/8637648002",
-    "date": "2026-07-17"
-  },
-  {
-    "site": "Nvidia",
-    "title": "ASIC Design Engineer - New College Grad 2026\nJR2021534\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893396422269",
-    "date": "2026-07-17"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Systems Software Engineer, Accelerated Kubernetes Performance and Scale - New College Grad 2026\nJR2020957\nUS, CA, Santa Clara + 1 more",
-    "url": "https://nvidia.eightfold.ai/careers/job/893396422351",
-    "date": "2026-07-17"
-  },
-  {
-    "site": "Apple",
-    "title": "IS&T Early Career Engineering Program Manager Opportunities",
-    "url": "https://jobs.apple.com/en-ca/details/200672968-0157/is-t-early-career-engineering-program-manager-opportunities?team=SFTWR",
-    "date": "2026-07-17"
   }
 ]
