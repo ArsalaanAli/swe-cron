@@ -1,5 +1,803 @@
 [
   {
+    "site": "Waymo",
+    "title": "2027 Summer Intern, MS/PhD, Machine Learning, Simulator Evaluation",
+    "url": "https://careers.withwaymo.com/jobs/2027-summer-intern-ms-phd-machine-learning-simulator-evaluation-mountain-view-california-united-states",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI Early",
+    "title": "Full-Stack Software Engineer, Emerging Products\nApplied AI Engineering\nSan Francisco",
+    "url": "https://openai.com/careers/full-stack-software-engineer-emerging-products-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI Early",
+    "title": "Software Engineer, Applied Emerging Talent (2027)\nEmerging Talent\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-applied-emerging-talent-(2027)-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Applied AI Software Engineer, GTM Growth Engineering\nApplied AI\nSan Francisco",
+    "url": "https://openai.com/careers/applied-ai-software-engineer-gtm-growth-engineering-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Backend Software Engineer, Applied Foundations\nApplied AI Engineering\n2 locations",
+    "url": "https://openai.com/careers/backend-software-engineer-applied-foundations-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Backend Software Engineer, ChatGPT ImageGen\nApplied AI Engineering\nSan Francisco",
+    "url": "https://openai.com/careers/backend-software-engineer-chatgpt-imagegen-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Backend Software Engineer - Codex for Finance\nApplied AI\nSan Francisco",
+    "url": "https://openai.com/careers/backend-software-engineer-codex-for-finance-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Backend Software Engineer (Evals)\nSupport Automation\n2 locations",
+    "url": "https://openai.com/careers/backend-software-engineer-(evals)-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Backend Software Engineer, GTM Innovation\nGTM Innovation\nSan Francisco",
+    "url": "https://openai.com/careers/backend-software-engineer-gtm-innovation-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Camera Software Engineer, Consumer Devices\nSoftware\nSan Francisco",
+    "url": "https://openai.com/careers/camera-software-engineer-consumer-devices-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Capacity Systems Software Engineer\nCompute\nSan Francisco",
+    "url": "https://openai.com/careers/capacity-systems-software-engineer-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Connectivity Software Engineer, Consumer Devices\nSoftware\nSan Francisco",
+    "url": "https://openai.com/careers/connectivity-software-engineer-consumer-devices-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Control Systems Software Engineer, Robotics\nRobotics\nSan Francisco",
+    "url": "https://openai.com/careers/control-systems-software-engineer-robotics-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Forward Deployed Software Engineer - NYC\nForward Deployed Engineering\nNew York City",
+    "url": "https://openai.com/careers/forward-deployed-software-engineer-nyc-new-york-city/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Forward Deployed Software Engineer - Seattle\nForward Deployed Engineering\nSeattle",
+    "url": "https://openai.com/careers/forward-deployed-software-engineer-seattle-seattle/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Forward Deployed Software Engineer - SF\nForward Deployed Engineering\nSan Francisco",
+    "url": "https://openai.com/careers/forward-deployed-software-engineer-sf-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Founding Full Stack Software Engineer, Legal\nApplied AI Engineering\nSan Francisco",
+    "url": "https://openai.com/careers/founding-full-stack-software-engineer-legal-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Full Stack Software Engineer, Agent Enablement\nCodex - Engineering\nSan Francisco",
+    "url": "https://openai.com/careers/full-stack-software-engineer-agent-enablement-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Full Stack Software Engineer, API Experience\nCore Product & Platform | API\nNew York City",
+    "url": "https://openai.com/careers/full-stack-software-engineer-api-experience-new-york-city/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Full-Stack Software Engineer, Applied Foundations\nApplied AI Engineering\n2 locations",
+    "url": "https://openai.com/careers/full-stack-software-engineer-applied-foundations-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Full Stack Software Engineer, ChatGPT Finances\nApplied AI Engineering\nSan Francisco",
+    "url": "https://openai.com/careers/full-stack-software-engineer-chatgpt-finances-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Full Stack Software Engineer, ChatGPT ImageGen\nApplied AI Engineering\nSan Francisco",
+    "url": "https://openai.com/careers/full-stack-software-engineer-chatgpt-imagegen-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Full Stack Software Engineer, Codex\nCodex - Engineering\n2 locations",
+    "url": "https://openai.com/careers/full-stack-software-engineer-codex-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Full Stack Software Engineer - Codex for Finance\nApplied AI\nSan Francisco",
+    "url": "https://openai.com/careers/full-stack-software-engineer-codex-for-finance-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Full Stack Software Engineer, Cybersecurity Products\nCodex - Engineering\nSan Francisco",
+    "url": "https://openai.com/careers/full-stack-software-engineer-cybersecurity-products-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Full Stack Software Engineer, Education\nApplied AI Engineering\nSan Francisco",
+    "url": "https://openai.com/careers/full-stack-software-engineer-education-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Full-Stack Software Engineer, Emerging Products\nApplied AI Engineering\nSan Francisco",
+    "url": "https://openai.com/careers/full-stack-software-engineer-emerging-products-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Full Stack Software Engineer, Gov\nApplied AI\n3 locations",
+    "url": "https://openai.com/careers/full-stack-software-engineer-gov-washington-dc/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Full Stack Software Engineer, Growth\nApplied AI Engineering\nSan Francisco",
+    "url": "https://openai.com/careers/full-stack-software-engineer-growth-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Full Stack Software Engineer, Product Explorations\nApplied AI Engineering\nSan Francisco",
+    "url": "https://openai.com/careers/full-stack-software-engineer-product-explorations-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Host Systems Software Engineer\nHardware\nSan Francisco",
+    "url": "https://openai.com/careers/host-systems-software-engineer-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Robotics Software Engineer\nRobotics\nSan Francisco",
+    "url": "https://openai.com/careers/robotics-software-engineer-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Accelerators\nKernels\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-accelerators-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Ad Formats\nApplied AI Engineering\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-ad-formats-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Ads Integrity\nApplied AI Engineering\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-ads-integrity-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Agent Infrastructure\nCompute\n3 locations",
+    "url": "https://openai.com/careers/software-engineer-agent-infrastructure-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, AI accelerator Runtime\nHardware\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-ai-accelerator-runtime-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, AI for Chip Design\nAI for Chip Design\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-ai-for-chip-design-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, AI Safety\nSafety Systems\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-ai-safety-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, API Enterprise Controls\nCore Product & Platform | API\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-api-enterprise-controls-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, API Frontiers\nCore Product & Platform | API\n2 locations",
+    "url": "https://openai.com/careers/software-engineer-api-frontiers-new-york-city/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, API Multicloud\nCore Product & Platform | API\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-api-multicloud-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, API Multimodal\nCore Product & Platform | API\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-api-multimodal-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, API Safety\nCore Product & Platform | API\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-api-safety-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Applied Emerging Talent (2027)\nEmerging Talent\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-applied-emerging-talent-(2027)-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Backend (Cooperative AI)\nSupport Automation\n2 locations",
+    "url": "https://openai.com/careers/software-engineer-backend-(cooperative-ai)-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Build Systems / CI\nApplied AI Infrastructure\n3 locations",
+    "url": "https://openai.com/careers/software-engineer-build-systems-ci-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Caching Infrastructure\nApplied AI Infrastructure\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-caching-infrastructure-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, ChatGPT Infrastructure\nApplied AI Engineering\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-chatgpt-infrastructure-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, ChatGPT Shopping\nApplied AI Engineering\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-chatgpt-shopping-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Cloud Agents\nCodex - Engineering\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-cloud-agents-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Cloud Infrastructure\nApplied AI Infrastructure\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-cloud-infrastructure-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Codex Core Agents\nCodex - Engineering\n4 locations",
+    "url": "https://openai.com/careers/software-engineer-codex-core-agents-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Codex Cyber\nCodex - Engineering\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-codex-cyber-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Codex Enterprise\nCodex - Engineering\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-codex-enterprise-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Codex -Enterprise Controls\nCodex - Engineering\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-codex-enterprise-controls-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Codex — User Activation\nCodex - Engineering\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-codex-user-activation-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Collective Communication\nSystems\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-collective-communication-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Compute Foundations\nSupercomputing\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-compute-foundations-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Compute Foundations Systems\nSupercomputing\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-compute-foundations-systems-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Compute Infrastructure\nCompute\n4 locations",
+    "url": "https://openai.com/careers/software-engineer-compute-infrastructure-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Computer Use & Frontier Interfaces\nCodex - Engineering\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-computer-use-and-frontier-interfaces-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Compute - Storage\nCompute\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-compute-storage-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Consumer Health (Health AI)\nApplied AI Engineering\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-consumer-health-(health-ai)-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Cooperative AI\nSupport Automation\n2 locations",
+    "url": "https://openai.com/careers/software-engineer-cooperative-ai-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Core Network Engineering\nCompute\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-core-network-engineering-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Core Services\nApplied AI Infrastructure\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-core-services-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Data Acquisition\nFoundations\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-data-acquisition-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer - Data Aquisition (systems)\nFoundations\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-data-aquisition-(systems)-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Database Systems\nApplied AI Infrastructure\n2 locations",
+    "url": "https://openai.com/careers/software-engineer-database-systems-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Data Infrastructure\nScaling\n4 locations",
+    "url": "https://openai.com/careers/software-engineer-data-infrastructure-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Data Infrastructure - Research\nScaling\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-data-infrastructure-research-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Delivery / CD\nApplied AI Infrastructure\n3 locations",
+    "url": "https://openai.com/careers/software-engineer-delivery-cd-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Developer Productivity\nApplied AI Infrastructure\n4 locations",
+    "url": "https://openai.com/careers/software-engineer-developer-productivity-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Distributed Data Systems - Robotics\nRobotics\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-distributed-data-systems-robotics-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Enterprise Verticals\nApplied AI Engineering\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-enterprise-verticals-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Financial Engineering\nApplied AI Engineering\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-financial-engineering-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Fleet Infrastructure\nFleet Clusters\n2 locations",
+    "url": "https://openai.com/careers/software-engineer-fleet-infrastructure-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Fleet Management\nFleet Clusters\n2 locations",
+    "url": "https://openai.com/careers/software-engineer-fleet-management-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Foundations Search\nFoundations\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-foundations-search-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Frontier Systems - Power Management\nFrontiers Clusters\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-frontier-systems-power-management-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Full-Stack - Core Experimentation\nApplied AI Engineering\nSeattle",
+    "url": "https://openai.com/careers/software-engineer-full-stack-core-experimentation-seattle/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Full Stack (People Innovation)\nPeople Innovation Labs\n2 locations",
+    "url": "https://openai.com/careers/software-engineer-full-stack-(people-innovation)-us-remote/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, GPT Infrastructure\nHardware\n2 locations",
+    "url": "https://openai.com/careers/software-engineer-gpt-infrastructure-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, GPU Infrastructure - HPC\nFleet Clusters\n2 locations",
+    "url": "https://openai.com/careers/software-engineer-gpu-infrastructure-hpc-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, GTM Growth Engineering\nApplied AI\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-gtm-growth-engineering-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Habitat (Online Data)\nApplied AI Engineering\nSeattle",
+    "url": "https://openai.com/careers/software-engineer-habitat-(online-data)-seattle/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Hardware Health\nFrontiers Clusters\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-hardware-health-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Healthcare\nApplied AI Engineering\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-healthcare-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Host Assurance\nSecurity\n3 locations",
+    "url": "https://openai.com/careers/software-engineer-host-assurance-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, HSM Infrastructure Security, Consumer Devices\nSoftware\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-hsm-infrastructure-security-consumer-devices-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Inference - Multi Modal\nInference\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-inference-multi-modal-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Inference - Performance Optimization\nInference\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-inference-performance-optimization-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Infrastructure - Analytics Platform\nWorkload\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-infrastructure-analytics-platform-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Infrastructure - Core Experimentation\nApplied AI Engineering\nSeattle",
+    "url": "https://openai.com/careers/software-engineer-infrastructure-core-experimentation-seattle/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Infrastructure Security\nSecurity\n4 locations",
+    "url": "https://openai.com/careers/software-engineer-infrastructure-security-us-remote/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Integrity Foundations\nApplied AI Engineering\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-integrity-foundations-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Internal Applications - Enterprise\nIT\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-internal-applications-enterprise-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Kernel Performance & AI Tooling\nHardware\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-kernel-performance-and-ai-tooling-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Localization\nApplied AI Engineering\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-localization-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Manufacturing Infrastructure\nHardware\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-manufacturing-infrastructure-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, ML Systems & Training Architecture\nRobotics\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-ml-systems-and-training-architecture-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Model Inference\nInference\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-model-inference-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Model Runtime\nHardware\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-model-runtime-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Monetization Delivery\nApplied AI Engineering\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-monetization-delivery-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Monetization ML Infrastructure\nApplied AI Engineering\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-monetization-ml-infrastructure-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Monetization Product & Platform\nApplied AI Engineering\n2 locations",
+    "url": "https://openai.com/careers/software-engineer-monetization-product-and-platform-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Native Learning Experiences\nApplied AI\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-native-learning-experiences-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Observability\nApplied AI Infrastructure\n3 locations",
+    "url": "https://openai.com/careers/software-engineer-observability-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Platform Systems\nSystems\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-platform-systems-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Plugin Developer Platform\nApplied AI Engineering\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-plugin-developer-platform-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer - Privacy & Compliance\nApplied AI Infrastructure\n2 locations",
+    "url": "https://openai.com/careers/software-engineer-privacy-and-compliance-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Privacy Engineering\nSecurity\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-privacy-engineering-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Privacy Engineering (Lawful Access)\nSecurity\n3 locations",
+    "url": "https://openai.com/careers/software-engineer-privacy-engineering-(lawful-access)-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Private Computing\nSoftware\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-private-computing-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Productivity - Inference Runtime\nRuntime\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-productivity-inference-runtime-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Productivity - Model Performance\nRuntime\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-productivity-model-performance-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Productivity - Networking\nRuntime\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-productivity-networking-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Quality & Developer Tools | Consumer Devices\nSoftware\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-quality-and-developer-tools-or-consumer-devices-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Research Developer Productivity\nFleet Clusters\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-research-developer-productivity-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Research - Human Data\nHuman Data\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-research-human-data-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Resilience Engineering\nApplied AI Infrastructure\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-resilience-engineering-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Safety Engineering\nSafety Systems\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-safety-engineering-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Scaled Abuse\nApplied AI Engineering\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-scaled-abuse-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Security Observability\nSecurity\n4 locations",
+    "url": "https://openai.com/careers/software-engineer-security-observability-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Silicon Design Methodology\nHardware\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-silicon-design-methodology-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Web Layer\nCodex - Engineering\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-web-layer-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Workload Enablement\nCompute\n2 locations",
+    "url": "https://openai.com/careers/software-engineer-workload-enablement-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Youth Well-Being\nApplied AI Engineering\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-youth-well-being-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "System Software Engineer, Consumer Devices\nSoftware\nSan Francisco",
+    "url": "https://openai.com/careers/system-software-engineer-consumer-devices-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Systems Software Engineer, Management Plane\nHardware\nSan Francisco",
+    "url": "https://openai.com/careers/systems-software-engineer-management-plane-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Systems Software Engineer, Security, First Party Hardware\nHardware\nSan Francisco",
+    "url": "https://openai.com/careers/systems-software-engineer-security-first-party-hardware-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Systems Software Engineer, Silicon Bringup\nHardware\nSan Francisco",
+    "url": "https://openai.com/careers/systems-software-engineer-silicon-bringup-san-francisco/",
+    "date": "2026-09-17"
+  },
+  {
     "site": "Meta New Grad",
     "title": "Network Production Engineer (University Grad)",
     "url": "https://www.metacareers.com/profile/job_details/28245852058411164",
