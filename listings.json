@@ -1,5 +1,41 @@
 [
   {
+    "site": "Nvidia",
+    "title": "ASIC Physical Design and Timing Engineer - New College Grad 2026\nJR2013177\nUS, CA, Santa Clara",
+    "url": "https://nvidia.eightfold.ai/careers/job/893393381575",
+    "date": "2026-09-23"
+  },
+  {
+    "site": "Nvidia",
+    "title": "RTL Power Optimization Engineer – New College Grad 2026\nJR2021841\nUS, CA, Santa Clara",
+    "url": "https://nvidia.eightfold.ai/careers/job/893396498365",
+    "date": "2026-09-23"
+  },
+  {
+    "site": "Nvidia",
+    "title": "ASIC Design Engineer - New College Grad 2026\nJR2021534\nUS, CA, Santa Clara",
+    "url": "https://nvidia.eightfold.ai/careers/job/893396422269",
+    "date": "2026-09-23"
+  },
+  {
+    "site": "Waymo",
+    "title": "2027 Summer Intern, MS/PhD, Machine Learning Engineer",
+    "url": "https://careers.withwaymo.com/jobs/2027-summer-intern-ms-phd-machine-learning-engineer-san-francisco-california-united-states",
+    "date": "2026-09-23"
+  },
+  {
+    "site": "Waymo",
+    "title": "2027 Summer Intern, PhD, Data Science",
+    "url": "https://careers.withwaymo.com/jobs/2027-summer-intern-phd-data-science-mountain-view-california-united-states-san-francisco",
+    "date": "2026-09-23"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Fullstack Software Engineer, Child Safety Tools & Systems\nIntelligence & Investigations\n2 locations",
+    "url": "https://openai.com/careers/fullstack-software-engineer-child-safety-tools-and-systems-san-francisco/",
+    "date": "2026-09-23"
+  },
+  {
     "site": "Google Intern",
     "title": "Associate Product Manager Intern, Summer 2027",
     "url": "https://www.google.com/about/careers/applications/jobs/results/134770032394543814-associate-product-manager-intern-summer-2027?location=United%20States&location=Canada&q=software&target_level=INTERN_AND_APPRENTICE&sort_by=date#!t=jo&jid=127025001&",
@@ -2440,23 +2476,5 @@
     "title": "Network Operations Engineer, Network (English)",
     "url": "https://www.google.com/about/careers/applications/jobs/results/108992348964168390-network-operations-engineer-network-english?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
     "date": "2026-07-27"
-  },
-  {
-    "site": "Apple",
-    "title": "Software Engineer - Customer Feedback",
-    "url": "https://jobs.apple.com/en-ca/details/200673955-3543/software-engineer-customer-feedback?team=SFTWR",
-    "date": "2026-07-24"
-  },
-  {
-    "site": "Apple",
-    "title": "Compute Runtime Software Engineer",
-    "url": "https://jobs.apple.com/en-ca/details/200673894-3337/compute-runtime-software-engineer?team=SFTWR",
-    "date": "2026-07-24"
-  },
-  {
-    "site": "Nvidia",
-    "title": "AI and ML Infra Software Engineer, GPU Clusters - New College Grad 2026\nJR2021591\nUS, CA, Santa Clara + 1 more",
-    "url": "https://nvidia.eightfold.ai/careers/job/893396547724",
-    "date": "2026-07-24"
   }
 ]
