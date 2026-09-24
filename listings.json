@@ -1,5 +1,47 @@
 [
   {
+    "site": "Ramp",
+    "title": "Software Engineer Internship, Frontend\nNew York, NY (HQ)",
+    "url": "https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74",
+    "date": "2026-09-24"
+  },
+  {
+    "site": "Ramp",
+    "title": "Software Engineering Intern, Backend\nNew York, NY (HQ)",
+    "url": "https://jobs.ashbyhq.com/ramp/acf6b28d-767f-483f-8ff2-114620cd7e04",
+    "date": "2026-09-24"
+  },
+  {
+    "site": "Ramp",
+    "title": "Software Engineering Intern, Android\nNew York, NY (HQ)",
+    "url": "https://jobs.ashbyhq.com/ramp/fcf118cc-521a-4a62-9d13-945e5b6e3cb8",
+    "date": "2026-09-24"
+  },
+  {
+    "site": "Ramp",
+    "title": "Software Engineering Intern, iOS\nNew York, NY (HQ)",
+    "url": "https://jobs.ashbyhq.com/ramp/b66be397-240b-41a6-9b05-493299b270a9",
+    "date": "2026-09-24"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Backend Software Engineer (Evals)\nApplied AI\n2 locations",
+    "url": "https://openai.com/careers/backend-software-engineer-(evals)-san-francisco/",
+    "date": "2026-09-24"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Backend (Cooperative AI)\nApplied AI\n2 locations",
+    "url": "https://openai.com/careers/software-engineer-backend-(cooperative-ai)-san-francisco/",
+    "date": "2026-09-24"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Cooperative AI\nApplied AI\n2 locations",
+    "url": "https://openai.com/careers/software-engineer-cooperative-ai-san-francisco/",
+    "date": "2026-09-24"
+  },
+  {
     "site": "Nvidia",
     "title": "Security Architect - New College Grad 2026\nJR2026387\nUS, CA, Santa Clara",
     "url": "https://nvidia.eightfold.ai/careers/job/893397830772",
