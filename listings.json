@@ -1,5 +1,17 @@
 [
   {
+    "site": "Waymo",
+    "title": "2027 Summer Intern, MS/PhD, Software Engineering, Onboard Software Integrity",
+    "url": "https://careers.withwaymo.com/jobs/2027-summer-intern-ms-phd-software-engineering-onboard-software-integrity-mountain-view-california-united-states",
+    "date": "2026-09-29"
+  },
+  {
+    "site": "Waymo",
+    "title": "2027 Summer Intern, PhD, Machine Learning Research, Planning/Prediction",
+    "url": "https://careers.withwaymo.com/jobs/2027-summer-intern-phd-machine-learning-research-planning-prediction-mountain-view-california-united-states",
+    "date": "2026-09-29"
+  },
+  {
     "site": "Google Early",
     "title": "Customer Solutions Engineer, Compute, Google Cloud",
     "url": "https://www.google.com/about/careers/applications/jobs/results/134203620697481926-customer-solutions-engineer-compute-google-cloud?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
@@ -2698,17 +2710,5 @@
     "title": "Software Engineer, User Frameworks\n\nSan Mateo, CA, United States\nEarly Career",
     "url": "https://careers.roblox.com/jobs/8080438",
     "date": "2026-07-31"
-  },
-  {
-    "site": "Discord",
-    "title": "Data Engineer",
-    "url": "https://discord.com/jobs/8614971002",
-    "date": "2026-07-30"
-  },
-  {
-    "site": "Apple",
-    "title": "Swift Software Engineer, SWE Program Tools",
-    "url": "https://jobs.apple.com/en-ca/details/200675075-0836/swift-software-engineer-swe-program-tools?team=SFTWR",
-    "date": "2026-07-30"
   }
 ]
