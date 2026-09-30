@@ -1,5 +1,29 @@
 [
   {
+    "site": "Coinbase",
+    "title": "Software Engineer, CDP - Foundations",
+    "url": "https://www.coinbase.com/careers/positions/8241522",
+    "date": "2026-09-30"
+  },
+  {
+    "site": "Nvidia",
+    "title": "Software Engineer, DGX Cloud AI Infrastructure - New College Grad 2026\nJR2026477\nUS, CA, Santa Clara + 4 more\nRemote",
+    "url": "https://nvidia.eightfold.ai/careers/job/893397930572",
+    "date": "2026-09-30"
+  },
+  {
+    "site": "Nvidia",
+    "title": "Software Engineer, DGX Cloud AI Infrastructure\nJR2019248\nUS, CA, Santa Clara + 4 more\nRemote",
+    "url": "https://nvidia.eightfold.ai/careers/job/893395427708",
+    "date": "2026-09-30"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Implicit Signals\nApplied AI Engineering\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-implicit-signals-san-francisco/",
+    "date": "2026-09-30"
+  },
+  {
     "site": "Waymo",
     "title": "2027 Summer Intern, PhD, Perception Systems Engineering: Pedestrian Detection Precision",
     "url": "https://careers.withwaymo.com/jobs/2027-summer-intern-phd-perception-systems-engineering-pedestrian-detection-precision-san-francisco-california-united-states",
@@ -2716,23 +2740,5 @@
     "title": "Software Engineer, Communications\n\nSan Mateo, CA, United States\nEarly Career",
     "url": "https://careers.roblox.com/jobs/8083944",
     "date": "2026-08-01"
-  },
-  {
-    "site": "Apple",
-    "title": "Compute Runtime Software Engineer",
-    "url": "https://jobs.apple.com/en-ca/details/200675127-3337/compute-runtime-software-engineer?team=SFTWR",
-    "date": "2026-07-31"
-  },
-  {
-    "site": "Coinbase",
-    "title": "Software Engineer, Developer Infrastructure",
-    "url": "https://www.coinbase.com/careers/positions/8022068",
-    "date": "2026-07-31"
-  },
-  {
-    "site": "Roblox",
-    "title": "Software Engineer, User Frameworks\n\nSan Mateo, CA, United States\nEarly Career",
-    "url": "https://careers.roblox.com/jobs/8080438",
-    "date": "2026-07-31"
   }
 ]
