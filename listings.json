@@ -1,5 +1,71 @@
 [
   {
+    "site": "Amazon",
+    "title": "Software Development Engineer Intern, AWS Database - 2027 (US)",
+    "url": "https://www.amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us",
+    "date": "2026-09-30"
+  },
+  {
+    "site": "Meta",
+    "title": "DFX Engineering Intern",
+    "url": "https://www.metacareers.com/profile/job_details/1095054769939445",
+    "date": "2026-09-30"
+  },
+  {
+    "site": "Ramp",
+    "title": "Applied Scientist Intern\nNew York, NY (HQ)",
+    "url": "https://jobs.ashbyhq.com/ramp/b39ceb08-a0a7-4f8b-a760-2fb88e209956",
+    "date": "2026-09-30"
+  },
+  {
+    "site": "Nvidia",
+    "title": "System Design Engineer - New College Grad 2026\nJR2011879\nUS, CA, Santa Clara",
+    "url": "https://nvidia.eightfold.ai/careers/job/893392898537",
+    "date": "2026-09-30"
+  },
+  {
+    "site": "Nvidia",
+    "title": "Mixed Signal Design Engineer - New College Grad 2026\nJR2025693\nUS, CA, Santa Clara + 1 more\nRemote",
+    "url": "https://nvidia.eightfold.ai/careers/job/893397883705",
+    "date": "2026-09-30"
+  },
+  {
+    "site": "Nvidia",
+    "title": "Applied Machine Learning Engineer, AI for VLSI Design - New College Grad 2026\nJR2026576\nUS, CA, Santa Clara",
+    "url": "https://nvidia.eightfold.ai/careers/job/893397927110",
+    "date": "2026-09-30"
+  },
+  {
+    "site": "Waymo",
+    "title": "2027 Summer Intern, BS, Software Engineering, Labeling",
+    "url": "https://careers.withwaymo.com/jobs/2027-summer-intern-bs-software-engineering-labeling-mountain-view-california-united-states",
+    "date": "2026-09-30"
+  },
+  {
+    "site": "Waymo",
+    "title": "2027 Summer Intern, MS/PhD, Software Engineer, Onboard Developer Platform",
+    "url": "https://careers.withwaymo.com/jobs/2027-summer-intern-ms-phd-software-engineer-onboard-developer-platform-mountain-view-california-united-states",
+    "date": "2026-09-30"
+  },
+  {
+    "site": "Waymo",
+    "title": "2027 Summer Intern, PhD, Road Understanding, ML Engineer",
+    "url": "https://careers.withwaymo.com/jobs/2027-summer-intern-phd-road-understanding-ml-engineer-mountain-view-california-united-states",
+    "date": "2026-09-30"
+  },
+  {
+    "site": "Block",
+    "title": "AI Evaluation Infrastructure Engineer\nRemote\nBay Area, CA, US",
+    "url": "https://block.xyz/careers/jobs/5434157008",
+    "date": "2026-09-30"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Compute - Storage\nCompute\n3 locations",
+    "url": "https://openai.com/careers/software-engineer-compute-storage-san-francisco/",
+    "date": "2026-09-30"
+  },
+  {
     "site": "Meta",
     "title": "DFX Engineering Intern",
     "url": "https://www.metacareers.com/profile/job_details/1683903403071591",
