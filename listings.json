@@ -1,5 +1,11 @@
 [
   {
+    "site": "Block",
+    "title": "Software Engineer, Program Engineering\nRemote\nBay Area, CA, US",
+    "url": "https://block.xyz/careers/jobs/5427880008",
+    "date": "2026-10-01"
+  },
+  {
     "site": "Amazon",
     "title": "Software Development Engineer Intern, AWS Database - 2027 (US)",
     "url": "https://www.amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us",
@@ -2782,41 +2788,5 @@
     "title": "Research Scientist, Electronic Design Automation - New College Grad 2026\nJR2012979\nUS, CA, Santa Clara",
     "url": "https://nvidia.eightfold.ai/careers/job/893393263747",
     "date": "2026-08-03"
-  },
-  {
-    "site": "Reddit",
-    "title": "Software Engineer\n\t\t\t\t\t\t\t\tRemote - Ontario, Canada",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/6909093",
-    "date": "2026-08-01"
-  },
-  {
-    "site": "Block",
-    "title": "Legal Systems Engineer\nRemote\nSan Francisco, CA, US",
-    "url": "https://block.xyz/careers/jobs/5195925008",
-    "date": "2026-08-01"
-  },
-  {
-    "site": "Block",
-    "title": "Legal Systems Engineer\nRemote\nSan Francisco, CA, US",
-    "url": "https://block.xyz/careers/jobs/5195926008",
-    "date": "2026-08-01"
-  },
-  {
-    "site": "Block",
-    "title": "Oracle Fusion Techno-Functional Developer - Remote, Canada\nRemote\nToronto, Ontario, Canada",
-    "url": "https://block.xyz/careers/jobs/5356620008",
-    "date": "2026-08-01"
-  },
-  {
-    "site": "Block",
-    "title": "Oracle Fusion Techno-Functional Developer- Remote, US\nRemote\nBay Area, CA, US",
-    "url": "https://block.xyz/careers/jobs/5356588008",
-    "date": "2026-08-01"
-  },
-  {
-    "site": "Roblox",
-    "title": "Software Engineer, Communications\n\nSan Mateo, CA, United States\nEarly Career",
-    "url": "https://careers.roblox.com/jobs/8083944",
-    "date": "2026-08-01"
   }
 ]
