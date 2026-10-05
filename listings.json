@@ -1,5 +1,35 @@
 [
   {
+    "site": "Meta",
+    "title": "Electrical Engineering Intern",
+    "url": "https://www.metacareers.com/profile/job_details/1105729655266553",
+    "date": "2026-10-05"
+  },
+  {
+    "site": "Waymo",
+    "title": "2027 Summer Intern, MS/PhD, ML Systems & Behavior Discovery",
+    "url": "https://careers.withwaymo.com/jobs/2027-summer-intern-ms-phd-ml-systems-behavior-discovery-mountain-view-california-united-states",
+    "date": "2026-10-05"
+  },
+  {
+    "site": "Waymo",
+    "title": "2027 Summer Intern, MS/PhD, Software Engineer, Eval Data Infra",
+    "url": "https://careers.withwaymo.com/jobs/2027-summer-intern-ms-phd-software-engineer-eval-data-infra-mountain-view-california-united-states",
+    "date": "2026-10-05"
+  },
+  {
+    "site": "Figma",
+    "title": "PhD Intern, AI Applied Scientist (2027)",
+    "url": "https://boards.greenhouse.io/figma/jobs/6207801004?gh_jid=6207801004",
+    "date": "2026-10-05"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Full Stack Software Engineer, Codex\nCodex - Engineering\nSan Francisco",
+    "url": "https://openai.com/careers/full-stack-software-engineer-codex-san-francisco/",
+    "date": "2026-10-05"
+  },
+  {
     "site": "Reddit",
     "title": "Senior Software Engineer - Full Stack Internal Tooling (Build and Deployment Platform)\n\t\t\t\t\t\t\t\tRemote - United States",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/7976852",
@@ -2938,41 +2968,5 @@
     "title": "SoC ASIC Verification Engineer – New College Grad 2026\nJR2015202\nUS, CA, Santa Clara",
     "url": "https://nvidia.eightfold.ai/careers/job/893394240098",
     "date": "2026-08-07"
-  },
-  {
-    "site": "Google Early",
-    "title": "Partner Solutions Engineer, Machine Learning and Digitization Operations",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/103944117418894022-partner-solutions-engineer-machine-learning-and-digitization-operations?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
-    "date": "2026-08-05"
-  },
-  {
-    "site": "Roblox",
-    "title": "[2027] Software Engineer, Early Career\n\nSan Mateo, CA, United States\nEarly Career",
-    "url": "https://careers.roblox.com/jobs/8072244",
-    "date": "2026-08-05"
-  },
-  {
-    "site": "Roblox",
-    "title": "[Summer 2027] Software Engineer Intern\n\nSan Mateo, CA, United States\nEarly Career",
-    "url": "https://careers.roblox.com/jobs/8072713",
-    "date": "2026-08-05"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Applied Machine Learning Engineer, Circuit Design - New College Grad 2026\nJR2011517\nUS, CA, Santa Clara + 1 more\nRemote",
-    "url": "https://nvidia.eightfold.ai/careers/job/893392916064",
-    "date": "2026-08-04"
-  },
-  {
-    "site": "Plaid",
-    "title": "Software Engineer",
-    "url": "https://plaid.com/careers/openings/engineering/london-office/software-engineer/",
-    "date": "2026-08-04"
-  },
-  {
-    "site": "Apple",
-    "title": "Software Engineer - Early Career (Front-end)",
-    "url": "https://jobs.apple.com/en-ca/details/200660851-0157/software-engineer-early-career-front-end?team=SFTWR",
-    "date": "2026-08-04"
   }
 ]
