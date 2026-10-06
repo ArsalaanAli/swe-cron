@@ -1,5 +1,71 @@
 [
   {
+    "site": "Amazon",
+    "title": "Software Development Engineer Intern - Mobile(iOS/Android) - Summer 2027 (USA)",
+    "url": "https://www.amazon.jobs/en/jobs/10571004/software-development-engineer-intern-mobile-ios-android-summer-2027-usa",
+    "date": "2026-10-06"
+  },
+  {
+    "site": "Meta",
+    "title": "Data Scientist Intern, Product Analytics (Summer 2027)",
+    "url": "https://www.metacareers.com/profile/job_details/1633096478817942",
+    "date": "2026-10-06"
+  },
+  {
+    "site": "Meta",
+    "title": "Software Engineering Intern",
+    "url": "https://www.metacareers.com/profile/job_details/1952991802037374",
+    "date": "2026-10-06"
+  },
+  {
+    "site": "Meta",
+    "title": "Software Engineer Intern, Machine Learning (PhD)",
+    "url": "https://www.metacareers.com/profile/job_details/2180490782513668",
+    "date": "2026-10-06"
+  },
+  {
+    "site": "Meta",
+    "title": "Software Engineer Intern, Systems and Infrastructure (PhD)",
+    "url": "https://www.metacareers.com/profile/job_details/945520495299801",
+    "date": "2026-10-06"
+  },
+  {
+    "site": "Nvidia",
+    "title": "Formal Verification Engineer - New College Grad 2026\nJR2020837\nUS, CA, Santa Clara",
+    "url": "https://nvidia.eightfold.ai/careers/job/893396250456",
+    "date": "2026-10-06"
+  },
+  {
+    "site": "Nvidia",
+    "title": "GPU PCIe and Boot Architect - New College Grad 2027\nJR2026276\nUS, CA, Santa Clara + 1 more",
+    "url": "https://nvidia.eightfold.ai/careers/job/893397964214",
+    "date": "2026-10-06"
+  },
+  {
+    "site": "Nvidia",
+    "title": "High Speed SerDes Validation Engineer - New College Grad 2026\nJR2026800\nUS, CA, Santa Clara",
+    "url": "https://nvidia.eightfold.ai/careers/job/893398029500",
+    "date": "2026-10-06"
+  },
+  {
+    "site": "Waymo",
+    "title": "2027 Summer Intern, BS, Waymo ML Ops & Automation",
+    "url": "https://careers.withwaymo.com/jobs/2027-summer-intern-bs-waymo-ml-ops-automation-mountain-view-california-united-states",
+    "date": "2026-10-06"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Frontend Software Engineer, Codex App\nApplied AI Engineering\nSan Francisco",
+    "url": "https://openai.com/careers/frontend-software-engineer-codex-app-san-francisco/",
+    "date": "2026-10-06"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Shop/Feed Ads\nApplied AI Engineering\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-shopfeed-ads-san-francisco/",
+    "date": "2026-10-06"
+  },
+  {
     "site": "Google Early",
     "title": "Customer and Partner Solutions Engineer, gUP Core Third-Party Identity",
     "url": "https://www.google.com/about/careers/applications/jobs/results/124025104404226758-customer-and-partner-solutions-engineer-gup-core-thirdparty-identity?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
