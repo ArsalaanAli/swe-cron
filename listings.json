@@ -1,6 +1,30 @@
 [
   {
     "site": "Amazon",
+    "title": "Software Development Engineer (Embedded Systems) Intern, Amazon Leo - Summer 2027 (USA)",
+    "url": "https://www.amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa",
+    "date": "2026-10-07"
+  },
+  {
+    "site": "Waymo",
+    "title": "2027 Summer Intern, BS, Software Engineer, Model Eval",
+    "url": "https://careers.withwaymo.com/jobs/2027-summer-intern-bs-software-engineer-model-eval-mountain-view-california-united-states",
+    "date": "2026-10-07"
+  },
+  {
+    "site": "Waymo",
+    "title": "2027 Summer Intern, MS, PhD, Software Engineer",
+    "url": "https://careers.withwaymo.com/jobs/2027-summer-intern-ms-phd-software-engineer-mountain-view-california-united-states-20d2d61e-755a-483f-80df-2c1c196c2743",
+    "date": "2026-10-07"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Life Sciences\nLife Sciences\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-life-sciences-san-francisco/",
+    "date": "2026-10-07"
+  },
+  {
+    "site": "Amazon",
     "title": "Software Development Engineer Intern - Mobile(iOS/Android) - Summer 2027 (USA)",
     "url": "https://www.amazon.jobs/en/jobs/10571004/software-development-engineer-intern-mobile-ios-android-summer-2027-usa",
     "date": "2026-10-06"
@@ -3010,59 +3034,5 @@
     "title": "Low Power ASIC Engineer - New College Grad 2026\nJR2017005\nUS, CA, Santa Clara",
     "url": "https://nvidia.eightfold.ai/careers/job/893394874489",
     "date": "2026-08-08"
-  },
-  {
-    "site": "Google Early",
-    "title": "Software Developer, Early Career, Campus",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/120686451305128646-software-developer-early-career-campus?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
-    "date": "2026-08-07"
-  },
-  {
-    "site": "Google Early",
-    "title": "Data Engineer, gTech Users and Products Engineering",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/127904573342786246-data-engineer-gtech-users-and-products-engineering?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
-    "date": "2026-08-07"
-  },
-  {
-    "site": "Google Early",
-    "title": "Software Engineer, Early Career, Campus",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/78703249065943750-software-engineer-early-career-campus?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
-    "date": "2026-08-07"
-  },
-  {
-    "site": "Block",
-    "title": "Software Engineer, Finance Applications\nRemote\nBay Area, CA, US",
-    "url": "https://block.xyz/careers/jobs/4901418008",
-    "date": "2026-08-07"
-  },
-  {
-    "site": "Coinbase",
-    "title": "Software Engineer, CDP - Stablecoin",
-    "url": "https://www.coinbase.com/careers/positions/8092485",
-    "date": "2026-08-07"
-  },
-  {
-    "site": "Coinbase",
-    "title": "Software Engineer, Data Platform Team",
-    "url": "https://www.coinbase.com/careers/positions/8113286",
-    "date": "2026-08-07"
-  },
-  {
-    "site": "Plaid",
-    "title": "Transforming engineers: How we grew AI coding adoption at Plaid\n\nRead the article",
-    "url": "https://plaid.com/blog/ai-coding-adoption-plaid/",
-    "date": "2026-08-07"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Technical Product Marketing Engineer, Metropolis - New College Grad 2026\nJR2022906\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893396905668",
-    "date": "2026-08-07"
-  },
-  {
-    "site": "Nvidia",
-    "title": "SoC ASIC Verification Engineer – New College Grad 2026\nJR2015202\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893394240098",
-    "date": "2026-08-07"
   }
 ]
