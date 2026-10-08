@@ -1,5 +1,11 @@
 [
   {
+    "site": "Reddit",
+    "title": "Android Software Engineer, Consumer Engineering\n\t\t\t\t\t\t\t\tSan Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8263406",
+    "date": "2026-10-08"
+  },
+  {
     "site": "Meta",
     "title": "Data Center Technician, Intern",
     "url": "https://www.metacareers.com/profile/job_details/2185283202380208",
@@ -3082,11 +3088,5 @@
     "title": "Frontend Engineer, EE&P - IS&T Early Career",
     "url": "https://jobs.apple.com/en-ca/details/200676168-0157/frontend-engineer-ee-p-is-t-early-career?team=SFTWR",
     "date": "2026-08-10"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Low Power ASIC Engineer - New College Grad 2026\nJR2017005\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893394874489",
-    "date": "2026-08-08"
   }
 ]
