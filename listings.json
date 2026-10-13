@@ -1,5 +1,95 @@
 [
   {
+    "site": "Meta",
+    "title": "Signal Integrity Intern",
+    "url": "https://www.metacareers.com/profile/job_details/2262379047961521",
+    "date": "2026-10-13"
+  },
+  {
+    "site": "Meta",
+    "title": "Research Scientist Intern, AI & System Co-Design (PhD)",
+    "url": "https://www.metacareers.com/profile/job_details/1062032900196411",
+    "date": "2026-10-13"
+  },
+  {
+    "site": "Meta",
+    "title": "Research Scientist Intern, AI & Compute Foundation - MTIA SW (PhD)",
+    "url": "https://www.metacareers.com/profile/job_details/1866761794487684",
+    "date": "2026-10-13"
+  },
+  {
+    "site": "Meta",
+    "title": "Research Scientist Intern, Systems ML - SW/HW Co-Design - CPUSys (PhD)",
+    "url": "https://www.metacareers.com/profile/job_details/2192664358300823",
+    "date": "2026-10-13"
+  },
+  {
+    "site": "Meta",
+    "title": "Research Scientist Intern, VLM and Omni Model Post-Training (PhD)",
+    "url": "https://www.metacareers.com/profile/job_details/2988199118196184",
+    "date": "2026-10-13"
+  },
+  {
+    "site": "Meta",
+    "title": "Research Scientist Intern, Audio-Visual Conversation Scene Generation (PhD)",
+    "url": "https://www.metacareers.com/profile/job_details/3364701000388712",
+    "date": "2026-10-13"
+  },
+  {
+    "site": "Meta",
+    "title": "Research Scientist Intern, 3D World Modeling, Robotics and Generative AI (PhD)",
+    "url": "https://www.metacareers.com/profile/job_details/1839680137188723",
+    "date": "2026-10-13"
+  },
+  {
+    "site": "Meta",
+    "title": "Research Scientist Intern, Multimodal Generative AI and Robotics (PhD)",
+    "url": "https://www.metacareers.com/profile/job_details/1139865145249047",
+    "date": "2026-10-13"
+  },
+  {
+    "site": "Meta New Grad",
+    "title": "Research Scientist Intern, AI & Compute Foundation - MTIA SW (PhD)",
+    "url": "https://www.metacareers.com/profile/job_details/1866761794487684",
+    "date": "2026-10-13"
+  },
+  {
+    "site": "Meta New Grad",
+    "title": "Research Scientist Intern, Systems ML - SW/HW Co-Design - CPUSys (PhD)",
+    "url": "https://www.metacareers.com/profile/job_details/2192664358300823",
+    "date": "2026-10-13"
+  },
+  {
+    "site": "Meta New Grad",
+    "title": "Materials Regulatory Compliance (MRC) Intern",
+    "url": "https://www.metacareers.com/profile/job_details/1054006261009917",
+    "date": "2026-10-13"
+  },
+  {
+    "site": "Meta New Grad",
+    "title": "ASIC Engineer, Performance Architecture and Modeling (University Grad)",
+    "url": "https://www.metacareers.com/profile/job_details/4596319193960098",
+    "date": "2026-10-13"
+  },
+  {
+    "site": "Nvidia",
+    "title": "Formal Verification Engineer - New College Grad 2026\nJR2007627\nUS, CA, Santa Clara",
+    "url": "https://nvidia.eightfold.ai/careers/job/893391950915",
+    "date": "2026-10-13"
+  },
+  {
+    "site": "Figma",
+    "title": "PhD Intern, Software Engineer - Graphics (2027)",
+    "url": "https://boards.greenhouse.io/figma/jobs/6219995004?gh_jid=6219995004",
+    "date": "2026-10-13"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Cloud Computer\nCodex - Engineering\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-cloud-computer-san-francisco/",
+    "date": "2026-10-13"
+  },
+  {
     "site": "Nvidia",
     "title": "Senior Software Engineer, PyTorch - Deep Learning\nJR2027669\nUS, CA, Santa Clara + 5 more\nRemote",
     "url": "https://nvidia.eightfold.ai/careers/job/893398125732",
