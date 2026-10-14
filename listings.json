@@ -1,6 +1,90 @@
 [
   {
     "site": "Meta",
+    "title": "Product Design Engineering Intern",
+    "url": "https://www.metacareers.com/profile/job_details/1123001263407222",
+    "date": "2026-10-14"
+  },
+  {
+    "site": "Meta",
+    "title": "Mechanical Engineering Intern, Infrastructure",
+    "url": "https://www.metacareers.com/profile/job_details/2863542050708101",
+    "date": "2026-10-14"
+  },
+  {
+    "site": "Meta",
+    "title": "Production Systems Engineering Intern",
+    "url": "https://www.metacareers.com/profile/job_details/1423159169992675",
+    "date": "2026-10-14"
+  },
+  {
+    "site": "Meta",
+    "title": "Mechanical Engineering Intern",
+    "url": "https://www.metacareers.com/profile/job_details/3255073444698138",
+    "date": "2026-10-14"
+  },
+  {
+    "site": "Meta",
+    "title": "Thermal Engineering Intern",
+    "url": "https://www.metacareers.com/profile/job_details/1114875338141580",
+    "date": "2026-10-14"
+  },
+  {
+    "site": "Meta New Grad",
+    "title": "ASIC Engineer, Design (University Grad)",
+    "url": "https://www.metacareers.com/profile/job_details/1084023187741651",
+    "date": "2026-10-14"
+  },
+  {
+    "site": "Meta New Grad",
+    "title": "Mechanical Engineering Intern, Infrastructure",
+    "url": "https://www.metacareers.com/profile/job_details/2863542050708101",
+    "date": "2026-10-14"
+  },
+  {
+    "site": "Nvidia",
+    "title": "SoC Software Engineer - New College Grad 2027\nJR2026744\nUS, CA, Santa Clara",
+    "url": "https://nvidia.eightfold.ai/careers/job/893397905459",
+    "date": "2026-10-14"
+  },
+  {
+    "site": "Nvidia",
+    "title": "SoC Software Engineer – New College Graduate 2026\nJR2027552\nUS, CA, Santa Clara",
+    "url": "https://nvidia.eightfold.ai/careers/job/893398092324",
+    "date": "2026-10-14"
+  },
+  {
+    "site": "Nvidia",
+    "title": "ASIC Verification Engineer - New College Grad 2027\nJR2027719\nUS, CA, Santa Clara",
+    "url": "https://nvidia.eightfold.ai/careers/job/893398154484",
+    "date": "2026-10-14"
+  },
+  {
+    "site": "Nvidia",
+    "title": "Low Power ASIC Engineer - New College Grad 2027\nJR2027850\nUS, CA, Santa Clara",
+    "url": "https://nvidia.eightfold.ai/careers/job/893398154501",
+    "date": "2026-10-14"
+  },
+  {
+    "site": "Nvidia",
+    "title": "SRAM Circuit Design Engineer - New College Grad 2026\nJR2027839\nUS, CA, Santa Clara",
+    "url": "https://nvidia.eightfold.ai/careers/job/893398154555",
+    "date": "2026-10-14"
+  },
+  {
+    "site": "Nvidia",
+    "title": "GPU Verification Engineer - New College Grad 2026\nJR2022102\nUS, MA, Westford",
+    "url": "https://nvidia.eightfold.ai/careers/job/893396584106",
+    "date": "2026-10-14"
+  },
+  {
+    "site": "Waymo",
+    "title": "2027 Summer Intern, MS/PhD, Machine Learning, Planning/Prediction",
+    "url": "https://careers.withwaymo.com/jobs/2027-summer-intern-ms-phd-machine-learning-planning-prediction-mountain-view-california-united-states",
+    "date": "2026-10-14"
+  },
+  {
+    "site": "Meta",
     "title": "Signal Integrity Intern",
     "url": "https://www.metacareers.com/profile/job_details/2262379047961521",
     "date": "2026-10-13"
@@ -3298,65 +3382,5 @@
     "title": "Software Development Engineer, Early Career - 2026",
     "url": "https://www.amazon.jobs/en/jobs/10502743/software-development-engineer-early-career-2026",
     "date": "2026-08-15"
-  },
-  {
-    "site": "Google Early",
-    "title": "Network Implementation Engineer",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/111837229537469126-network-implementation-engineer?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
-    "date": "2026-08-14"
-  },
-  {
-    "site": "Block",
-    "title": "Enterprise People Platform Engineer\nRemote\nBay Area, CA, US",
-    "url": "https://block.xyz/careers/jobs/5381210008",
-    "date": "2026-08-14"
-  },
-  {
-    "site": "Meta",
-    "title": "Research Scientist Intern, AI/ML, Core Ads Growth (PhD)",
-    "url": "https://www.metacareers.com/profile/job_details/771948392580541",
-    "date": "2026-08-14"
-  },
-  {
-    "site": "Meta",
-    "title": "Research Scientist Intern, Applied Vision and Image Quality (PhD)",
-    "url": "https://www.metacareers.com/profile/job_details/1422892385992613",
-    "date": "2026-08-14"
-  },
-  {
-    "site": "Meta New Grad",
-    "title": "Production Engineer (University Grad)",
-    "url": "https://www.metacareers.com/profile/job_details/1570473568087646",
-    "date": "2026-08-14"
-  },
-  {
-    "site": "Roblox",
-    "title": "Software Engineer, Creator Business\n\nSan Mateo, CA, United States\nEarly Career",
-    "url": "https://careers.roblox.com/jobs/8113334",
-    "date": "2026-08-14"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Software Engineer, Deep Learning Libraries - New College Graduate 2026\nJR2023252\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893397020477",
-    "date": "2026-08-14"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Infrastructure Software Engineer, Deep Learning Libraries\nJR2018616\nChina, Shanghai + 1 more",
-    "url": "https://nvidia.eightfold.ai/careers/job/893395294498",
-    "date": "2026-08-14"
-  },
-  {
-    "site": "Nvidia",
-    "title": "System Software Engineer, SOC, New College Graduate\nJR2020781\nTaiwan, Taipei + 1 more",
-    "url": "https://nvidia.eightfold.ai/careers/job/893396044327",
-    "date": "2026-08-14"
-  },
-  {
-    "site": "Discord",
-    "title": "QA/DevOps Engineer",
-    "url": "https://discord.com/jobs/8703614002",
-    "date": "2026-08-14"
   }
 ]
