@@ -1,5 +1,17 @@
 [
   {
+    "site": "Reddit",
+    "title": "Machine Learning Engineer, Answers Relevance\n\t\t\t\t\t\t\t\tRemote - United States",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8299781",
+    "date": "2026-10-19"
+  },
+  {
+    "site": "Reddit",
+    "title": "Software Engineer, Agent Optimization & Evaluation\n\t\t\t\t\t\t\t\tRemote - United States",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8275745",
+    "date": "2026-10-19"
+  },
+  {
     "site": "Coinbase",
     "title": "Software Engineer",
     "url": "https://www.coinbase.com/careers/positions/8003605",
@@ -3466,47 +3478,5 @@
     "title": "Research Scientist Intern, Optical System Design (PhD)",
     "url": "https://www.metacareers.com/profile/job_details/1796691991338568",
     "date": "2026-08-20"
-  },
-  {
-    "site": "Coinbase",
-    "title": "Software Engineer, Frontend (Coinbase Advisor - Agentic Trading)",
-    "url": "https://www.coinbase.com/careers/positions/8070574",
-    "date": "2026-08-19"
-  },
-  {
-    "site": "Google Early",
-    "title": "Network Implementation Engineer, Production Network Implementation",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/84341669247230662-network-implementation-engineer-production-network-implementation?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
-    "date": "2026-08-19"
-  },
-  {
-    "site": "Duolingo",
-    "title": "Software Engineer I, iOS, Growth",
-    "url": "https://careers.duolingo.com/jobs/8612080002",
-    "date": "2026-08-19"
-  },
-  {
-    "site": "Duolingo",
-    "title": "Software Engineer I, iOS",
-    "url": "https://careers.duolingo.com/jobs/8612080002",
-    "date": "2026-08-19"
-  },
-  {
-    "site": "Plaid",
-    "title": "Software Engineer, Backend",
-    "url": "https://plaid.com/careers/openings/engineering/new-york-city-office/software-engineer-backend-2/",
-    "date": "2026-08-19"
-  },
-  {
-    "site": "Plaid",
-    "title": "Software Engineer, Full Stack",
-    "url": "https://plaid.com/careers/openings/engineering/san-francisco-hq/software-engineer-full-stack-2/",
-    "date": "2026-08-19"
-  },
-  {
-    "site": "Reddit",
-    "title": "Software Engineer, Content Platform\n\t\t\t\t\t\t\t\tRemote - United States",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/8139781",
-    "date": "2026-08-18"
   }
 ]
