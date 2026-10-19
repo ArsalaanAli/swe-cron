@@ -1,5 +1,101 @@
 [
   {
+    "site": "Amazon",
+    "title": "Software Development Engineer, Early Career - 2027 (CAN)",
+    "url": "https://www.amazon.jobs/en/jobs/10583004/software-development-engineer-early-career-2027-can",
+    "date": "2026-10-19"
+  },
+  {
+    "site": "Meta",
+    "title": "Thermal Engineer Intern",
+    "url": "https://www.metacareers.com/profile/job_details/1866779221408793",
+    "date": "2026-10-19"
+  },
+  {
+    "site": "Meta",
+    "title": "Research Scientist Intern, Multimodal LLM and Speech-to-Speech Translation (PhD)",
+    "url": "https://www.metacareers.com/profile/job_details/4723409617931131",
+    "date": "2026-10-19"
+  },
+  {
+    "site": "Meta",
+    "title": "Research Scientist Intern, Robotics Hardware (PhD)",
+    "url": "https://www.metacareers.com/profile/job_details/2105411693413958",
+    "date": "2026-10-19"
+  },
+  {
+    "site": "Meta",
+    "title": "Research Scientist Intern, 3D-grounded Generalist Model for Robotics (PhD)",
+    "url": "https://www.metacareers.com/profile/job_details/2267351860492630",
+    "date": "2026-10-19"
+  },
+  {
+    "site": "Meta",
+    "title": "Research Scientist Intern, Audio User Experience (PhD)",
+    "url": "https://www.metacareers.com/profile/job_details/1736386761384394",
+    "date": "2026-10-19"
+  },
+  {
+    "site": "Meta",
+    "title": "Optical Engineering AI and Data Analytics Intern",
+    "url": "https://www.metacareers.com/profile/job_details/1851348099357899",
+    "date": "2026-10-19"
+  },
+  {
+    "site": "Meta",
+    "title": "Softgoods Product Design Engineering Intern",
+    "url": "https://www.metacareers.com/profile/job_details/1111723361506997",
+    "date": "2026-10-19"
+  },
+  {
+    "site": "Reddit",
+    "title": "Software Engineer, Content Platform\n\t\t\t\t\t\t\t\tRemote - United States",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8139781",
+    "date": "2026-10-19"
+  },
+  {
+    "site": "Plaid",
+    "title": "Software Engineer, Backend",
+    "url": "https://plaid.com/careers/openings/engineering/new-york-city-office/software-engineer-backend-2/",
+    "date": "2026-10-19"
+  },
+  {
+    "site": "Plaid",
+    "title": "Software Engineer, Full Stack",
+    "url": "https://plaid.com/careers/openings/engineering/san-francisco-hq/software-engineer-full-stack-2/",
+    "date": "2026-10-19"
+  },
+  {
+    "site": "Apple",
+    "title": "Software Engineer, IS&T Early Career Opportunities",
+    "url": "https://jobs.apple.com/en-ca/details/200689349-0836/software-engineer-is-t-early-career-opportunities?team=SFTWR",
+    "date": "2026-10-19"
+  },
+  {
+    "site": "Apple",
+    "title": "Software Engineer, IS&T Early Career Opportunities",
+    "url": "https://jobs.apple.com/en-ca/details/200689349-3956/software-engineer-is-t-early-career-opportunities?team=SFTWR",
+    "date": "2026-10-19"
+  },
+  {
+    "site": "Apple",
+    "title": "Software Engineer, IS&T Early Career Opportunities",
+    "url": "https://jobs.apple.com/en-ca/details/200688599-0157/software-engineer-is-t-early-career-opportunities?team=SFTWR",
+    "date": "2026-10-19"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, Backend — Dots\nApplied AI Engineering\nNew York City",
+    "url": "https://openai.com/careers/software-engineer-backend-dots-new-york-city/",
+    "date": "2026-10-19"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer, CI/CD & ML Infrastructure\nHardware\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-cicd-and-ml-infrastructure-san-francisco/",
+    "date": "2026-10-19"
+  },
+  {
     "site": "Reddit",
     "title": "Machine Learning Engineer, Answers Relevance\n\t\t\t\t\t\t\t\tRemote - United States",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/8299781",
