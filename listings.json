@@ -1,6 +1,24 @@
 [
   {
     "site": "Amazon",
+    "title": "Software Development Engineer, Early Career - 2027 (US)",
+    "url": "https://www.amazon.jobs/en/jobs/10583340/software-development-engineer-early-career-2027-us",
+    "date": "2026-10-20"
+  },
+  {
+    "site": "Meta",
+    "title": "Research Scientist Intern, On-Device AI Model Optimization (PhD)",
+    "url": "https://www.metacareers.com/profile/job_details/4455569504707135",
+    "date": "2026-10-20"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Backend Software Engineer, Cooperative AI (Evals)\nApplied AI\n2 locations",
+    "url": "https://openai.com/careers/backend-software-engineer-cooperative-ai-(evals)-san-francisco/",
+    "date": "2026-10-20"
+  },
+  {
+    "site": "Amazon",
     "title": "Software Development Engineer, Early Career - 2027 (CAN)",
     "url": "https://www.amazon.jobs/en/jobs/10583004/software-development-engineer-early-career-2027-can",
     "date": "2026-10-19"
@@ -3562,17 +3580,5 @@
     "title": "Software Engineering Intern (2027 Start) - Winter\nBellevue, Washington; Mountain View, California; San Francisco, California",
     "url": "https://www.databricks.com/company/careers/university-recruiting/software-engineering-intern-2027-start---winter-8732364002",
     "date": "2026-08-21"
-  },
-  {
-    "site": "Google Early",
-    "title": "Data Engineer, Google Maps",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/72704944984990406-data-engineer-google-maps?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
-    "date": "2026-08-20"
-  },
-  {
-    "site": "Meta",
-    "title": "Research Scientist Intern, Optical System Design (PhD)",
-    "url": "https://www.metacareers.com/profile/job_details/1796691991338568",
-    "date": "2026-08-20"
   }
 ]
