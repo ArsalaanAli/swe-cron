@@ -1,5 +1,11 @@
 [
   {
+    "site": "OpenAI",
+    "title": "Software Engineer, Privacy Engineering (Lawful Access)\nSecurity\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-privacy-engineering-(lawful-access)-san-francisco/",
+    "date": "2026-10-22"
+  },
+  {
     "site": "Meta",
     "title": "Research Scientist Intern, Foundational Models for Robotics Research (PhD)",
     "url": "https://www.metacareers.com/profile/job_details/1078644001656413",
@@ -3730,11 +3736,5 @@
     "title": "Cell Modeling and Verification Engineer - New College Grad 2026\nJR2011631\nUS, CA, Santa Clara",
     "url": "https://nvidia.eightfold.ai/careers/job/893392886848",
     "date": "2026-08-24"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Architecture Energy Modeling Engineer - New College Grad 2026\nJR2023398\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893397266929",
-    "date": "2026-08-22"
   }
 ]
