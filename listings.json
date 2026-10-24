@@ -1,5 +1,41 @@
 [
   {
+    "site": "Amazon",
+    "title": "Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA)",
+    "url": "https://www.amazon.jobs/en/jobs/10587999/software-development-engineer-intern-amazon-leo-summer-2027-usa",
+    "date": "2026-10-24"
+  },
+  {
+    "site": "Meta",
+    "title": "Research Scientist Intern, Policy Learning for Robotics (PhD)",
+    "url": "https://www.metacareers.com/profile/job_details/2554989011673624",
+    "date": "2026-10-24"
+  },
+  {
+    "site": "Meta",
+    "title": "Research Scientist Intern, Wearable Sensing & Human Motion Analysis",
+    "url": "https://www.metacareers.com/profile/job_details/1137225375529389",
+    "date": "2026-10-24"
+  },
+  {
+    "site": "Waymo",
+    "title": "2027 Summer Intern, MS/PhD, Software Engineer, ML Frameworks and Efficiency",
+    "url": "https://careers.withwaymo.com/jobs/2027-summer-intern-ms-phd-software-engineer-ml-frameworks-and-efficiency-mountain-view-california-united-states",
+    "date": "2026-10-24"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Full Stack Software Engineer, Monetization Platform\nApplied AI Engineering\n2 locations",
+    "url": "https://openai.com/careers/full-stack-software-engineer-monetization-platform-san-francisco/",
+    "date": "2026-10-24"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Software Engineer\nAlignment\nSan Francisco",
+    "url": "https://openai.com/careers/software-engineer-san-francisco/",
+    "date": "2026-10-24"
+  },
+  {
     "site": "Meta",
     "title": "Research Scientist Intern, Meta Recommendation Systems - Core ML (PhD)",
     "url": "https://www.metacareers.com/profile/job_details/1023154190171838",
@@ -3814,65 +3850,5 @@
     "title": "Software Engineer, Infrastructure Services (Cloud Network Fault Tolerance)",
     "url": "https://jobs.apple.com/en-ca/details/200679765-3401/software-engineer-infrastructure-services-cloud-network-fault-tolerance?team=SFTWR",
     "date": "2026-08-25"
-  },
-  {
-    "site": "Amazon",
-    "title": "Software Development Engineer – Database 2026 (US)",
-    "url": "https://www.amazon.jobs/en/jobs/3130865/software-development-engineer-database-2026-us",
-    "date": "2026-08-24"
-  },
-  {
-    "site": "Google Intern",
-    "title": "Software Engineering Intern, PhD, Summer 2027",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/91436104816698054-software-engineering-intern-phd-summer-2027?location=United%20States&location=Canada&q=software&target_level=INTERN_AND_APPRENTICE&sort_by=date#!t=jo&jid=127025001&",
-    "date": "2026-08-24"
-  },
-  {
-    "site": "Reddit",
-    "title": "Machine Learning Systems Engineer, Ads ML Platform\n\t\t\t\t\t\t\t\tRemote - The Netherlands",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/8022942",
-    "date": "2026-08-24"
-  },
-  {
-    "site": "Reddit",
-    "title": "Machine Learning Systems Engineer, Ads ML Platform\n\t\t\t\t\t\t\t\tRemote - United Kingdom",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/8022937",
-    "date": "2026-08-24"
-  },
-  {
-    "site": "Google Intern",
-    "title": "Software Developer Intern, PhD, Summer 2027",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/112518690523488966-software-developer-intern-phd-summer-2027?location=United%20States&location=Canada&q=software&target_level=INTERN_AND_APPRENTICE&sort_by=date#!t=jo&jid=127025001&",
-    "date": "2026-08-24"
-  },
-  {
-    "site": "Google Intern",
-    "title": "Software Engineering Intern, PhD, Summer 2026",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/91436104816698054-software-engineering-intern-phd-summer-2026?location=United%20States&location=Canada&q=software&target_level=INTERN_AND_APPRENTICE&sort_by=date#!t=jo&jid=127025001&",
-    "date": "2026-08-24"
-  },
-  {
-    "site": "Google Intern",
-    "title": "Research Intern, PhD, Summer 2027",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/104496653687235270-research-intern-phd-summer-2027?location=United%20States&location=Canada&q=software&target_level=INTERN_AND_APPRENTICE&sort_by=date#!t=jo&jid=127025001&",
-    "date": "2026-08-24"
-  },
-  {
-    "site": "Google Intern",
-    "title": "Research Intern, PhD, Summer 2027",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/86701057991680710-research-intern-phd-summer-2027?location=United%20States&location=Canada&q=software&target_level=INTERN_AND_APPRENTICE&sort_by=date#!t=jo&jid=127025001&",
-    "date": "2026-08-24"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Power Methodology and Modeling Engineer - New College Grad 2026\nJR2017486\nUS, TX, Austin",
-    "url": "https://nvidia.eightfold.ai/careers/job/893395016029",
-    "date": "2026-08-24"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Cell Modeling and Verification Engineer - New College Grad 2026\nJR2011631\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893392886848",
-    "date": "2026-08-24"
   }
 ]
