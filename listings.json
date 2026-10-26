@@ -1,5 +1,59 @@
 [
   {
+    "site": "Google Early",
+    "title": "Associate Partner Solutions Engineer, gTech Ads Sellside",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/99231697823769286-associate-partner-solutions-engineer-gtech-ads-sellside?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
+    "date": "2026-10-26"
+  },
+  {
+    "site": "Meta",
+    "title": "Research Scientist Intern, Generative Recommendation Systems (PhD)",
+    "url": "https://www.metacareers.com/profile/job_details/3265378000517806",
+    "date": "2026-10-26"
+  },
+  {
+    "site": "Meta",
+    "title": "Business Analytics Intern (2027), Reality Labs Devices Operations",
+    "url": "https://www.metacareers.com/profile/job_details/1653804269586821",
+    "date": "2026-10-26"
+  },
+  {
+    "site": "Meta",
+    "title": "Research Scientist Intern, Robotics",
+    "url": "https://www.metacareers.com/profile/job_details/1471718241508516",
+    "date": "2026-10-26"
+  },
+  {
+    "site": "Meta",
+    "title": "Technical Program Manager Intern, Reality Labs — 2027",
+    "url": "https://www.metacareers.com/profile/job_details/1649069223327170",
+    "date": "2026-10-26"
+  },
+  {
+    "site": "Meta",
+    "title": "Battery Engineering Intern, Cell Engineering (PhD)",
+    "url": "https://www.metacareers.com/profile/job_details/938682979075854",
+    "date": "2026-10-26"
+  },
+  {
+    "site": "Meta",
+    "title": "Research Intern, Embedded AI on Wearables (PhD)",
+    "url": "https://www.metacareers.com/profile/job_details/4070678619908522",
+    "date": "2026-10-26"
+  },
+  {
+    "site": "Meta New Grad",
+    "title": "Business Analytics Intern (2027), Reality Labs Devices Operations",
+    "url": "https://www.metacareers.com/profile/job_details/1653804269586821",
+    "date": "2026-10-26"
+  },
+  {
+    "site": "Meta New Grad",
+    "title": "Technical Program Manager Intern, Reality Labs — 2027",
+    "url": "https://www.metacareers.com/profile/job_details/1649069223327170",
+    "date": "2026-10-26"
+  },
+  {
     "site": "Reddit",
     "title": "Software Engineer, Ad Signals\n\t\t\t\t\t\t\t\tRemote - United States",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/8319655",
@@ -3838,53 +3892,5 @@
     "title": "Systems Engineer",
     "url": "https://jobs.apple.com/en-ca/details/200680183-0836/systems-engineer?team=SFTWR",
     "date": "2026-08-27"
-  },
-  {
-    "site": "Discord",
-    "title": "Software Engineer, Developer Success",
-    "url": "https://discord.com/jobs/8609250002",
-    "date": "2026-08-26"
-  },
-  {
-    "site": "Nvidia",
-    "title": "ASIC Clocks Verification Engineer - New College Grad 2026\nJR2013336\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893393391163",
-    "date": "2026-08-26"
-  },
-  {
-    "site": "Roblox",
-    "title": "Software Engineer, Creator Studio\n\nSan Mateo, CA, United States\nEarly Career",
-    "url": "https://careers.roblox.com/jobs/8131689",
-    "date": "2026-08-26"
-  },
-  {
-    "site": "Nvidia",
-    "title": "ASIC Verification Engineer - New College Grad 2026\nJR2012573\nUS, TX, Austin + 1 more",
-    "url": "https://nvidia.eightfold.ai/careers/job/893393262025",
-    "date": "2026-08-25"
-  },
-  {
-    "site": "Google Early",
-    "title": "Network Implementation Engineer, Network Delivery Implementation",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/87970615964639942-network-implementation-engineer-network-delivery-implementation?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
-    "date": "2026-08-25"
-  },
-  {
-    "site": "Amazon",
-    "title": "Software Development Engineer, Amazon Leo, Early Career - 2026",
-    "url": "https://www.amazon.jobs/en/jobs/10513110/software-development-engineer-amazon-leo-early-career-2026",
-    "date": "2026-08-25"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Circuit Design Engineer - New College Grad 2026\nJR2019567\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893395488559",
-    "date": "2026-08-25"
-  },
-  {
-    "site": "Apple",
-    "title": "Software Engineer, Infrastructure Services (Cloud Network Fault Tolerance)",
-    "url": "https://jobs.apple.com/en-ca/details/200679765-3401/software-engineer-infrastructure-services-cloud-network-fault-tolerance?team=SFTWR",
-    "date": "2026-08-25"
   }
 ]
