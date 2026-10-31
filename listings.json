@@ -1,6 +1,42 @@
 [
   {
     "site": "Amazon",
+    "title": "Software Development Engineer (Database) Early Career- 2027 (US)",
+    "url": "https://www.amazon.jobs/en/jobs/10593902/software-development-engineer-database-early-career-2027-us",
+    "date": "2026-10-31"
+  },
+  {
+    "site": "Meta",
+    "title": "Research Scientist Intern, Video RecSys (PhD)",
+    "url": "https://www.metacareers.com/profile/job_details/1553890293163197",
+    "date": "2026-10-31"
+  },
+  {
+    "site": "Meta",
+    "title": "Research Scientist Intern, Computer Vision - Video Intelligence (PhD)",
+    "url": "https://www.metacareers.com/profile/job_details/1126899676481179",
+    "date": "2026-10-31"
+  },
+  {
+    "site": "Meta New Grad",
+    "title": "Research Scientist Intern, Video RecSys (PhD)",
+    "url": "https://www.metacareers.com/profile/job_details/1553890293163197",
+    "date": "2026-10-31"
+  },
+  {
+    "site": "Nvidia",
+    "title": "Software Engineer, Hardware Tools and Methodology - New College Grad 2026\nJR2018659\nUS, CA, Santa Clara",
+    "url": "https://nvidia.eightfold.ai/careers/job/893395241786",
+    "date": "2026-10-31"
+  },
+  {
+    "site": "Nvidia",
+    "title": "GPU Architect - New College Graduate 2027\nJR2022870\nChina, Shanghai",
+    "url": "https://nvidia.eightfold.ai/careers/job/893397786026",
+    "date": "2026-10-31"
+  },
+  {
+    "site": "Amazon",
     "title": "Software Development Engineer Intern, Machine Learning/Automated Reasoning- Summer 2027",
     "url": "https://www.amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027",
     "date": "2026-10-30"
@@ -4054,53 +4090,5 @@
     "title": "Developer Technology Engineer, AI - New College Graduate 2026\nJR2024557\nUS, CA, Santa Clara + 5 more",
     "url": "https://nvidia.eightfold.ai/careers/job/893397489288",
     "date": "2026-09-01"
-  },
-  {
-    "site": "Google Intern",
-    "title": "Software Engineering Intern, BS, Summer 2027",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/100648618540573382-software-engineering-intern-bs-summer-2027?location=United%20States&location=Canada&q=software&target_level=INTERN_AND_APPRENTICE&sort_by=date#!t=jo&jid=127025001&",
-    "date": "2026-08-31"
-  },
-  {
-    "site": "Google Intern",
-    "title": "Software Engineering Intern, MS, Summer 2027",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/94172495052972742-software-engineering-intern-ms-summer-2027?location=United%20States&location=Canada&q=software&target_level=INTERN_AND_APPRENTICE&sort_by=date#!t=jo&jid=127025001&",
-    "date": "2026-08-31"
-  },
-  {
-    "site": "Google Early",
-    "title": "Software Engineer",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/106684387621249734-software-engineer?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
-    "date": "2026-08-31"
-  },
-  {
-    "site": "Nvidia",
-    "title": "ASIC Floorplan Design Engineer - New College Grad 2026\nJR2024651\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893397488368",
-    "date": "2026-08-31"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Circuit Design Engineer - New College Grad 2026\nJR2018635\nUS, CA, Santa Clara + 1 more\nRemote",
-    "url": "https://nvidia.eightfold.ai/careers/job/893395273228",
-    "date": "2026-08-31"
-  },
-  {
-    "site": "Waymo",
-    "title": "2027 Summer Intern, MS/PhD, Data Science - Commercialization Testing",
-    "url": "https://careers.withwaymo.com/jobs/2027-summer-intern-ms-phd-data-science-commercialization-testing-san-francisco-california-united-states",
-    "date": "2026-08-31"
-  },
-  {
-    "site": "Google Intern",
-    "title": "Software Developer Intern, BS, Summer 2027",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/123510626377966278-software-developer-intern-bs-summer-2027?location=United%20States&location=Canada&q=software&target_level=INTERN_AND_APPRENTICE&sort_by=date#!t=jo&jid=127025001&",
-    "date": "2026-08-31"
-  },
-  {
-    "site": "Google Intern",
-    "title": "Software Developer Intern, MS, Summer 2027",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/138960139137753798-software-developer-intern-ms-summer-2027?location=United%20States&location=Canada&q=software&target_level=INTERN_AND_APPRENTICE&sort_by=date#!t=jo&jid=127025001&",
-    "date": "2026-08-31"
   }
 ]
