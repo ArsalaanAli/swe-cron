@@ -1,5 +1,11 @@
 [
   {
+    "site": "Reddit",
+    "title": "Software Engineer, Infrastructure Engineering\n\t\t\t\t\t\t\t\tRemote - United States",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/8337444",
+    "date": "2026-11-03"
+  },
+  {
     "site": "Meta",
     "title": "Research Scientist Intern, Robotic Control Policy (PhD)",
     "url": "https://www.metacareers.com/profile/job_details/1872420890835857",
@@ -4138,29 +4144,5 @@
     "title": "Software Development Engineer, Amazon Dedicated Cloud, Early Career - 2026",
     "url": "https://www.amazon.jobs/en/jobs/10529546/software-development-engineer-amazon-dedicated-cloud-early-career-2026",
     "date": "2026-09-04"
-  },
-  {
-    "site": "Coinbase",
-    "title": "Software Engineer, Blockchain Platform Nodes",
-    "url": "https://www.coinbase.com/careers/positions/8105437",
-    "date": "2026-09-03"
-  },
-  {
-    "site": "Waymo",
-    "title": "2027 Summer Intern, BS/MS, Pipeline and Test Health Engineer",
-    "url": "https://careers.withwaymo.com/jobs/2027-summer-intern-bs-ms-pipeline-and-test-health-engineer-san-francisco-california-united-states",
-    "date": "2026-09-03"
-  },
-  {
-    "site": "Waymo",
-    "title": "2027 Summer Intern, MS, Software Engineering, Behavior Test",
-    "url": "https://careers.withwaymo.com/jobs/2027-summer-intern-ms-software-engineering-behavior-test-san-francisco-california-united-states",
-    "date": "2026-09-03"
-  },
-  {
-    "site": "Waymo",
-    "title": "2027 Summer Intern, BS, SysEng Software Engineer",
-    "url": "https://careers.withwaymo.com/jobs/2027-summer-intern-bs-syseng-software-engineer-mountain-view-california-united-states",
-    "date": "2026-09-03"
   }
 ]
