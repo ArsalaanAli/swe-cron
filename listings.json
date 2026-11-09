@@ -1,5 +1,53 @@
 [
   {
+    "site": "Meta",
+    "title": "Strategic Sourcing Manager Intern — Reality Labs Hardware (2027)",
+    "url": "https://www.metacareers.com/profile/job_details/1632929388311563",
+    "date": "2026-11-09"
+  },
+  {
+    "site": "Meta",
+    "title": "Research Scientist Intern, Computational Photography & Computer Vision (PhD)",
+    "url": "https://www.metacareers.com/profile/job_details/1670489511324528",
+    "date": "2026-11-09"
+  },
+  {
+    "site": "Meta",
+    "title": "AI Research Scientist Intern, Neural Interfaces(PhD)",
+    "url": "https://www.metacareers.com/profile/job_details/1436615821934863",
+    "date": "2026-11-09"
+  },
+  {
+    "site": "Coinbase",
+    "title": "Software Engineer-1",
+    "url": "https://www.coinbase.com/careers/positions/8278991",
+    "date": "2026-11-09"
+  },
+  {
+    "site": "Coinbase",
+    "title": "Software Engineer, Wallets, Liquidity and Bridging Team",
+    "url": "https://www.coinbase.com/careers/positions/8139750",
+    "date": "2026-11-09"
+  },
+  {
+    "site": "Apple",
+    "title": "Tools & Automation Engineer — Early Career",
+    "url": "https://jobs.apple.com/en-ca/details/200692689-3956/tools-automation-engineer-early-career?team=SFTWR",
+    "date": "2026-11-09"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Full-Stack Software Engineer, Child Safety Tools & Systems\nApplied AI\nSan Francisco",
+    "url": "https://openai.com/careers/full-stack-software-engineer-child-safety-tools-and-systems-san-francisco-2/",
+    "date": "2026-11-09"
+  },
+  {
+    "site": "OpenAI",
+    "title": "Full-Stack Software Engineer, Intelligence & Investigations\nApplied AI\n2 locations",
+    "url": "https://openai.com/careers/full-stack-software-engineer-intelligence-and-investigations-san-francisco/",
+    "date": "2026-11-09"
+  },
+  {
     "site": "OpenAI",
     "title": "Full Stack Software Engineer - Codex for Finance\nApplied AI Infrastructure\nNew York City",
     "url": "https://openai.com/careers/full-stack-software-engineer-codex-for-finance-new-york-city/",
@@ -4294,107 +4342,5 @@
     "title": "TPU SoC Design Engineer, Google Cloud",
     "url": "https://www.google.com/about/careers/applications/jobs/results/99835095900136134-tpu-soc-design-engineer-google-cloud?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
     "date": "2026-09-10"
-  },
-  {
-    "site": "Coinbase",
-    "title": "Software Engineer, Developer Infrastructure",
-    "url": "https://www.coinbase.com/careers/positions/7991839",
-    "date": "2026-09-09"
-  },
-  {
-    "site": "Discord",
-    "title": "Oracle ERP Fusion Technical Developer",
-    "url": "https://discord.com/jobs/8627078002",
-    "date": "2026-09-09"
-  },
-  {
-    "site": "Meta New Grad",
-    "title": "EMC Design Engineer (University Grad)",
-    "url": "https://www.metacareers.com/profile/job_details/2263213181184248",
-    "date": "2026-09-09"
-  },
-  {
-    "site": "Ramp",
-    "title": "University Grad | Customer Experience Associate\nNew York, NY (HQ)",
-    "url": "https://jobs.ashbyhq.com/ramp/fc971889-db1d-4a20-a25e-f282f9296936",
-    "date": "2026-09-09"
-  },
-  {
-    "site": "Coinbase Intern",
-    "title": "Software Engineer Intern",
-    "url": "https://www.coinbase.com/careers/positions/8168315",
-    "date": "2026-09-08"
-  },
-  {
-    "site": "Coinbase",
-    "title": "Software Engineer- Money Movement",
-    "url": "https://www.coinbase.com/careers/positions/8177946",
-    "date": "2026-09-08"
-  },
-  {
-    "site": "Coinbase",
-    "title": "Software Engineer Intern",
-    "url": "https://www.coinbase.com/careers/positions/8168315",
-    "date": "2026-09-08"
-  },
-  {
-    "site": "Amazon",
-    "title": "Software Development Engineer – Amazon Leo (US)",
-    "url": "https://www.amazon.jobs/en/jobs/3144341/software-development-engineer-amazon-leo-us",
-    "date": "2026-09-08"
-  },
-  {
-    "site": "Amazon",
-    "title": "Software Development Engineer, AWS Data Services - 2026 (US)",
-    "url": "https://www.amazon.jobs/en/jobs/10414316/software-development-engineer-aws-data-services-2026-us",
-    "date": "2026-09-08"
-  },
-  {
-    "site": "Discord",
-    "title": "Software Engineer, Data Platform",
-    "url": "https://discord.com/jobs/8396927002",
-    "date": "2026-09-08"
-  },
-  {
-    "site": "Nvidia",
-    "title": "ASIC Physical Design Engineer, Netlisting - New College Grad 2026\nJR2017681\nUS, CA, Santa Clara + 1 more",
-    "url": "https://nvidia.eightfold.ai/careers/job/893395048676",
-    "date": "2026-09-08"
-  },
-  {
-    "site": "Datadog",
-    "title": "Software Engineering Intern (Summer)",
-    "url": "https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118",
-    "date": "2026-09-08"
-  },
-  {
-    "site": "Plaid",
-    "title": "Software Engineer, Full Stack",
-    "url": "https://plaid.com/careers/openings/engineering/new-york-city-office/software-engineer-full-stack/",
-    "date": "2026-09-08"
-  },
-  {
-    "site": "Plaid",
-    "title": "Software Engineer, Backend",
-    "url": "https://plaid.com/careers/openings/engineering/san-francisco-hq/software-engineer-backend/",
-    "date": "2026-09-08"
-  },
-  {
-    "site": "Apple",
-    "title": "iOS/tvOS Software Engineer, Siri Home Devices",
-    "url": "https://jobs.apple.com/en-ca/details/200652186-0836/ios-tvos-software-engineer-siri-home-devices?team=SFTWR",
-    "date": "2026-09-08"
-  },
-  {
-    "site": "Google Intern",
-    "title": "Research Intern, PhD, Summer 2027",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/131287072689267398-research-intern-phd-summer-2027?location=United%20States&location=Canada&q=software&target_level=INTERN_AND_APPRENTICE&sort_by=date#!t=jo&jid=127025001&",
-    "date": "2026-09-08"
-  },
-  {
-    "site": "Google Early",
-    "title": "Software Engineer, Search Ads in AI Experiences",
-    "url": "https://www.google.com/about/careers/applications/jobs/results/99532077367468742-software-engineer-search-ads-in-ai-experiences?location=United%20States&location=Canada&q=software&sort_by=date&target_level=EARLY#!t=jo&jid=127025001&",
-    "date": "2026-09-08"
   }
 ]
