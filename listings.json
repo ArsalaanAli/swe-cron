@@ -1,5 +1,11 @@
 [
   {
+    "site": "OpenAI",
+    "title": "Full Stack Software Engineer, Travel\nApplied AI Infrastructure\nSan Francisco",
+    "url": "https://openai.com/careers/full-stack-software-engineer-travel-san-francisco/",
+    "date": "2026-11-16"
+  },
+  {
     "site": "DoorDash",
     "title": "Software Engineer, Intern (Summer 2027) - US",
     "url": "https://careersatdoordash.com/jobs/software-engineer-intern-summer-2027---us/8171041",
@@ -4396,41 +4402,5 @@
     "title": "Software Engineer, Consumer Engineering\n\t\t\t\t\t\t\t\tRemote - United States",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/8172457",
     "date": "2026-09-17"
-  },
-  {
-    "site": "Coinbase",
-    "title": "Software Engineer",
-    "url": "https://www.coinbase.com/careers/positions/8207374",
-    "date": "2026-09-16"
-  },
-  {
-    "site": "Waymo",
-    "title": "2027 Summer Intern, MS/PhD, Software Engineer",
-    "url": "https://careers.withwaymo.com/jobs/2027-summer-intern-ms-phd-software-engineer-mountain-view-california-united-states",
-    "date": "2026-09-16"
-  },
-  {
-    "site": "Waymo",
-    "title": "2027 Summer Intern, PhD, Machine Learning, Computer Vision",
-    "url": "https://careers.withwaymo.com/jobs/2027-summer-intern-phd-machine-learning-computer-vision-mountain-view-california-united-states-dd7f67a9-785d-4e4d-9e38-23add9b03cc6",
-    "date": "2026-09-16"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Software Engineer, Coding Agent Harness Engineering - New College Grad 2026\nJR2023749\nUS, CA, Remote + 1 more\nRemote",
-    "url": "https://nvidia.eightfold.ai/careers/job/893397115817",
-    "date": "2026-09-16"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Backend Compiler Engineer - New College Grad 2026\nJR2021242\nUS, CA, Santa Clara",
-    "url": "https://nvidia.eightfold.ai/careers/job/893396325243",
-    "date": "2026-09-16"
-  },
-  {
-    "site": "Nvidia",
-    "title": "Harness and Platform Engineer, AI Safety and Security Engineering\nJR2021886\nUS, CA, Santa Clara + 5 more\nRemote",
-    "url": "https://nvidia.eightfold.ai/careers/job/893396714506",
-    "date": "2026-09-16"
   }
 ]
