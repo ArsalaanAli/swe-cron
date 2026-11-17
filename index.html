@@ -300,6 +300,11 @@
       letter-spacing: -0.01em;
     }
 
+    .card-refresh {
+      color: var(--text-secondary);
+      font-weight: 400;
+    }
+
     .card-meta {
       font-size: 0.75rem;
       color: var(--text-tertiary);
@@ -465,7 +470,9 @@
           <a class="card" href="${url}" target="_blank" rel="noopener">
             <span class="badge ${badgeClass(site)}">${site}</span>
             <div class="card-body">
-              <div class="card-title">${title}</div>
+              <div class="card-title">${title.startsWith('(Refresh) ')
+                ? `<span class="card-refresh">(Refresh)</span> ${title.slice(10)}`
+                : title}</div>
               ${meta ? `<div class="card-meta">${meta}</div>` : ''}
             </div>
             <span class="card-date">${formatDate(date)}</span>

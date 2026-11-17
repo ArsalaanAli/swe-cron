@@ -19,6 +19,8 @@ LISTINGS_PATH = Path(__file__).with_name("listings.json")
 titleTags = ["intern", "grad", "early"]
 ignoredSeniorTitles = ["senior", "sr", "staff", "principal", "lead", "director", "manager", "vp", "head", "distinguished", "ii"]
 roleTitles = ["engineer", "software", "developer"]
+REFRESH_PREFIX = "(Refresh) "
+REFRESH_AFTER_DAYS = 60
 
 
 def load_sites() -> Dict[str, Dict[str, str]]:
@@ -163,41 +165,28 @@ def load_listings() -> List[Dict[str, Optional[str]]]:
 		return json.load(fh)
 
 
+def listing_key(job: Dict[str, Optional[str]]):
+	# Strip the refresh prefix so a refreshed listing still matches its scraped title
+	title = job.get("title") or ""
+	if title.startswith(REFRESH_PREFIX):
+		title = title[len(REFRESH_PREFIX):]
+	return (job.get("site"), title, job.get("url"))
+
+
 def find_new_listings(current: List[Dict[str, Optional[str]]], existing: List[Dict[str, Optional[str]]]) -> List[Dict[str, Optional[str]]]:
-	existing_keys = set()
-	for job in existing:
-		key = (job.get("site"), job.get("title"), job.get("url"))
-		existing_keys.add(key)
-	
-	new = []
-	for job in current:
-		key = (job.get("site"), job.get("title"), job.get("url"))
-		if key not in existing_keys:
-			new.append(job)
-	return new
+	existing_keys = {listing_key(job) for job in existing}
+	return [job for job in current if listing_key(job) not in existing_keys]
 
 
-def prune_old_listings(
-	listings: List[Dict[str, Optional[str]]],
-	max_age_days: int = 60
-) -> List[Dict[str, Optional[str]]]:
-	today = date.today()
-	cutoff = today - timedelta(days=max_age_days)
-
-	pruned: List[Dict[str, Optional[str]]] = []
-	for listing in listings:
-		listing_date_str = listing.get("date")
-		if not listing_date_str:
-			pruned.append(listing)
-			continue
-		try:
-			listing_date = date.fromisoformat(str(listing_date_str))
-		except ValueError:
-			pruned.append(listing)
-			continue
-		if listing_date >= cutoff:
-			pruned.append(listing)
-	return pruned
+def is_expired(listing: Dict[str, Optional[str]], max_age_days: int = REFRESH_AFTER_DAYS) -> bool:
+	listing_date_str = listing.get("date")
+	if not listing_date_str:
+		return False
+	try:
+		listing_date = date.fromisoformat(str(listing_date_str))
+	except ValueError:
+		return False
+	return listing_date < date.today() - timedelta(days=max_age_days)
 
 
 def save_listings(jobs: List[Dict[str, Optional[str]]]) -> None:	
@@ -313,16 +302,25 @@ def main() -> None:
 			print(f"- [{job['site']}] {job['title']} -> {job['url']}")
 		return
 
-	existing = load_listings()
+	# Expired listings are kept until now so we can tell which "new" postings are
+	# actually refreshes of jobs we already sent that are still live.
+	loaded = load_listings()
+	existing = [l for l in loaded if not is_expired(l)]
+	expired_keys = {listing_key(l) for l in loaded if is_expired(l)}
 	new_listings = find_new_listings(unique, existing)
 
 	if not new_listings:
 		print("No new intern postings found.")
+		if len(existing) != len(loaded):
+			save_listings(existing)
+			print(f"Pruned {len(loaded) - len(existing)} expired listings.")
 		return
 
 	today = date.today().isoformat()
 	for listing in new_listings:
 		listing["date"] = today
+		if listing_key(listing) in expired_keys:
+			listing["title"] = REFRESH_PREFIX + listing["title"]
 
 	print(f"\n{len(new_listings)} new intern job postings found")
 	# for job in new_listings:
@@ -331,7 +329,6 @@ def main() -> None:
 	notify_new_listings(new_listings, pushover_token, pushover_user)
 
 	all_listings = new_listings + existing
-	all_listings = prune_old_listings(all_listings)
 	save_listings(all_listings)
 	print(f"\nListings saved. Total postings: {len(all_listings)}")
 
