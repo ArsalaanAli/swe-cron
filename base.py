@@ -20,7 +20,7 @@ titleTags = ["intern", "grad", "early"]
 ignoredSeniorTitles = ["senior", "sr", "staff", "principal", "lead", "director", "manager", "vp", "head", "distinguished", "ii"]
 roleTitles = ["engineer", "software", "developer"]
 REFRESH_PREFIX = "(Refresh) "
-REFRESH_AFTER_DAYS = 60
+REFRESH_AFTER_DAYS = 90
 
 
 def load_sites() -> Dict[str, Dict[str, str]]:
